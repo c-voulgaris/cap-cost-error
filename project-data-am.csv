@@ -1,0 +1,63 @@
+ID,Name,Year of initial milestone,Number of stations,Project type,Funding program,City,State,Mode
+200,Mason Transportation Corridor,2001,15,Expansion,New Starts,Fort Collins,Colorado,Bus Rapid Transit
+201,San Fernando Valley East-West Transit Corridor,2000,NAV,Introduction,New Starts,Los Angeles,California,Bus Rapid Transit
+202,Mid-city/ Exposition LRT,2001,2,Expansion,New Starts,Los Angeles,California,Light Rail
+203,East Central Corridor,1993,7,Expansion,New Starts,Los Angeles,California,Light Rail
+204,Eastside Corridor LRT,2000,8,Introduction of New Mode,New Starts,Los Angeles,California,Light Rail
+811-b,MOS-2,1990,,Expansion of Existing System,New Starts,Los Angeles,California,Heavy Rail
+811-c1,MOS-3 Eastside Corridor,1993,,Expansion of Existing System,New Starts,Los Angeles,California,Heavy Rail
+811-c2,MOS-3-North Hollywood Extension,1997,,Expansion of Existing System,New Starts,Los Angeles,California,Heavy Rail
+811-c3,MOS-3- The Mid-City Extension,1993,,Expansion of Existing System,New Starts,Los Angeles,California,Heavy Rail
+811-c,MOS-3 ,1993,,Expansion of Existing System,New Starts,Los Angeles,California,Heavy Rail
+851,LOSSAN Rail Corridor Improvement Project ,,,Improvement of Existing Service,New Starts,Los Angeles,California,Commuter Rail
+,Metro Gold Line Eastside Extension ,2004,,Expansion of Existing System,New Starts,Los Angeles,California,Light Rail
+I,Regional Connector,2011,,Introduction of New Mode,New Starts,Los Angeles,California,Light Rail
+,Westside Subway Section 1 ,,,,,Los Angeles,California,Heavy Rail
+,Regional Connector Transit Corridor,2011,,Expansion of Existing System,New Starts,Los Angeles,California,Light Rail
+,Westside Subway Extension Section 1,2011,,Expansion of Existing System,New Starts,Los Angeles,California,Heavy Rail
+,Westside Purple Line Extension Section 1,2012,,Expansion of Existing System,New Starts,Los Angeles,California,Heavy Rail
+,Westside Purple Line Extension Section 2,2014,,Expansion of Existing System,New Starts,Los Angeles,California,Heavy Rail
+,Westside Purple Line Extension Section 3,2018,,Expansion of Existing System,New Starts,Los Angeles,California,Heavy Rail
+,Downtown Los Angeles Streetcar,2013,,Introduction of New Mode,Small Starts,Los Angeles,California,Streetcar
+,,2000,,Introduction of New Mode,New Starts,Los Angeles,California,Bus Rapid Transit
+821,BART Airport Extension ,1996,,Expansion of Existing System,New Starts,San Francisco Area,California,Heavy Rail
+822,San Francisco (Bayshore) ,1996,,Introduction of New Mode,New Starts,San Francisco Area,California,Light Rail
+822,Central Subway LRT ,2002,,Expansion of Existing System,New Starts,San Francisco Area,California,Light Rail
+,Third Street Light Rail Phase 1 ,1996,,Expansion of Existing System,New Starts,San Francisco,California,Light Rail
+,Third Street Light Rail Phase 2 – Central Subway,2002,,Expansion of Existing System,New Starts,San Francisco,California,Light Rail
+,Van Ness Avenue BRT ,2007,,Introduction of New Mode,Small Starts,San Francisco,California,Bus Rapid Transit
+,Transbay Corridor ,2015,,Introduction of New Mode,Core Capacity,San Francisco,California,Heavy Rail
+831,South corridor (IOS-1),1997,,Introduction of New Mode,New Starts,Sacramento,California,Light Rail
+,South  Corridor Phase Light Rail Transit Extension,2005,,Expansion of Existing System,New Starts,Sacramento,California,Light Rail
+,South Sacramento Corridor Phase 2 Light Rail Transit,2012,,Expansion of Existing System,New Starts,Sacramento,California,Light Rail
+,Downtown Riverfront Streetcar,2014,,Introduction of New Mode,Small Starts,Sacramento,California,Streetcar
+841,Tasman LRT (West Extension),1992,,Expansion of Existing System,New Starts,San Jose,California,Light Rail
+,El Camino Real Corridor BRT Project ,2013,,Introduction of New Mode,Small Starts,San Jose,California,Bus Rapid Transit
+,Silicon Valley Berryessa Extension Project,2002,,Expansion of Existing System,New Starts,San Jose,California,Heavy Rail
+,Silicon Valley Berryessa Extension Project,2012,,Expansion of Existing System,New Starts,San Jose,California,Bus Rapid Transit
+,Silicon Valley Phase II,2016,,Expansion of Existing System,New Starts,San Jose,California,Bus Rapid Transit
+861-a,Mid Coast Corridor (LR),,,Expansion of Existing System,New Starts,San Diego County,California,Light Rail
+861-a1,Mid Coast Corridor (LR-Initial rail improvement),1996,,Expansion of Existing System,New Starts,San Diego County,California,
+861-b,Mid Coast Corridor (Commuter rail improvements),,,Improvement of Existing Service,New Starts,San Diego County,California,Commuter Rail
+861-c,Mid Coast Corridor (HOV lanes) ,,,,New Starts,San Diego County,California,
+861-a,Mid Coast Corridor (LR),,,Expansion of Existing System,New Starts,San Diego County,California,Light Rail
+,Oceanside-Escondido Rail Corridor ,2000,,Conversion,New Starts,San Diego County,California,Diesel Multiple Units 
+871,I-405/SR-55 Transitway and Direct Access HOV Ramps ,,,Improvement of Existing Service,New Starts,Orange County,California,Transitway
+,CenterLine LRT Project ,1998,,Introduction of New Mode,New Starts,Orange County,California,Light Rail
+,"San Diego County, California/Mission Valley East ",1998,,Expansion of Existing System,New Starts,San Diego,California,Light Rail
+,Mid-Coast Corridor Transit Project,2011,,Expansion of Existing System,New Starts,San Diego,California,Light Rail
+,Mid-Coast Corridor  Project,2011,,Expansion of Existing System,New Starts,San Diego,California,Transitway
+,Caltrain Peninsula Corridor Electrification Project ,2015,,Improvement of Existing Service,Core Capacity,San Carlos ,California,Commuter Rail
+,Blackstone/Kings Canyon Bus Rapid Transit,2010,,Introduction of New Mode,Small Starts,Fresno,California,Bus Rapid Transit
+,Fresno Area Express “Q” Blackstone/Kings Canyon,2014,,Improvement of Existing Service,Small Starts,Fresno,California,Bus Rapid Transit
+,Garden Grove Streetcar,2015,,,New Starts,Santa Ana,California,Streetcar
+,East Bay BRT,2008,,Introduction of New Mode,Small Starts,San Leandro,California,Bus Rapid Transit
+,San Rafael to Larkspur Regional Connection,2013,,Expansion of Existing System,Small Starts,San Rafael,California,Commuter Rail
+,Redlands Passenger Rail Project,2016,,,Small Starts,San Bernadino,California,
+,West Valley Connector,,,Introduction of New Mode,Small Starts,San Bernadino,California,Bus Rapid Transit
+,SPRINTER Light Rail (Oceanside-Escondido) ,2000,,Introduction of New Mode,New Starts,Oceanside,California,Light Rail
+,SURF ,,,Introduction of New Mode,Small Starts,Monterey,California,Bus Rapid Transit
+911,South LRT,1995,,Introduction of New Mode,New Starts,Salt Lake City,Utah ,Light Rail
+912,Downtown connector ,1998,,Expansion of Existing System,New Starts,Salt Lake City,Utah ,Light Rail
+,Mid-Jordan LRT ,2007,,Expansion of Existing System,New Starts,Salt Lake City,Utah ,Light Rail
+,Weber County to Salt Lake City Commuter Rail ,2003,,Introduction of New Mode,New Starts,Salt Lake City,Utah ,Commuter Rail
