@@ -1,0 +1,138 @@
+﻿ID,Name,Year,Milestone,Project length,Expected cost,Expected 5309 contribution,Expected other federal funds,Expected opening
+401,Atlanta/North Line Extension,1994,FFGA Awarded,1.9,$381.31 ,$305.01 , $-   ,2000
+401,Atlanta/North Line Extension,1994,FFGA Awarded,1.9,$463.18 ,$305.01 , $-   ,NAV
+401,Atlanta/North Line Extension,1999,FFGA Awarded,1.9,$463.18 ,$370.54 , $-   ,2000
+401,Atlanta/North Line Extension,2000,Project Opening,1.9,$472.70 ,$370.54 ,NAV,2000
+402,Baltimore LRT Extensions ,1994,FFGA Awarded,7.25,$106.34 ,$84.90 , NAV ,1997
+402,Baltimore LRT Extensions ,1997,Project Opening,7.3,$116.20 ,$84.90 ,NAV,1997
+403,Baltimore Central Light Rail Double Tracking ,1999,Preliminary Engineering,9.4,$153.70 ,$120.00 , NAV ,NAV
+403,Baltimore Central Light Rail Double Tracking ,2001,Final Design,9.4,$153.70 ,$120.00 ,$3.00 ,NAV
+403,Baltimore Central Light Rail Double Tracking ,2001,FFGA Awarded,9.4,$153.70 ,$120.00 ,$3.00 ,2006
+403,Baltimore Central Light Rail Double Tracking ,2006,Project Opening,9.4,$151.60 ,$120.00 ,NAV,"$2,006.00 "
+404,MARC Commuter Rail Improvements,2000,Preliminary Engineering,NA,$85.10 ,$40.90 ,$13.50 ,NAV
+404,MARC Commuter Rail Improvements,2003,Preliminary Engineering,NA,$90.70 ,$61.50 , NAV ,NAV
+405,MARC Penn-Camden connection ,2000,Final Design,30.8,$30.80 ,$12.40 , NAV ,NAV
+406,MARC Frederick Extension & Rolling Stock Procurement ,1995,FFGA Awarded,NAV,$131.56 ,$105.25 , $-   ,2001
+407,Baltimore Red Line,2011,Preliminary Engineering,14.5,"$2,219.25 ","$1,109.00 ", $-   ,2021
+407,Baltimore Red Line,2012,Project Development,14.1,"$2,574.80 ","$1,250.00 ", $-   ,2021
+407,Baltimore Red Line,2014,Project Development,14.1,"$2,644.52 ",$900.00 , $-   ,2022
+407,Baltimore Red Line,2013,Project Development,14.1,"$2,997.75 ",$900.00 ,$55.20 ,2023
+407,Baltimore Red Line,2015,Project Cancelled,,,,,
+408,Maryland National Capital Purple Line,2011,Preliminary Engineering,16.2,"$1,925.46 ",$962.60 , $-   ,2020
+408,Maryland National Capital Purple Line,2012,Project Development,16.2,"$2,151.66 ","$1,053.00 ", $-   ,2020
+408,Maryland National Capital Purple Line,2014,Project Development,16.2,"$2,371.15 ",$900.00 , $-   ,2020
+408,Maryland National Capital Purple Line,2014,Engineering,16.2,"$2,448.22 ",$900.00 , $-   ,2020
+408,Maryland National Capital Purple Line,2017,FFGA Awarded,16.2,"$2,407.03 ",$900.00 ,$36.00 ,2022
+409a,South Boston Piers Phase I (MOS-2),1993,Preliminary Engineering,1,$413.41 ,$330.73 , $-   ,2000
+409a,South Boston Piers Phase I (MOS-2),1994,FFGA Awarded,1,$413.41 ,$330.73 , $-   ,2000
+409a,South Boston Piers Phase I (MOS-2),1994,FFGA Awarded,1,$513.41 ,$330.73 ,$82.68 ,2002
+409a,South Boston Piers Phase I (MOS-2),1994,FFGA Awarded,1,$601.00 ,$330.73 ,$150.07 ,2002
+409a,South Boston Piers Phase I (MOS-2),2004,Project Opening,1,$600.90 ,$330.73 ,NAV,2004
+409b,South Boston Piers Phase II,1994,Preliminary Engineering,1.5,$300.00 ,$240.00 , $-   ,2008
+409b,South Boston Piers Phase II,1994,FFGA Awarded,1.5,$258.00 ,$206.40 , $-   ,2008
+409b,South Boston Piers Phase II,1994,FFGA Awarded,1.5,$363.70 ,$291.00 , $-   ,2008
+409c,Silver Line Phase III,2002,Preliminary Engineering,1.5,$951.90 ,$571.10 , NAV ,NAV
+409c,Silver Line Phase III,2002,Preliminary Engineering,1,$756.00 ,$378.00 , NAV ,NAV
+409c,Silver Line Phase III,2002,Preliminary Engineering,1,$780.50 ,$468.30 , NAV ,NAV
+409c,Silver Line Phase III,2006,Preliminary Engineering,1.4,"$1,167.32 ",$699.23 , $-   ,NAV
+409c,Silver Line Phase III,2008,Preliminary Engineering,1.4,"$2,106.54 ","$1,261.82 ", $-   ,NAV
+409c,Silver Line Phase III,2010,Project Cancelled,,,,,
+410,Green Line Extension ,2012,Preliminary Engineering,4.3,"$1,334.62 ",$557.07 , $-   ,NAV
+410,Green Line Extension ,2014,Preliminary Engineering,4.7,"$1,656.56 ",$714.41 , $-   ,2019
+410,Green Line Extension ,2015,FFGA Awarded,4.7,"$2,297.62 ",$996.12 , $-   ,2021
+411,Lowell-Nashua Commuter Rail Extension ,2000,Preliminary Engineering,12,$41.00 ,$18.00 ,$14.50 ,NAV
+412,Burlington to Charlotte Corridor ,1995,NAV,12,$7.68 ,$5.58 ,$0.70 ,NAV
+412,Burlington to Charlotte Corridor ,1996,Preliminary Engineering,12,$8.78 ,$6.58 ,$0.70 ,NAV
+413,Burlington-Essex Commuter Rail Project,2002,Preliminary Engineering,8,$25.20 ,$19.40 ,$0.72 ,NAV
+414,Queens Connector,1994,FFGA Awarded,0.33,$645.00 ,$306.10 ,$22.68 ,2001
+415,Long Island Rail Road Access to Manhattan's East Side ,1998,Preliminary Engineering,4,"$4,350.00 ","$2,175.00 ", $-   ,NAV
+415,Long Island Rail Road Access to Manhattan's East Side ,2000,Preliminary Engineering,4,"$4,344.00 ","$2,172.00 ", $-   ,NAV
+415,Long Island Rail Road Access to Manhattan's East Side ,2002,Final Design,3.5,"$5,264.00 ","$2,632.00 ", NAV ,2011
+415,Long Island Rail Road Access to Manhattan's East Side ,2002,Final Design,3.5,"$7,779.30 ","$2,632.10 ",$39.40 ,2012
+415,Long Island Rail Road Access to Manhattan's East Side ,2006,FFGA Awarded,3.5,"$7,386.00 ","$2,632.11 ",$50.44 ,2013
+416a,Second Avenue Subway Phase 1,2001,Preliminary Engineering,8,"$16,809.00 ","$8,385.00 ", NAV ,NAV
+416a,Second Avenue Subway Phase 1,2001,Preliminary Engineering,8,"$16,808.50 ","$8,404.30 ", NAV ,NAV
+416b,Second Avenue Subway MOS,2001,Preliminary Engineering,2.3,"$4,292.70 ","$1,300.00 ", NAV ,2011
+416b,Second Avenue Subway MOS,2001,Preliminary Engineering,2.3,"$4,947.80 ","$1,300.00 ",$45.30 ,2014
+416b,Second Avenue Subway MOS,2006,Final Design,2.3,"$4,655.42 ","$1,300.00 ",$45.30 ,NAV
+416b,Second Avenue Subway MOS,2007,FFGA Awarded,2.3,"$4,866.61 ","$1,300.00 ",$50.69 ,2014
+416c,Second Avenue Subway Phase 2,2016,Project Development,1.8,"$6,390.31 ","$2,000.00 ", $-   ,2027
+417,Canarsie Line Power Improvements,2017,Engineering,6,$372.91 ,$100.00 , $-   ,2020
+418,Woodhaven Select Bus Service ,2015,Project Development,6.1,$258.84 ,$97.17 , $-   ,2029
+419,Washington/Western Bus Rapid Transit Line,2014,Project Development,8.5,$81.18 ,$60.89 , $-   ,2022
+420,River Corridor/Blue Line Bus Rapid Transit ,2015,Project Development,16,$45.27 ,$29.52 ,$6.14 ,2019
+421,Hudson Tunnel,2016,Project Development,6.5,"$12,127.22 ","$5,338.68 ",$153.34 ,2029
+422,Dallas North Central Corridor LRT,1994,Preliminary Engineering,11.4,$354.40 ,$177.20 , $-   ,NAV
+422,Dallas North Central Corridor LRT,1997,Final Design,11.4,$347.10 ,$173.60 , $-   ,NAV
+422,Dallas North Central Corridor LRT,1999,FFGA Awarded,12.5,$517.20 ,$333.00 ,,2003
+422,Dallas North Central Corridor LRT,2002,Project Opening,12.5,$437.30 ,$333.00 ,NAV,2002
+423,Dallas Trinity Railtran Phase 2,1996,Final Design,25,$129.01 ,$58.85 ,$18.80 ,1999
+423,Dallas Trinity Railtran Phase 2,1998,Final Design,25,$141.40 ,$64.30 ,$41.40 ,2000
+423,Dallas Trinity Railtran Phase 2,1999,Final Design,25,$160.60 ,$62.40 ,$57.60 ,2000
+424,Dallas South Oak Cliff Corridor,1993,FFGA Awarded,9.6,$369.90 ,NAV,NAV,1996
+424,Dallas South Oak Cliff Corridor,1996,Project Opening,9.6,$360.00 ,NAV,NAV,1996
+425,Dallas Northwest / Southeast LRT MOS ,2001,Preliminary Engineering,22,"$1,123.61 ",$500.00 ,$34.88 ,NAV
+425,Dallas Northwest / Southeast LRT MOS ,2001,Preliminary Engineering,21,"$1,237.50 ",$500.00 , NAV ,NAV
+425,Dallas Northwest / Southeast LRT MOS ,2001,Preliminary Engineering,21,"$1,536.80 ",$700.00 , NAV ,NAV
+425,Dallas Northwest / Southeast LRT MOS ,2001,Preliminary Engineering,21,"$1,151.40 ", NAV , NAV ,2010
+425,Dallas Northwest / Southeast LRT MOS ,2005,Final Design,21,"$1,490.10 ",$700.00 , NAV ,2011
+425,Dallas Northwest / Southeast LRT MOS ,2006,FFGA Awarded,21,"$1,406.22 ",$700.00 , NAV ,2011
+425,Dallas Northwest / Southeast LRT MOS ,2010,Project Opening,21,"$1,406.22 ",$700.00 , NAV ,2011
+426,Dallas Red and Blue Line Platform Extensions,2017,Engineering,48.1,$149.19 ,$74.45 , $-   ,2021
+427,Dallas CBD Second Light Rail Alignment (D2 Subway),2015,Project Development,2.34,"$1,399.52 ",$669.76 , $-   ,2024
+428,Houston Regional Bus Plan ,1994,FFGA Awarded,NA,$625.00 ,$500.00 , $-   ,2004
+429,Houston North Corridor LRT(MOS) ,2005,Preliminary Engineering,5.4,$359.70 ,$179.80 , $-   ,NAV
+429,Houston North Corridor LRT(MOS) ,2008,Preliminary Engineering,5.28,$677.03 ,$331.74 , $-   ,NAV
+429,Houston North Corridor LRT(MOS) ,2009,Final Design,5.28,$756.00 ,$450.00 , $-   ,NAV
+429,Houston North Corridor LRT(MOS) ,2011,FFGA Awarded,5.28,$756.00 ,$450.00 , $-   ,2015
+430,Houston Southeast Corridor LRT,2008,Preliminary Engineering,6.2,$680.59 ,$333.49 , $-   ,NAV
+430,Houston Southeast Corridor LRT,2009,Final Design,6.5,$822.91 ,$450.00 , $-   ,NAV
+430,Houston Southeast Corridor LRT,2011,FFGA Awarded,6.56,$822.91 ,$450.00 , $-   ,2015
+431,Houston University Corridor LRT,2009,Preliminary Engineering,11.36,"$1,496.94 ",$748.47 , $-   ,NAV
+431,Houston University Corridor LRT,2010,Preliminary Engineering,11.3,"$1,563.07 ",$781.53 , $-   ,2020
+432,Houston Downtown to Astrodome Light Rail,1999,Preliminary Engineering,7.5,$300.00 ,$64.90 ,$36.00 ,2004
+433,Northwest/North Central Corridor ,1995,Preliminary Engineering,29, NAV , NAV , NAV ,NAV
+434,Austin Light Rail Corridors,1997,Preliminary Engineering,14.6,$739.00 ,$369.50 , $-   ,NAV
+434,Austin Light Rail Corridors,1997,Preliminary Engineering,14.6,$749.20 ,$374.60 , NAV ,NAV
+435,MetroRapid Bus Rapid Transit Project ,2009,Project Development,37.5,$47.03 ,$37.62 , $-   ,NAV
+435,MetroRapid Bus Rapid Transit Project ,2009,Project Development,37.5,$47.00 ,$37.60 , $-   ,2013
+435,MetroRapid Bus Rapid Transit Project ,2012,PCGA,37.5,$47.62 , NAV , NAV ,2014
+435,MetroRapid Bus Rapid Transit Project ,2014,Project Opening,37.5,$38.90 , NAV , NAV ,2014
+436,Dyer Avenue Bus Rapid Transit System,2011,Project Development,12,$35.25 ,$20.41 ,$6.05 ,2015
+436,Dyer Avenue Bus Rapid Transit System,2012,Project Development,12,$35.90 ,$20.40 ,$8.28 ,2015
+436,Dyer Avenue Bus Rapid Transit System,2014,Project Development,12,$35.89 ,$20.40 ,$7.29 ,2017
+436,Dyer Avenue Bus Rapid Transit System,2014,Project Development,12,$34.23 ,$19.35 ,$6.63 ,2017
+437,Montana Avenue Rapid Transit System,2013,Project Development,16.8,$43.36 ,$25.74 ,$8.85 ,2016
+437,Montana Avenue Rapid Transit System,2014,Project Development,16.8,$45.52 ,$26.97 ,$7.76 ,2019
+437,Montana Avenue Rapid Transit System,2015,Project Development,16.8,$46.99 ,$28.22 ,$7.64 ,2020
+438,Sun Metro Areas Rapid Transit (SMART) Starter Line ,2003,Preliminary Engineering,NAV,$10.00 ,$8.00 , NAV ,NAV
+439,TEX Rail,2012,Project Development,37.6,$959.13 ,$479.56 ,$76.30 ,2016
+439,TEX Rail,2014,Project Development,27.2,$809.77 ,$404.88 ,$61.65 ,2017
+439,TEX Rail,2014,Project Development,27.2,$891.90 ,$445.95 ,$40.95 ,2018
+439,TEX Rail,2015,Engineering,27.2,$998.78 ,$499.39 ,$39.87 ,2018
+439,TEX Rail,2016,FFGA Awarded,26.8,"$1,034.41 ",$499.39 ,$37.50 ,2020
+439,TEX Rail,2019,Project Opening,26.8,"$1,034.41 ",$499.39 ,$37.50 ,2019
+440,San Antonio Modern Streetcar Project,2013,Project Development,5.9, NAV , NAV , NAV ,NA (On Hold)
+441,Rail Trolley Extension ,2001,Final Design,1.5,$9.40 ,$8.30 ,$0.53 ,NAV
+442,Waco Rapid Transit Corridor,2019,Project Development,13.3,$19.40 , NAV , NAV ,2022
+443,Denver SW Corridor LRT,1996,FFGA Awarded,8.7,$177.40 ,$120.00 ,$0.90 ,2000
+443,Denver SW Corridor LRT,1996,FFGA Awarded,8.7,$176.32 ,$120.00 ,$18.88 ,2000
+443,Denver SW Corridor LRT,2000,Project Opening,8.7,$177.70 ,$120.00 ,NAV,2000
+444,Denver West Corridor LRT,2001,Preliminary Engineering,11,$624.30 ,$366.30 ,$2.00 ,NAV
+444,Denver West Corridor LRT,2001,Preliminary Engineering,12,$686.60 ,$412.00 , NAV ,NAV
+444,Denver West Corridor LRT,2001,Preliminary Engineering,12,$749.70 ,$412.00 , NAV ,NAV
+444,Denver West Corridor LRT,2001,Preliminary Engineering,12.1,$561.90 ,$249.00 , NAV ,2013
+444,Denver West Corridor LRT,2005,Final Design,12.1,$593.00 ,$290.60 ,$2.00 ,2013
+444,Denver West Corridor LRT,2006,Final Design,12.1,$574.18 ,$290.55 ,$9.50 ,NAV
+444,Denver West Corridor LRT,2008,Final Design,12.1,$656.83 ,$290.55 , NAV ,2013
+444,Denver West Corridor LRT,2009,FFGA Awarded,12.1,$709.83 ,$308.68 ,$9.50 ,2013
+445,Denver Eagle Commuter Rail (East Corridor and Gold Line),2009,Preliminary Engineering,33.5,"$2,903.28 ","$1,030.44 ",$34.81 ,NAV
+445,Denver Eagle Commuter Rail (East Corridor and Gold Line),2009,Preliminary Engineering,33.6,"$2,480.63 ","$1,030.44 ",$34.81 ,NAV
+445,Denver Eagle Commuter Rail (East Corridor and Gold Line),2010,Final Design,30.2,"$2,043.14 ","$1,030.45 ",$62.10 ,NAV
+445,Denver Eagle Commuter Rail (East Corridor and Gold Line),2011,FFGA Awarded,30.2,"$2,043.14 ","$1,030.45 ",$62.10 ,2016
+446,Denver Southeast Corridor LRT ,1998,Preliminary Engineering,19,$882.50 ,$525.00 , $-   ,2007
+446,Denver Southeast Corridor LRT ,2000,FFGA Awarded,19.12,$879.27 ,$525.00 , $-   ,2008
+446,Denver Southeast Corridor LRT ,2006,Project Opening,19.12,$850.80 ,$525.00 ,NAV,2006
+447,Denver Southeast Rail Extension,2013,Project Development,2.3,$210.74 ,$92.00 ,$7.50 ,2019
+447,Denver Southeast Rail Extension,2014,Project Development,2.3,$224.29 ,$92.00 ,$7.50 ,2019
+447,Denver Southeast Rail Extension,2015,Engineering,2.3,$223.58 ,$92.00 ,$7.50 ,2019
