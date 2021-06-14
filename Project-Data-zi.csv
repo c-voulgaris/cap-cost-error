@@ -1,14 +1,14 @@
 ID,Name,Year of initial milestone,Number of stations,Project type,Funding program,City,State,Mode
 501,Douglas Branch Reconstruction,1999,11,Improvement,New Starts,Chicago,Illinois,Heavy Rail
 502,Union-Pacific West Line Extension,1998,2,Expansion,New Starts,Chicago,Illinois,Commuter
-503,Little Rock River Rail Project,1999,7,Introduction,New Starts,Little Rock,Arkansas,Streetcar
+503,Little Rock River Rail Project,1998,7,Introduction,New Starts,Little Rock,Arkansas,Streetcar
 504,Cenral Phoenix East Valley Light Rail,1998,28,Introduction,New Starts,Phoenix,Arizona,Light Rail
-505,South Central Phoenix LRT/Downtown Hub,2015,9,Expansion,New Starts,Phoenix,Arizona,Light Rail
+505,South Central Phoenix LRT/Downtown Hub,2017,9,Expansion,New Starts,Phoenix,Arizona,Light Rail
 506,Northwest Phase II LRT Extension,2017,3,Expansion,New Starts,Phoenix,Arizona,Light Rail
-507,Modern Streetcar Project,2008,18,Introduction,New Starts,Tucson,Arizona,Streetcar
+507,Modern Streetcar Project,2007,18,Introduction,New Starts,Tucson,Arizona,Streetcar
 508,Tempe Streetcar,2013,18,Introduction,Small Starts,Tempe,Arizona,Streetcar
-509,Central Mesa Light Rail Transit Extension,2012,4,Expansion,Small Starts,Mesa,Arizona,Light Rail
-510,Transit Spine BRT,2016,8,Introduction,Small Starts,Flagstaff,Arizona,Bus Rapid Transit
+509,Central Mesa Light Rail Transit Extension,2010,4,Expansion,Small Starts,Mesa,Arizona,Light Rail
+510,Transit Spine BRT,2016,22,Introduction,Small Starts,Flagstaff,Arizona,Bus Rapid Transit
 511,Mountain Link BRT Project,2009,21,Introduction,Very Small Starts,Flagstaff,Arizona,Bus Rapid Transit
 512,Northstar Corridor Rail,2000,12,Introduction,New Starts,Minneapolis,Minnesota,Commuter
 513,Southwest Light Rail Transit,2011,16,Expansion,New Starts,Minneapolis,Minnesota,Light Rail
@@ -24,7 +24,7 @@ ID,Name,Year of initial milestone,Number of stations,Project type,Funding progra
 523,Blue Line Capacity Expansion,2015,11,Improvement,Core Capacity,Charlotte,North Carolina,Light Rail
 524,South Corridor Light Rail Project,2000,19,Expansion,New Starts,Charlotte,North Carolina,Light Rail
 525,Durham-Orange LRT,2014,18,Introduction,New Starts,Durham,North Carolina,Light Rail
-526,Regional Rail System,1998,16,Introduction,New Starts,Durham,North Carolina,Commuter
+526,Research Triangle Regional Rail System,1998,16,Introduction,New Starts,Durham,North Carolina,Commuter
 527,North-South BRT,2016,16,Introduction,Small Starts,Chapel Hill,North Carolina,Bus Rapid Transit
 528,Wake Bus Rapid Transit: New Bern Avenue Project,2019,10,Introduction,Small Starts,Raleigh,North Carolina,Bus Rapid Transit
 529,Lowcountry Rapid Transit Project,2020,20,Introduction,New Starts,Charleston,South Carolina,Bus Rapid Transit
@@ -38,13 +38,13 @@ ID,Name,Year of initial milestone,Number of stations,Project type,Funding progra
 537,Urban Transitway Phase I,2000,0,Improvement,New Starts,Stamford,Connecticut,Transitway
 538,Bridgeport Innermodal Transportation Center Phase 2B and 3,2001,1,Expansion,New Starts,Bridgeport,Connecticut,Intermodal
 539,High Capacity Transit Corridor Project,2011,21,Introduction,New Starts,Honolulu,Hawaii,Transitway
-540,Primary Corridor Transportation Project,2001,NAV,Introduction,New Starts,Honolulu,Hawaii,Bus Rapid Transit
-541,Silver Line BRT,2014,18,Introduction,Very Small Starts,Grand Rapids,Michigan,Bus Rapid Transit
+540,Primary Corridor Transportation Project,2001,20,Introduction,New Starts,Honolulu,Hawaii,Bus Rapid Transit
+541,Division Avenue BRT,2007,18,Introduction,Very Small Starts,Grand Rapids,Michigan,Bus Rapid Transit
 542,Laker Line BRT,2015,11,Introduction,Small Starts,Grand Rapids,Michigan,Bus Rapid Transit
-543,Michigan/Grand River BRT,2016,28,Introduction,Small Starts,Lansing,Michigan,Bus Rapid Transit
+543,Michigan/Grand River BRT,2013,28,Introduction,Small Starts,Lansing,Michigan,Bus Rapid Transit
 544,Central Avenue Corridor/Albuquerque Rapid Transit BRT Project,2014,20,Introduction,Small Starts,Albuquerque,New Mexico,Bus Rapid Transit
 545,4th Street/Prater Way BRT Project,2013,8,Introduction,Small Starts,Reno,Nevada,Bus Rapid Transit
-546,Virginia Street BRT Extension Project,2013,4,Expansion,Small Starts,Reno,Nevada,Bus Rapid Transit
+546,Virginia Street BRT Extension Project,2014,4,Expansion,Small Starts,Reno,Nevada,Bus Rapid Transit
 547,Resort Corridor Fixed Guideway,1998,7,Expansion,New Starts,Las Vegas,Nevada,Bus Rapid Transit
 548,Maryland Parkway High Capacity Transit Project,2020,14,Introduction,New Starts,Las Vegas,Nevada,Bus Rapid Transit
 549,East-West Connector BRT Project/ The AMP,2014,16,Introduction,Small Starts,Nashville,Tennessee,Bus Rapid Transit
@@ -58,3 +58,4 @@ ID,Name,Year of initial milestone,Number of stations,Project type,Funding progra
 557,Rhode Island Commuter Rail Improvement,2001,0,Improvement,New Starts,Pawtucket,Rhode Island,Commuter
 558,South County Commuter Rail,2004,1,Introduction,New Starts,Providence,Rhode Island,Commuter
 559,Transportation Tomorrow South Central Corridor LRT,2001,22,Introduction,New Starts,Louisville,Kentucky,Light Rail
+560,Wake BRT - Western Corridor Project,2020,19,Introduction,Small Starts,Raleigh,North Carolina,Bus Rapid Transit
