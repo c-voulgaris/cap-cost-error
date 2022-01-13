@@ -1,163 +1,163 @@
 ID,ID (letter),Name,Year of initial milestone,Number of stations,Project type,Funding program,City,State,Mode,Author
-100,,Downtown-Uptown-Oakland-East End BRT Project ,2017,46,Introduction,Small Starts,Pittsburgh,PA,BRT,cam
-101,,Corridor one Rail MOS,2002,6,Introduction,New Starts,Harrisburg,PA,Commuter rail,cam
-102,,Schuylkill Valley Metro Rail,2002,20,Introduction,New Starts,Philadelphia,PA,Commuter rail,cam
-103,,South/North Corridor (MOS-1),1996,20,Introduction,New Starts,Portland,OR,LRT,cam
-104,,"Portland, Oregon/Westside-Hillsboro Corridor ",1994,20,Introduction,New Starts,Portland,OR,LRT,cam
-105,,Westside Light Rail to 185th,1992,NAV,Introduction,New Starts,Portland,OR,LRT,cam
-106,,South Corridor I-205 / Portland Mall LRT ,2004,22,Expansion,New Starts,Portland,OR,LRT,cam
-107,,Portland-Milwaukie Light Rail Project,2009,10,Expansion,New Starts,Portland,OR,LRT,cam
-108,,Columbia River Crossing Project,2009,NAV,Expansion,New Starts,Portland,OR,LRT,cam
-109,,Columbia River Crossing Project,2014,NAV,Expansion,New Starts,Portland,OR,LRT,cam
-110,,Powell-Division Transit and Development ,2015,NAV,Introduction,Small Starts,Portland,OR,BRT,cam
-111,,TriMet Interstate MAX Light Rail ,1996,,Expansion,Small Starts,Portland,OR,LRT,cam
-112,,MAX Red Line Extension and Reliability Improvements,2019,,Improvement,Small Starts,Portland,OR,LRT,cam
-113,,Westside Express Service Rail Project ,2000,5,Introduction,New Starts,Portland,OR,Commuter rail,cam
-114,,Green Line Light Rail Project ,2004,,Expansion,New Starts,Portland,OR,LRT,cam
-115,,Streetcar Loop Project ,2007,28,Expansion,Small Starts,Portland,OR,Streetcar,cam
-117,,Southwest Corridor Light Rail Transit Project,2019,13,Expansion,New Starts,Portland,OR,LRT,cam
-118,,Pioneer Parkway EmX BRT ,2006,14,Expansion,Small Starts,Springfield,OR,BRT,cam
-119,,West Eugene EmX Extension,2012,13,Expansion,Small Starts,Eugene,OR,BRT,cam
-120,,Cleveland (Euclid Corridor) ,1997,22,Improvement,New Starts,Cleveland,OH,BRT,cam
-121,,Interstate 71 corridor (MOS-1),1998,24,Introduction,New Starts,Cincinatti,OH,LRT,cam
-122,,Northeast Corridor BRT Project,2013,,Improvement,Small Starts,Columbus,OH,BRT,cam
-123,,North Corridor LRT ,2001,14,Introduction,New Starts,Columbus,OH,LRT,cam
-124,,Cleveland Avenue Bus Rapid Transit,2013,,Improvement,Small Starts,Columbus,OH,BRT,cam
-125,,"Craig, Alaska (Alaska-Hollis Ketchikan Ferry) ",,1,Introduction,New Starts,Craig,AK,Ferry,cam
-126,,Alaska Rail Road - South Wasilla Track Realignment ,2000,NA,Improvement,New Starts,Wasilla,AK,Commuter rail,cam
-127,,South Anchorage Double Track ,2000,NA,Improvement,New Starts,Anchorage,AK,Commuter rail,cam
-128,,Alaska Marine Highway System ,2001,NA,Improvement,New Starts,Prince William Sound,AK,Ferry,cam
-129,,Norfolk -Virginia Beach Corridor  (First phase),1997,13,Introduction,New Starts,Norfolk,VA,LRT,cam
-130,,Norfolk LRT - The Tide Light Rail,2002,11,Expansion,New Starts,Norfolk,VA,LRT,cam
-131,,West End Transitway,2016,15,Introduction,Small Starts,Alexandria,VA,BRT,cam
-132,,Richmond Highway BRT Project,2020,9,Introduction,New Starts,Fairfax County,VA,BRT,cam
-133,,Seattle-Tacoma Sounder Commuter Rail ,1998,8,Introduction,New Starts,Seattle,WA,Commuter rail,cam
-134,,Central Link Initial Segment (Initial),1997,11,Introduction,New Starts,Seattle,WA,LRT,cam
-135,,Roosevelt RapidRide BRT ,2017,13,Expansion,Small Starts,Seattle,WA,BRT,cam
-136,,University Link LRT Extension,2005,2,Expansion,New Starts,Seattle,WA,LRT,cam
-137,,Lynnwood Link Extension,2013,4,Expansion,New Starts,Seattle,WA,LRT,cam
-138,,Center City Connector Streetcar,2014,4,Expansion,Small Starts,Seattle,WA,Streetcar,cam
-139,,Sound Transit-Federal Way Link Extension,2016,3,Expansion,Small Starts,Seattle,WA,LRT,cam
-140,,Madison Street Corridor BRT,2016,10,Introduction,Small Starts,Seattle,WA,BRT,cam
-141,,Link Extension and North Link,2003,,Expansion,New Starts,Seattle,WA,LRT,cam
-142,,Airport Link,1997,,Introduction,New Starts,Seattle,WA,LRT,cam
-143,,North Link,1997,,Introduction,New Starts,Seattle,WA,LRT,cam
-144,,Everett to Seattle Commuter Rail,2004,7,Introduction,New Starts,Seattle,WA,Commuter rail,cam
-145,,Federal Way Link Extension,2016,3,Expansion,New Starts,Seattle,WA,LRT,cam
-146,,Rapid Ride I,2019,76,Introduction,Small Starts,Seattle,WA,BRT,cam
-147,,Rapid Ride K,2019,36,Introduction,Small Starts,Seattle,WA,BRT,cam
-148,,Mill Plain Bus Rapid Transit,2019,21,Introduction,Small Starts,Vancouver,WA,BRT,cam
-149,,Fourth Plain Bus Rapid Transit,2013,18,Introduction,Small Starts,Vancouver,WA,BRT,cam
-150,,Swift II,2015,18,Expansion,Small Starts,Everett,WA,BRT,cam
-151,,Tacoma Link Light Rail Expansion,2014,6,Expansion,Small Starts,Tacoma,WA,LRT,cam
-152,,Lakewood to Tacoma Commuter Rail,2000,3,Introduction,New Starts,Tacoma,WA,Commuter rail,cam
-153,,Pacific Avenue/SR 7 Corridor,2019,32,Introduction,Small Starts,Tacoma,WA,BRT,cam
-154,,Central City Line,2015,21,Introduction,Small Starts,Spokane,WA,BRT,cam
-155,,Metra North Central Corridor,1998,5,Expansion,New Starts,Chicago,IL,Commuter rail,cam
-156,,Metra South West Corridor,1998,2,Expansion,New Starts,Chicago,IL,Commuter rail,cam
-157,,Central Area Circulator,1994,NAV,Introduction,New Starts,Chicago,IL,LRT,cam
-158,,Ravenswood Line Extension,1999,19,Improvement,New Starts,Chicago,IL,Heavy rail,cam
-159,,Ashland Avenue BRT Phase I,2014,14,Introduction,Small Starts,Chicago,IL,BRT,cam
-160,,Red and Purple Line Modernization Project ,2013,,Improvement,Core Capacity,Chicago,IL,Heavy rail,cam
-161,,Red and Purple Line Modernization Project Phase I,2014,4,Improvement,Core Capacity,Chicago,IL,Heavy rail,cam
+100,,Downtown-Uptown-Oakland-East End BRT Project ,2017,46,Introduction,Small Starts,Pittsburgh,Pennsylvania ,Bus Rapid Transit,cam
+101,,Corridor One Rail MOS,2002,6,Introduction,New Starts,Harrisburg,Pennsylvania ,Commuter Rail,cam
+102,,Schuylkill Valley Metro Rail,2002,20,Introduction,New Starts,Philadelphia,Pennsylvania ,Commuter Rail,cam
+103,,South/North Corridor (MOS-1),1996,20,Introduction,New Starts,Portland,Oregon,Light Rail,cam
+104,,"Portland, Oregon/Westside-Hillsboro Corridor ",1994,20,Introduction,New Starts,Portland,Oregon,Light Rail,cam
+105,,Westside Light Rail to 185th,1992,NAV,Introduction,New Starts,Portland,Oregon,Light Rail,cam
+106,,South Corridor I-205 / Portland Mall LRT ,2004,22,Expansion,New Starts,Portland,Oregon,Light Rail,cam
+107,,Portland-Milwaukie Light Rail Project,2009,10,Expansion,New Starts,Portland,Oregon,Light Rail,cam
+108,,Columbia River Crossing Project,2009,NAV,Expansion,New Starts,Portland,Oregon,Light Rail,cam
+109,,Columbia River Crossing Project,2014,NAV,Expansion,New Starts,Portland,Oregon,Light Rail,cam
+110,,Powell-Division Transit and Development ,2015,NAV,Introduction,Small Starts,Portland,Oregon,Bus Rapid Transit,cam
+111,,TriMet Interstate MAX Light Rail ,1996,NA,Expansion,Small Starts,Portland,Oregon,Light Rail,cam
+112,,MAX Red Line Extension and Reliability Improvements,2019,NA,Improvement,Small Starts,Portland,Oregon,Light Rail,cam
+113,,Westside Express Service Rail Project ,2000,5,Introduction,New Starts,Portland,Oregon,Commuter Rail,cam
+114,,Green Line Light Rail Project ,2004,NA,Expansion,New Starts,Portland,Oregon,Light Rail,cam
+115,,Streetcar Loop Project ,2007,28,Expansion,Small Starts,Portland,Oregon,Streetcar,cam
+117,,Southwest Corridor Light Rail Transit Project,2019,13,Expansion,New Starts,Portland,Oregon,Light Rail,cam
+118,,Pioneer Parkway EmX BRT ,2006,14,Expansion,Small Starts,Springfield,Oregon,Bus Rapid Transit,cam
+119,,West Eugene EmX Extension,2012,13,Expansion,Small Starts,Eugene,Oregon,Bus Rapid Transit,cam
+120,,Cleveland (Euclid Corridor) ,1997,22,Improvement,New Starts,Cleveland,Ohio,Bus Rapid Transit,cam
+121,,Interstate 71 corridor (MOS-1),1998,24,Introduction,New Starts,Cincinatti,Ohio,Light Rail,cam
+122,,Northeast Corridor BRT Project,2013,NA,Improvement,Small Starts,Columbus,Ohio,Bus Rapid Transit,cam
+123,,North Corridor LRT ,2001,14,Introduction,New Starts,Columbus,Ohio,Light Rail,cam
+124,,Cleveland Avenue Bus Rapid Transit,2013,NA,Improvement,Small Starts,Columbus,Ohio,Bus Rapid Transit,cam
+125,,"Craig, Alaska (Alaska-Hollis Ketchikan Ferry) ",,1,Introduction,New Starts,Craig,Alaska,Ferry,cam
+126,,Alaska Rail Road - South Wasilla Track Realignment ,2000,NA,Improvement,New Starts,Wasilla,Alaska,Commuter Rail,cam
+127,,South Anchorage Double Track ,2000,NA,Improvement,New Starts,Anchorage,Alaska,Commuter Rail,cam
+128,,Alaska Marine Highway System ,2001,NA,Improvement,New Starts,Prince William Sound,Alaska,Ferry,cam
+129,,Norfolk -Virginia Beach Corridor  (First phase),1997,13,Introduction,New Starts,Norfolk,Virginia,Light Rail,cam
+130,,Norfolk LRT - The Tide Light Rail,2002,11,Expansion,New Starts,Norfolk,Virginia,Light Rail,cam
+131,,West End Transitway,2016,15,Introduction,Small Starts,Alexandria,Virginia,Bus Rapid Transit,cam
+132,,Richmond Highway BRT Project,2020,9,Introduction,New Starts,Fairfax County,Virginia,Bus Rapid Transit,cam
+133,,Seattle-Tacoma Sounder Commuter Rail ,1998,8,Introduction,New Starts,Seattle,Washington,Commuter Rail,cam
+134,,Central Link Initial Segment (Initial),1997,11,Introduction,New Starts,Seattle,Washington,Light Rail,cam
+135,,Roosevelt RapidRide BRT ,2017,13,Expansion,Small Starts,Seattle,Washington,Bus Rapid Transit,cam
+136,,University Link LRT Extension,2005,2,Expansion,New Starts,Seattle,Washington,Light Rail,cam
+137,,Lynnwood Link Extension,2013,4,Expansion,New Starts,Seattle,Washington,Light Rail,cam
+138,,Center City Connector Streetcar,2014,4,Expansion,Small Starts,Seattle,Washington,Streetcar,cam
+139,,Sound Transit-Federal Way Link Extension,2016,3,Expansion,Small Starts,Seattle,Washington,Light Rail,cam
+140,,Madison Street Corridor BRT,2016,10,Introduction,Small Starts,Seattle,Washington,Bus Rapid Transit,cam
+141,,Link Extension and North Link,2003,NA,Expansion,New Starts,Seattle,Washington,Light Rail,cam
+142,,Airport Link,1997,NA,Introduction,New Starts,Seattle,Washington,Light Rail,cam
+143,,North Link,1997,NA,Introduction,New Starts,Seattle,Washington,Light Rail,cam
+144,,Everett to Seattle Commuter Rail,2004,7,Introduction,New Starts,Seattle,Washington,Commuter Rail,cam
+145,,Federal Way Link Extension,2016,3,Expansion,New Starts,Seattle,Washington,Light Rail,cam
+146,,Rapid Ride I,2019,76,Introduction,Small Starts,Seattle,Washington,Bus Rapid Transit,cam
+147,,Rapid Ride K,2019,36,Introduction,Small Starts,Seattle,Washington,Bus Rapid Transit,cam
+148,,Mill Plain Bus Rapid Transit,2019,21,Introduction,Small Starts,Vancouver,Washington,Bus Rapid Transit,cam
+149,,Fourth Plain Bus Rapid Transit,2013,18,Introduction,Small Starts,Vancouver,Washington,Bus Rapid Transit,cam
+150,,Swift II,2015,18,Expansion,Small Starts,Everett,Washington,Bus Rapid Transit,cam
+151,,Tacoma Link Light Rail Expansion,2014,6,Expansion,Small Starts,Tacoma,Washington,Light Rail,cam
+152,,Lakewood to Tacoma Commuter Rail,2000,3,Introduction,New Starts,Tacoma,Washington,Commuter Rail,cam
+153,,Pacific Avenue/SR 7 Corridor,2019,32,Introduction,Small Starts,Tacoma,Washington,Bus Rapid Transit,cam
+154,,Central City Line,2015,21,Introduction,Small Starts,Spokane,Washington,Bus Rapid Transit,cam
+155,,Metra North Central Corridor,1998,5,Expansion,New Starts,Chicago,Illinois,Commuter Rail,cam
+156,,Metra South West Corridor,1998,2,Expansion,New Starts,Chicago,Illinois,Commuter Rail,cam
+157,,Central Area Circulator,1994,NA,Introduction,New Starts,Chicago,Illinois,Light Rail,cam
+158,,Ravenswood Line Extension,1999,19,Improvement,New Starts,Chicago,Illinois,Heavy rail,cam
+159,,Ashland Avenue BRT Phase I,2014,14,Introduction,Small Starts,Chicago,Illinois,Bus Rapid Transit,cam
+160,,Red and Purple Line Modernization Project ,2013,NA,Improvement,Core Capacity,Chicago,Illinois,Heavy rail,cam
+161,,Red and Purple Line Modernization Project Phase I,2014,4,Improvement,Core Capacity,Chicago,Illinois,Heavy rail,cam
 200,,Mason Transportation Corridor,2001,15,Expansion,New Starts,Fort Collins,Colorado,Bus Rapid Transit,am
 201,,San Fernando Valley East-West Transit Corridor,2000,13,Introduction,New Starts,Los Angeles,California,Bus Rapid Transit,am
 202,,Mid-city/ Exposition LRT,2001,2,Expansion,New Starts,Los Angeles,California,Light Rail,am
 203,,East Central Corridor,1993,7,Expansion,New Starts,Los Angeles,California,Light Rail,am
 204,,Eastside Corridor LRT,2000,8,Introduction,New Starts,Los Angeles,California,Light Rail,am
-205,,MOS-3 ,1993,9,Expansion,New Starts,Los Angeles,California,Heavy Rail,am
 205,a,MOS-3 North Hollywood Extension,1997,3,Expansion,New Starts,Los Angeles,California,Heavy Rail,am
 205,b,MOS-3 East Side Extension,1993,4,Expansion,New Starts,Los Angeles,California,Heavy Rail,am
 205,c,MOS-3 The Mid-City Extension,1993,2,Expansion,New Starts,Los Angeles,California,Heavy Rail,am
+205,,MOS-3 ,1993,9,Expansion,New Starts,Los Angeles,California,Heavy Rail,am
 206,,Eastside Corridor Extension Phase 2,1993,3,Expansion,New Starts,Los Angeles,California,Heavy Rail,am
-207,,LOSSAN Rail Corridor Improvement Project ,1997,0,Improvement of Existing Service,New Starts,Los Angeles,California,Commuter Rail,am
-208,,Metro Gold Line Eastside Extension ,2004,8,Expansion of Existing System,New Starts,Los Angeles,California,Light Rail,am
-209,,Regional Connector,2011,3,Introduction of New Mode,New Starts,Los Angeles,California,Light Rail,am
-210,,Westside Subway Extension Section 1,2011,7,Expansion of Existing System,New Starts,Los Angeles,California,Heavy Rail,am
-211,,Westside Purple Line Extension Section 1,2012,3,Expansion of Existing System,New Starts,Los Angeles,California,Heavy Rail,am
-212,,Westside Purple Line Extension Section 2,2014,2,Expansion of Existing System,New Starts,Los Angeles,California,Heavy Rail,am
-213,,Westside Purple Line Extension Section 3,2018,2,Expansion of Existing System,New Starts,Los Angeles,California,Heavy Rail,am
-214,,Downtown Los Angeles Streetcar,2013,24,Introduction of New Mode,Small Starts,Los Angeles,California,Streetcar,am
-215,,BART Airport Extension ,1996,4,Expansion of Existing System,New Starts,San Francisco Area,California,Heavy Rail,am
-216,,San Francisco (Bayshore) ,1996,NAV,Introduction of New Mode,New Starts,San Francisco Area,California,Light Rail,am
-217,,Central Subway LRT ,2002,3,Expansion of Existing System,New Starts,San Francisco Area,California,Light Rail,am
-218,,Third Street Light Rail Phase 1 ,1996,19,Expansion of Existing System,New Starts,San Francisco,California,Light Rail,am
-219,,Third Street Light Rail Phase 2 – Central Subway,2002,4,Expansion of Existing System,New Starts,San Francisco,California,Light Rail,am
-220,,Van Ness Avenue BRT ,2007,8,Introduction of New Mode,Small Starts,San Francisco,California,Bus Rapid Transit,am
-221,,Transbay Corridor ,2015,46,Introduction of New Mode,Core Capacity,San Francisco,California,Heavy Rail,am
-222,,South corridor (IOS-1),1997,12,Introduction of New Mode,New Starts,Sacramento,California,Light Rail,am
-223,,South  Corridor Phase Light Rail Transit Extension,2005,4,Expansion of Existing System,New Starts,Sacramento,California,Light Rail,am
-224,,Downtown Riverfront Streetcar,2014,17,Introduction of New Mode,Small Starts,Sacramento,California,Streetcar,am
-225,,Tasman LRT (West Extension),1992,19,Expansion of Existing System,New Starts,San Jose,California,Light Rail,am
-226,,Tasman LRT (West Extension) Phase 1,1992,11,Expansion of Existing System,New Starts,San Jose,California,Light Rail,am
-227,,El Camino Real Corridor BRT Project ,2013,14,Introduction of New Mode,Small Starts,San Jose,California,Bus Rapid Transit,am
-228,,Silicon Valley Berryessa Extension Project,2002,2,Expansion of Existing System,New Starts,San Jose,California,Heavy Rail,am
-229,,Silicon Valley Phase II,2016,4,Expansion of Existing System,New Starts,San Jose,California,Heavy Rail,am
-230,,Mid Coast Corridor (LR),1996,3,Expansion of Existing System,New Starts,San Diego County,California,Light Rail,am
-231,,Oceanside-Escondido Rail Corridor ,2000,15,Introduction of New Mode,New Starts,San Diego County,California,Heavy Rail,am
-232,,I-405/SR-55 Transitway and Direct Access HOV Ramps ,,NA,Improvement of Existing Service,New Starts,Orange County,California,Transitway,am
-233,,CenterLine LRT Project ,1998,35,Introduction of New Mode,New Starts,Orange County,California,Light Rail,am
-234,,"San Diego County, California/Mission Valley East ",1998,4,Expansion of Existing System,New Starts,San Diego,California,Light Rail,am
-235,,Mid-Coast Corridor Transit Project,2011,9,Expansion of Existing System,New Starts,San Diego,California,Light Rail,am
-236,,Caltrain Peninsula Corridor Electrification Project ,2015,NA,Improvement of Existing Service,Core Capacity,San Carlos ,California,Commuter Rail,am
-237,,Blackstone/Kings Canyon Bus Rapid Transit,2010,27,Improvement of Existing Service,Small Starts,Fresno,California,Bus Rapid Transit,am
-238,,Garden Grove Streetcar,2015,10,Introduction of New Mode,New Starts,Santa Ana,California,Streetcar,am
-239,,East Bay BRT,2008,32,Introduction of New Mode,Small Starts,San Leandro,California,Bus Rapid Transit,am
-240,,San Rafael to Larkspur Regional Connection,2013,1,Expansion of Existing System,Small Starts,San Rafael,California,Commuter Rail,am
-241,,Redlands Passenger Rail Project,2016,4,Introduction of New Mode,Small Starts,San Bernadino,California,Commuter Rail,am
-242,,SPRINTER Light Rail (Oceanside-Escondido) ,2000,15,Introduction of New Mode,New Starts,Oceanside,California,Light Rail,am
-243,,South LRT,1995,NAV,Introduction of New Mode,New Starts,Salt Lake City,Utah ,Light Rail,am
-244,,Downtown connector ,1998,15,Expansion of Existing System,New Starts,Salt Lake City,Utah ,Light Rail,am
-245,,Mid-Jordan LRT ,2007,9,Expansion of Existing System,New Starts,Salt Lake City,Utah ,Light Rail,am
-246,,Weber County to Salt Lake City Commuter Rail ,2003,8,Introduction of New Mode,New Starts,Salt Lake City,Utah ,Commuter Rail,am
+207,,LOSSAN Rail Corridor Improvement Project ,1997,0,Improvement,New Starts,Los Angeles,California,Commuter Rail,am
+208,,Metro Gold Line Eastside Extension ,2004,8,Expansion,New Starts,Los Angeles,California,Light Rail,am
+209,,Regional Connector,2011,3,Introduction,New Starts,Los Angeles,California,Light Rail,am
+210,,Westside Subway Extension Section 1,2011,7,Expansion,New Starts,Los Angeles,California,Heavy Rail,am
+211,,Westside Purple Line Extension Section 1,2012,3,Expansion,New Starts,Los Angeles,California,Heavy Rail,am
+212,,Westside Purple Line Extension Section 2,2014,2,Expansion,New Starts,Los Angeles,California,Heavy Rail,am
+213,,Westside Purple Line Extension Section 3,2018,2,Expansion,New Starts,Los Angeles,California,Heavy Rail,am
+214,,Downtown Los Angeles Streetcar,2013,24,Introduction,Small Starts,Los Angeles,California,Streetcar,am
+215,,BART Airport Extension ,1996,4,Expansion,New Starts,San Francisco Area,California,Heavy Rail,am
+216,,San Francisco (Bayshore) ,1996,NAV,Introduction,New Starts,San Francisco Area,California,Light Rail,am
+217,,Central Subway LRT ,2002,3,Expansion,New Starts,San Francisco Area,California,Light Rail,am
+218,,Third Street Light Rail Phase 1 ,1996,19,Expansion,New Starts,San Francisco,California,Light Rail,am
+219,,Third Street Light Rail Phase 2 – Central Subway,2002,4,Expansion,New Starts,San Francisco,California,Light Rail,am
+220,,Van Ness Avenue BRT ,2007,8,Introduction,Small Starts,San Francisco,California,Bus Rapid Transit,am
+221,,Transbay Corridor ,2015,46,Introduction,Core Capacity,San Francisco,California,Heavy Rail,am
+222,,South Corridor (IOS-1),1997,12,Introduction,New Starts,Sacramento,California,Light Rail,am
+223,,South Corridor Phase Light Rail Transit Extension,2005,4,Expansion,New Starts,Sacramento,California,Light Rail,am
+224,,Downtown Riverfront Streetcar,2014,17,Introduction,Small Starts,Sacramento,California,Streetcar,am
+225,,Tasman LRT (West Extension),1992,19,Expansion,New Starts,San Jose,California,Light Rail,am
+226,,Tasman LRT (West Extension) Phase 1,1992,11,Expansion,New Starts,San Jose,California,Light Rail,am
+227,,El Camino Real Corridor BRT Project ,2013,14,Introduction,Small Starts,San Jose,California,Bus Rapid Transit,am
+228,,Silicon Valley Berryessa Extension Project,2002,2,Expansion,New Starts,San Jose,California,Heavy Rail,am
+229,,Silicon Valley Phase II,2016,4,Expansion,New Starts,San Jose,California,Heavy Rail,am
+230,,Mid Coast Corridor (LR),1996,3,Expansion,New Starts,San Diego County,California,Light Rail,am
+231,,Oceanside-Escondido Rail Corridor ,2000,15,Introduction,New Starts,San Diego County,California,Heavy Rail,am
+232,,I-405/SR-55 Transitway and Direct Access HOV Ramps ,,NA,Improvement,New Starts,Orange County,California,Transitway,am
+233,,CenterLine LRT Project ,1998,35,Introduction,New Starts,Orange County,California,Light Rail,am
+234,,"San Diego County, California/Mission Valley East ",1998,4,Expansion,New Starts,San Diego,California,Light Rail,am
+235,,Mid-Coast Corridor Transit Project,2011,9,Expansion,New Starts,San Diego,California,Light Rail,am
+236,,Caltrain Peninsula Corridor Electrification Project ,2015,NA,Improvement,Core Capacity,San Carlos ,California,Commuter Rail,am
+237,,Blackstone/Kings Canyon Bus Rapid Transit,2010,27,Improvement,Small Starts,Fresno,California,Bus Rapid Transit,am
+238,,Garden Grove Streetcar,2015,10,Introduction,New Starts,Santa Ana,California,Streetcar,am
+239,,East Bay BRT,2008,32,Introduction,Small Starts,San Leandro,California,Bus Rapid Transit,am
+240,,San Rafael to Larkspur Regional Connection,2013,1,Expansion,Small Starts,San Rafael,California,Commuter Rail,am
+241,,Redlands Passenger Rail Project,2016,4,Introduction,Small Starts,San Bernadino,California,Commuter Rail,am
+242,,SPRINTER Light Rail (Oceanside-Escondido) ,2000,15,Introduction,New Starts,Oceanside,California,Light Rail,am
+243,,South LRT,1995,NAV,Introduction,New Starts,Salt Lake City,Utah ,Light Rail,am
+244,,Downtown Connector ,1998,15,Expansion,New Starts,Salt Lake City,Utah ,Light Rail,am
+245,,Mid-Jordan LRT ,2007,9,Expansion,New Starts,Salt Lake City,Utah ,Light Rail,am
+246,,Weber County to Salt Lake City Commuter Rail ,2003,8,Introduction,New Starts,Salt Lake City,Utah ,Commuter Rail,am
 301,,Canal Streetcar Spine,1995,11,Introduction,New Starts,New Orleans ,Louisiana ,Streetcar,mwj
-302,,CBD to university LRT,1998,4,Expansion,New Starts,Salt Lake City,Utah,Light Rail,mwj
+302,,CBD to University LRT,1998,4,Expansion,New Starts,Salt Lake City,Utah,Light Rail,mwj
 303,,Central Avenue Bus Rapid Transit Project,2016,16,Introduction,Small Starts,St. Petersburg,Florida,Bus Rapid Transit,mwj
 304,,"Central Broward Transit Study, Phase I",2015,13,Expansion,New Starts,Ft. Lauderdale ,Florida,Streetcar,mwj
 305,,Central Florida Commuter Rail Transit – Initial Operating Segment,2007,12,Introduction,New Starts,Orlando,Florida,Commuter Rail,mwj
 306,,Desire Streetcar Line,2000,22,Expansion,New Starts,New Orleans ,Louisiana ,Streetcar,mwj
 307,,Draper Transit Corridor,2009,3,Expansion,New Starts,Salt Lake City,Utah,Light Rail,mwj
-308,,East First Coast Flyer BRT,2015,12,Expansion,Small Starts,Jacksonville ,Florida,Bus Rapid Transit,mwj
+308,,East First Coast Flyer BRT,2015,12,Expansion,Small Starts,Jacksonville,Florida,Bus Rapid Transit,mwj
+309,a,East-West Corridor/Miami Intermodal Center (MOS),1995,10,Expansion,New Starts,Miami,Florida,Heavy Rail,mwj
 309,,East-West Corridor/Miami Intermodal Center,1995,10,Expansion,New Starts,Miami,Florida,Heavy Rail,mwj
-309,b,East-West Corridor/Miami Intermodal Center (MOS),1995,10,Expansion,New Starts,Miami,Florida,Heavy Rail,mwj
-310,,Flagler to duPont Place,1991,NAV,Expansion,New Starts,Jacksonville ,Florida,Light Rail,mwj
-310,b,Flagler to duPont Place - ASE Extension,1994,NAV,Expansion,New Starts,Jacksonville ,Florida,Light Rail,mwj
+310,a,Flagler to duPont Place - ASE Extension,1994,NAV,Expansion,New Starts,Jacksonville,Florida,Light Rail,mwj
+310,,Flagler to duPont Place,1991,NAV,Expansion,New Starts,Jacksonville,Florida,Light Rail,mwj
 311,,FrontRunner North Rail Project,2003,9,Introduction,New Starts,Salt Lake City,Utah,Commuter Rail,mwj
-312,,Hudson Tunnel,2016,NA,Improvement,New Starts,Seacaucus,New Jersey,Heavy Rail,mwj
-313,,Hudson-Bergen Waterfront Light Rail Transit System ,1993,30,Introduction,New Starts,Northern New Jersey,New Jersey,Light Rail,mwj
+312,,Hudson Tunnel,2016,NA,Improvement,New Starts,Secaucus,New Jersey,Heavy Rail,mwj
 313,a,Hudson-Bergen Waterfront Light Rail Transit System (MOS-1),1993,16,Introduction,New Starts,Northern New Jersey,New Jersey,Light Rail,mwj
 313,b,Hudson-Bergen Waterfront Light Rail Transit System (MOS-2),2000,7,Introduction,New Starts,Northern New Jersey,New Jersey,Light Rail,mwj
-314,,I-35 Commuter Rail,1999,5,Expansion,New Starts,Kansas city ,Missouri,Commuter Rail,mwj
+313,,Hudson-Bergen Waterfront Light Rail Transit System ,1993,30,Introduction,New Starts,Northern New Jersey,New Jersey,Light Rail,mwj
+314,,I-35 Commuter Rail,1999,5,Expansion,New Starts,Kansas City ,Missouri,Commuter Rail,mwj
 315,,JTA BRT North Corridor,2010,13,Expansion,Small Starts,Jacksonville,Florida,Bus Rapid Transit,mwj
 316,,JTA BRT Southeast Corridor,2011,7,Expansion,Small Starts,Jacksonville,Florida,Bus Rapid Transit,mwj
-317,,Largo Metrorail Extension,1996,2,Expansion,New Starts,Washington DC,Distrcit of Colombia ,Heavy Rail,mwj
-318,,"Martin Luther King, Jr. East Busway Extension",1998,3,Expansion,New Starts,Pittsburgh ,Pennsylvania ,Bus Rapid Transit,mwj
+317,,Largo Metrorail Extension,1996,2,Expansion,New Starts,Washington DC,District of Columbia ,Heavy Rail,mwj
+318,,"Martin Luther King, Jr. East Busway Extension",1998,3,Expansion,New Starts,Pittsburgh,Pennsylvania ,Bus Rapid Transit,mwj
 319,,Miami (North 27th Avenue Corridor),1997,7,Expansion,New Starts,Miami,Florida,Heavy Rail,mwj
 320,,Minillas Extension,1996,2,Expansion,New Starts,San Juan ,Puerto Rico,Heavy Rail,mwj
-321,a,Newark-Elizabeth Rail Link,1995,15,Introduction,New Starts,Northern New Jersey,New Jersey,Light Rail,mwj
-321,b,Newark-Elizabeth Rail Link (MOS I),2000,5,Expansion,New Starts,Northern New Jersey,New Jersey,Light Rail,mwj
-324,,North Shore LRT Connector,2001,6,Expansion,New Starts,Pittsburgh ,Pennsylvania ,Light Rail,mwj
+321,,Newark-Elizabeth Rail Link,1995,15,Introduction,New Starts,Northern New Jersey,New Jersey,Light Rail,mwj
+321,a,Newark-Elizabeth Rail Link (MOS I),2000,5,Expansion,New Starts,Northern New Jersey,New Jersey,Light Rail,mwj
+324,,North Shore LRT Connector,2001,6,Expansion,New Starts,Pittsburgh,Pennsylvania ,Light Rail,mwj
 325,,Ogden/Weber State University BRT,2018,13,Introduction,Small Starts,Ogden ,Utah,Bus Rapid Transit,mwj
-326,,Oklahoma city (Map Links),1995,NAV,Introduction,New Starts,"Oklahoma City, ",Oklahoma ,Streetcar,mwj
-327,,Oklahoma city (Map Links) Park Avenue Rail Loop,1995,NAV,Introduction,New Starts,"Oklahoma City, ",Oklahoma ,Streetcar,mwj
+326,,Oklahoma city (Map Links),1995,NAV,Introduction,New Starts,Oklahoma City,Oklahoma ,Streetcar,mwj
+327,,Oklahoma city (Map Links) Park Avenue Rail Loop,1995,NAV,Introduction,New Starts,Oklahoma City,Oklahoma ,Streetcar,mwj
 328,,Orlando (I-4 Central Florida Light Rail System) (MOS),1998,17,Improvement,New Starts,Orlando,Florida,Light Rail,mwj
-329,,Phase I Airport Busway/Wabash HOV Facility,1994,NAV,Expansion,New Starts,Pittsburgh ,Pennsylvania ,Bus Rapid Transit,mwj
+329,,Phase I Airport Busway/Wabash HOV Facility,1994,NAV,Expansion,New Starts,Pittsburgh,Pennsylvania ,Bus Rapid Transit,mwj
 330,,Portal North Bridge Replacement,2016,NA,Improvement,Core Capacity,Hudson County,New Jersey,Commuter Rail,mwj
-331,,Prospect MAX Bus Rapid Transit,2015,26,Expansion,Small Starts,Kansas city ,Missouri,Bus Rapid Transit,mwj
+331,,Prospect MAX Bus Rapid Transit,2015,26,Expansion,Small Starts,Kansas City ,Missouri,Bus Rapid Transit,mwj
 332,,Provo-Orem Bus Rapid Transit,2013,15,Introduction,Small Starts,Utah County,Utah,Bus Rapid Transit,mwj
 333,,Secaucus Transfer Station,1994,1,Expansion,New Starts,Northern New Jersey,New Jersey,Commuter Rail,mwj
 334,,South Corridor Rapid Transit Project,2019,16,Introduction,Small Starts,Miami,Florida,Bus Rapid Transit,mwj
-335,,South Extension of the Automated Skyway Express (ASE),1991,2,Expansion,New Starts,Jacksonville ,Florida,Light Rail,mwj
+335,,South Extension of the Automated Skyway Express (ASE),1991,2,Expansion,New Starts,Jacksonville,Florida,Light Rail,mwj
 336,,South Miami-Dade Bustway Extension,1998,12,Expansion,New Starts,Miami,Florida,Busway ,mwj
-337,,Southtown BRT,2001,NAV,Expansion,Small Starts,Kansas city ,Missouri,Bus Rapid Transit,mwj
-338,,Southtown Corridor,1995,NAV,Expansion,New Starts,Kansas city ,Missouri,Light Rail,mwj
-338,b,Southtown Corridor (Segment),1995,NAV,Expansion,New Starts,Kansas city ,Missouri,Light Rail,mwj
-339,,Southwest First Coast Flyer BRT,2015,13,Expansion,Small Starts,Jacksonville ,Florida,Bus Rapid Transit,mwj
+337,,Southtown BRT,2001,NAV,Expansion,Small Starts,Kansas City ,Missouri,Bus Rapid Transit,mwj
+338,a,Southtown Corridor (Segment),1995,NAV,Expansion,New Starts,Kansas City ,Missouri,Light Rail,mwj
+338,,Southtown Corridor,1995,NAV,Expansion,New Starts,Kansas City ,Missouri,Light Rail,mwj
+339,,Southwest First Coast Flyer BRT,2015,13,Expansion,Small Starts,Jacksonville,Florida,Bus Rapid Transit,mwj
+340,a,"St. Clair County, Illinois Corridor (IOS-1)",1996,8,Expansion,New Starts,St. Louis,Missouri,Light Rail,mwj
 340,,"St. Clair County, Illinois Corridor ",1996,NAV,Expansion,New Starts,St. Louis,Missouri,Light Rail,mwj
-340,b,"St. Clair County, Illinois Corridor (IOS-1)",1996,8,Expansion,New Starts,St. Louis,Missouri,Light Rail,mwj
 341,,St. Claude and Elysian Fields Streetcar Extensions,2018,5,Expansion,Small Starts,New Orleans ,Louisiana ,Streetcar,mwj
-342,,Stage II Light Rail Transit Reconstruction Project,1996,NAV,Improvement,New Starts,Pittsburgh ,Pennsylvania ,Light Rail,mwj
-343,,Streetcar Expansion,2017,9,Expansion,New Starts,Kansas city ,Missouri,Streetcar,mwj
+342,,Stage II Light Rail Transit Reconstruction Project,1996,NAV,Improvement,New Starts,Pittsburgh,Pennsylvania ,Light Rail,mwj
+343,,Streetcar Expansion,2017,9,Expansion,New Starts,Kansas City ,Missouri,Streetcar,mwj
 344,,SunRail Connector to Orlando Airport,2015,NAV,Expansion,Small Starts,Orlando,Florida,Commuter Rail,mwj
 345,,SunRail Phase II North,2013,1,Expansion,Small Starts,Orlando,Florida,Commuter Rail,mwj
 346,,SunRail Phase II South,2010,4,Expansion,New Starts,Orlando,Florida,Commuter Rail,mwj
@@ -166,8 +166,8 @@ ID,ID (letter),Name,Year of initial milestone,Number of stations,Project type,Fu
 349,,TramLinkBR,2016,11,Expansion,Small Starts,Baton Rouge,Louisiana ,Streetcar,mwj
 350,,TRAX Light Rail System- Medical Center Extension,1998,3,Expansion,New Starts,Salt Lake City,Utah,Light Rail,mwj
 351,,Tren Urbano,1996,16,Expansion,New Starts,San Juan ,Puerto Rico,Heavy Rail,mwj
+352,a,Tri-County Commuter Rail / Segment 5,1999,11,Improvement,New Starts,Ft. Lauderdale ,Florida,Commuter Rail,mwj
 352,,Tri-County Commuter Rail,1995,19,Improvement,New Starts,Ft. Lauderdale ,Florida,Commuter Rail,mwj
-352,b,Tri-County Commuter Rail / Segment 5,1999,11,Improvement,New Starts,Ft. Lauderdale ,Florida,Commuter Rail,mwj
 353,,Tri-Rail Double-track Corridor Improvement,1997,5,Improvement,New Starts,Ft. Lauderdale,Florida,Commuter Rail,mwj
 354,,Wave Streetcar,2013,12,Introduction,Small Starts,Ft. Lauderdale,Florida,Streetcar,mwj
 401,,Atlanta/North Line Extension,1991,2,Expansion,New Starts,Atlanta,Georgia,Heavy Rail,cox
@@ -178,7 +178,7 @@ ID,ID (letter),Name,Year of initial milestone,Number of stations,Project type,Fu
 406,,MARC Frederick Extension & Rolling Stock Procurement ,1995,2,Expansion,New Starts,Maryland City ,Maryland ,Commuter Rail,cox
 407,,Baltimore Red Line,2011,19,Introduction,New Starts,Baltimore,Maryland,Light Rail,cox
 408,,Maryland National Capital Purple Line,2011,21,Introduction,New Starts,Bethesda,Maryland,Light Rail,cox
-409,,Silver Line,1993,4,Expansion,New Starts,Boston,Massachussettes ,Bus Rapid Transit,cox
+409,,Silver Line,1993,4,Expansion,New Starts,Boston,Massachusetts,Bus Rapid Transit,cox
 410,,Green Line Extension,2012,7,Expansion,New Starts,Cambridge,Massachusetts,Light Rail,cox
 411,,Lowell-Nashua Commuter Rail Extension ,2000,7,Expansion,New Starts,Lowell,Massachusetts,Commuter Rail,cox
 412,,Burlington to Charlotte Corridor ,1995,4,Improvement,New Starts,Burlington,Vermont ,Commuter Rail,cox
@@ -218,9 +218,9 @@ ID,ID (letter),Name,Year of initial milestone,Number of stations,Project type,Fu
 446,,Denver Southeast Corridor LRT ,1998,14,Expansion,New Starts,Denver,Colorado,Light Rail,cox
 447,,Denver Southeast Rail Extension,2013,3,Expansion,New Starts,Denver,Colorado,Light Rail,cox
 501,,Douglas Branch Reconstruction,1999,11,Improvement,New Starts,Chicago,Illinois,Heavy Rail,zi
-502,,Union-Pacific West Line Extension,1998,2,Expansion,New Starts,Chicago,Illinois,Commuter,zi
+502,,Union-Pacific West Line Extension,1998,2,Expansion,New Starts,Chicago,Illinois,Commuter Rail,zi
 503,,Little Rock River Rail Project,1998,7,Introduction,New Starts,Little Rock,Arkansas,Streetcar,zi
-504,,Cenral Phoenix East Valley Light Rail,1998,28,Introduction,New Starts,Phoenix,Arizona,Light Rail,zi
+504,,Central Phoenix East Valley Light Rail,1998,28,Introduction,New Starts,Phoenix,Arizona,Light Rail,zi
 505,,South Central Phoenix LRT/Downtown Hub,2017,9,Expansion,New Starts,Phoenix,Arizona,Light Rail,zi
 506,,Northwest Phase II LRT Extension,2017,3,Expansion,New Starts,Phoenix,Arizona,Light Rail,zi
 507,,Modern Streetcar Project,2007,18,Introduction,New Starts,Tucson,Arizona,Streetcar,zi
@@ -228,7 +228,7 @@ ID,ID (letter),Name,Year of initial milestone,Number of stations,Project type,Fu
 509,,Central Mesa Light Rail Transit Extension,2010,4,Expansion,Small Starts,Mesa,Arizona,Light Rail,zi
 510,,Transit Spine BRT,2016,22,Introduction,Small Starts,Flagstaff,Arizona,Bus Rapid Transit,zi
 511,,Mountain Link BRT Project,2009,21,Introduction,Very Small Starts,Flagstaff,Arizona,Bus Rapid Transit,zi
-512,,Northstar Corridor Rail,2000,12,Introduction,New Starts,Minneapolis,Minnesota,Commuter,zi
+512,,Northstar Corridor Rail,2000,12,Introduction,New Starts,Minneapolis,Minnesota,Commuter Rail,zi
 513,,Southwest Light Rail Transit,2011,16,Expansion,New Starts,Minneapolis,Minnesota,Light Rail,zi
 514,,METRO Blue Line Extension,2014,11,Expansion,New Starts,Minneapolis,Minnesota,Light Rail,zi
 515,,METRO Orange Line Bus Rapid Transit Project,2014,11,Introduction,Small Starts,Minneapolis,Minnesota,Bus Rapid Transit,zi
@@ -236,21 +236,21 @@ ID,ID (letter),Name,Year of initial milestone,Number of stations,Project type,Fu
 517,,Central Corridor LRT,2006,18,Expansion,New Starts,St. Paul,Minnesota,Light Rail,zi
 518,,METRO Gold Bus Rapid Transit,2018,10,Introduction,New Starts,St. Paul,Minnesota,Bus Rapid Transit,zi
 519,,Rochester Downtown Circulator Bus Rapid Transit,2020,11,Introduction,Small Starts,Rochester,Minnesota,Bus Rapid Transit,zi
-520,,Wilmington to Newark Commuter Rail Improvements,2004,1,Improvement,New Starts,Wilimington,Delaware,Commuter,zi
+520,,Wilmington to Newark Commuter Rail Improvements,2004,1,Improvement,New Starts,Wilmington,Delaware,Commuter Rail,zi
 521,,LYNX Blue Line Extension - Northeast Corridor,2007,11,Introduction,New Starts,Charlotte,North Carolina,Light Rail,zi
 522,,CityLYNX Gold Line Phase 2 Streetcar,2014,11,Expansion,Small Starts,Charlotte,North Carolina,Streetcar,zi
 523,,Blue Line Capacity Expansion,2015,11,Improvement,Core Capacity,Charlotte,North Carolina,Light Rail,zi
 524,,South Corridor Light Rail Project,2000,19,Expansion,New Starts,Charlotte,North Carolina,Light Rail,zi
 525,,Durham-Orange LRT,2014,18,Introduction,New Starts,Durham,North Carolina,Light Rail,zi
-526,,Research Triangle Regional Rail System,1998,16,Introduction,New Starts,Durham,North Carolina,Commuter,zi
+526,,Research Triangle Regional Rail System,1998,16,Introduction,New Starts,Durham,North Carolina,Commuter Rail,zi
 527,,North-South BRT,2016,16,Introduction,Small Starts,Chapel Hill,North Carolina,Bus Rapid Transit,zi
 528,,Wake Bus Rapid Transit: New Bern Avenue Project,2019,10,Introduction,Small Starts,Raleigh,North Carolina,Bus Rapid Transit,zi
 529,,Lowcountry Rapid Transit Project,2020,20,Introduction,New Starts,Charleston,South Carolina,Bus Rapid Transit,zi
 530,,IndyGO Purple Line BRT,2017,23,Introduction,Small Starts,Indianapolis,Indiana,Bus Rapid Transit,zi
 531,,Red Line All-Electric BRT,2015,28,Introduction,Small Starts,Indianapolis,Indiana,Bus Rapid Transit,zi
 532,,IndyGO Blue Line Rapid Transit,2019,36,Introduction,Small Starts,Indianapolis,Indiana,Bus Rapid Transit,zi
-533,,West Lake Corridor,2016,4,Expansion,New Starts,Hammond,Indiana,Commuter,zi
-534,,South Shore Line /Double Track Northwest Indiana,2016,5,Improvement,Core Capacity,Gary,Indiana,Commuter,zi
+533,,West Lake Corridor,2016,4,Expansion,New Starts,Hammond,Indiana,Commuter Rail,zi
+534,,South Shore Line /Double Track Northwest Indiana,2016,5,Improvement,Core Capacity,Gary,Indiana,Commuter Rail,zi
 535,,New Britain Hartford Busway,2000,12,Introduction,New Starts,Hartford,Connecticut,Bus Rapid Transit,zi
 536,,Urban Transitway Phase II,2006,5,Expansion,New Starts,Stamford,Connecticut,Transitway,zi
 537,,Urban Transitway Phase I,2000,0,Improvement,New Starts,Stamford,Connecticut,Transitway,zi
@@ -266,14 +266,14 @@ ID,ID (letter),Name,Year of initial milestone,Number of stations,Project type,Fu
 547,,Resort Corridor Fixed Guideway,1998,7,Expansion,New Starts,Las Vegas,Nevada,Bus Rapid Transit,zi
 548,,Maryland Parkway High Capacity Transit Project,2020,14,Introduction,New Starts,Las Vegas,Nevada,Bus Rapid Transit,zi
 549,,East-West Connector BRT Project/ The AMP,2014,16,Introduction,Small Starts,Nashville,Tennessee,Bus Rapid Transit,zi
-550,,East Corridor Commuter Rail,1999,5,Introduction,New Starts,Nashville,Tennessee,Commuter,zi
+550,,East Corridor Commuter Rail,1999,5,Introduction,New Starts,Nashville,Tennessee,Commuter Rail,zi
 551,,Medical Center Extension,1998,3,Expansion,New Starts,Memphis,Tennessee,Light Rail,zi
 552,,Memphis Innovation Corridor Project,2020,31,Introduction,Small Starts,Memphis,Tennessee,Bus Rapid Transit,zi
-553,,Dulles Corridor Metrorail Project Extension to Wiehle Avenue ,2000,5,Expansion,Small Starts,Washington,District of Columbia,Heavy Rail,zi
+553,,Dulles Corridor Metrorail Project Extension to Wiehle Avenue ,2000,5,Expansion,Small Starts,Washington DC,District of Columbia,Heavy Rail,zi
 554,,East West Corridor BRT,2016,19,Introduction,Small Starts,Milwaukee,Wisconsin,Bus Rapid Transit,zi
 555,,Madison East West Bus Rapid Transit,2020,27,Introduction,Small Starts,Madison,Wisconsin,Bus Rapid Transit,zi
-556,,Pawtucket Central Falls Commuter Rail Station,2010,1,Expansion,New Starts,Pawtucket,Rhode Island,Commuter,zi
-557,,Rhode Island Commuter Rail Improvement,2001,0,Improvement,New Starts,Pawtucket,Rhode Island,Commuter,zi
-558,,South County Commuter Rail,2004,1,Introduction,New Starts,Providence,Rhode Island,Commuter,zi
+556,,Pawtucket Central Falls Commuter Rail Station,2010,1,Expansion,New Starts,Pawtucket,Rhode Island,Commuter Rail,zi
+557,,Rhode Island Commuter Rail Improvement,2001,0,Improvement,New Starts,Pawtucket,Rhode Island,Commuter Rail,zi
+558,,South County Commuter Rail,2004,1,Introduction,New Starts,Providence,Rhode Island,Commuter Rail,zi
 559,,Transportation Tomorrow South Central Corridor LRT,2001,22,Introduction,New Starts,Louisville,Kentucky,Light Rail,zi
 560,,Wake BRT - Western Corridor Project,2020,19,Introduction,Small Starts,Raleigh,North Carolina,Bus Rapid Transit,zi
