@@ -1,626 +1,700 @@
 ID,ID (letter),Name,Year,Milestone,Project length,Expected cost,Expected 5309 contribution,Expected other federal funds,Expected opening,Author
-100,,Downtown-Uptown-Oakland-East End BRT Project ,PP19,PP19,PP19,PP19,PP19,PP19,PP19,cam
-101,,Corridor one Rail MOS,AR07,AR07,AR07,AR07,AR07,AR07,,cam
-102,,Schuylkill Valley Metro Rail,AR07,AR07,AR07,AR07,AR07,,,cam
-103,,South/North Corridor (MOS-1),AR97,AR97,AR97,AR97,AR97,,AR97,cam
-104,,"Portland, Oregon/Westside-Hillsboro Corridor ",AR97,AR97,AR97,AR97,AR97,,AR97,cam
-104,,"Portland, Oregon/Westside-Hillsboro Corridor ",AR98,AR98,AR98,AR98,AR98,,AR98,cam
-104,,"Portland, Oregon/Westside-Hillsboro Corridor ",AR00,AR00,AR00,AR00,AR00,,AR00,cam
-105,,Westside Light Rail to 185th,AR97,AR97,AR97,AR97,AR97,,AR97,cam
-106,,South Corridor I-205 / Portland Mall LRT ,AR07,AR07,AR07,AR07,AR07,,AR07,cam
+104,,"Portland, Oregon/Westside-Hillsboro Corridor ",AR00,AR00,AR00,AR00,AR00,NAV,AR00,cam
+133,,Seattle-Tacoma Sounder Commuter Rail ,AR00,AR00,AR00,NAV,NAV,NAV,AR00,cam
+133,,Seattle-Tacoma Sounder Commuter Rail ,AR00,AR00,AR00,AR00,AR00,NAV,AR00,cam
+144,,Everett to Seattle Commuter Rail,AR00,AR00,AR00,AR00,AR00,NAV,AR00,cam
+152,,Lakewood to Tacoma Commuter Rail,AR01,AR01,AR01,AR01,AR01,NAV,AR01,cam
+111,,TriMet Interstate MAX Light Rail ,BA08,BA08,BA08,NAV,AR02,AR02,AR02,cam
+120,,Cleveland (Euclid Corridor) ,AR02,AR02,AR02,AR02,AR02,AR02,AR02,cam
+144,,Everett to Seattle Commuter Rail,AR01,AR01,AR01,AR01,AR01,NAV,AR02,cam
+144,,Everett to Seattle Commuter Rail,AR02,AR02,AR02,AR02,AR02,NAV,AR02,cam
+120,,Cleveland (Euclid Corridor) ,AR05,AR05,AR05,AR05,AR05,AR05,AR05,cam
+155,,Metra North Central Corridor,AR05,AR05,AR05,AR05,AR05,NAV,AR05,cam
+156,,Metra South West Corridor,AR05,AR05,AR05,AR05,AR05,NAV,AR05,cam
+144,,Everett to Seattle Commuter Rail,AR06,AR06,AR06,AR06,AR06,NAV,AR06,cam
+152,,Lakewood to Tacoma Commuter Rail,AR06,AR06,AR06,AR06,AR06,NAV,AR06,cam
+106,,South Corridor I-205 / Portland Mall LRT ,AR07,AR07,AR07,AR07,AR07,NAV,AR07,cam
+136,,University Link LRT Extension,AR07,AR07,AR07,AR07,AR07,NAV,AR07,cam
+158,,Ravenswood Line Extension,AR07,AR07,AR07,AR07,AR07,AR07,AR07,cam
+158,,Ravenswood Line Extension,AR08,AR08,AR08,AR08,AR08,AR08,AR08,cam
 106,,South Corridor I-205 / Portland Mall LRT ,AR10,AR10,AR10,AR10,AR10,AR10,AR10,cam
 107,,Portland-Milwaukie Light Rail Project,AR10,AR10,AR10,AR10,AR10,AR10,AR10,cam
 107,,Portland-Milwaukie Light Rail Project,AR10,AR10,AR10,AR10,AR10,AR10,AR10,cam
+118,,Pioneer Parkway EmX BRT ,NAV,AR10,AR10,NAV,NAV,NAV,AR10,cam
+118,,Pioneer Parkway EmX BRT ,NAV,AR10,AR10,AR10,AR10,AR10,AR10,cam
+118,,Pioneer Parkway EmX BRT ,NAV,AR10,AR10,NAV,NAV,NAV,AR10,cam
 108,,Columbia River Crossing Project,AR12,AR12,AR12,AR12,AR12,AR12,AR12,cam
+119,,West Eugene EmX Extension,AR14,AR14,AR 14,AR14,AR14,NAV,AR14,cam
+122,,Northeast Corridor BRT Project,AR14,AR14,AR14,AR14,AR14,NAV,AR14,cam
+123,,Northeast Corridor LRT ,AR14,AR14,NAV,AR14,AR14,NAV,AR14,cam
+124,,Cleveland Avenue Bus Rapid Transit,AR14,AR14,AR14,AR14,AR14,NAV,AR14,cam
 108,,Columbia River Crossing Project,AR15,AR15,AR15,AR15,AR15,AR15,AR15,cam
-109,,Columbia River Crossing Project,,,,,,,,cam
-110,,Powell-Division Transit and Development ,,,,,,,,cam
-111,,TriMet Interstate MAX Light Rail ,,,,,,,,cam
-112,,MAX Red Line Extension and Reliability Improvements,,,,,,,,cam
-113,,Westside Express Service Rail Project ,,,,,,,,cam
-114,,Green Line Light Rail Project ,,,,,,,,cam
-115,,Streetcar Loop Project ,,,,,,,,cam
-117,,Southwest Corridor Light Rail Transit Project,,,,,,,,cam
-118,,Pioneer Parkway EmX BRT ,,,,,,,,cam
-119,,West Eugene EmX Extension,,,,,,,,cam
-120,,Cleveland (Euclid Corridor) ,,,,,,,,cam
-121,,Interstate 71 corridor (MOS-1),,,,,,,,cam
-122,,Northeast Corridor BRT Project,,,,,,,,cam
-123,,Northeast Corridor LRT ,,,,,,,,cam
-124,,Cleveland Avenue Bus Rapid Transit,,,,,,,,cam
-125,,"Craig, Alaska (Alaska-Hollis Ketchikan Ferry) ",,,,,,,,cam
-126,,Alaska Rail Road - South Wasilla Track Realignment ,,,,,,,,cam
-127,,South Anchorage Double Track ,,,,,,,,cam
-128,,Alaska Marine Highway System ,,,,,,,,cam
-129,,Norfolk -Virginia Beach Corridor  (First phase),,,,,,,,cam
-130,,Norfolk LRT - The Tide Light Rail,,,,,,,,cam
-131,,West End Transitway,,,,,,,,cam
-132,,Richmond Highway BRT Project,,,,,,,,cam
-133,,Seattle-Tacoma Sounder Commuter Rail ,,,,,,,,cam
-134,,Central Link Initial Segment (Initial),,,,,,,,cam
-135,,Roosevelt RapidRide BRT ,,,,,,,,cam
-136,,University Link LRT Extension,,,,,,,,cam
-137,,Lynnwood Link Extension,,,,,,,,cam
-138,,Center City Connector Streetcar,,,,,,,,cam
-139,,Sound Transit-Federal Way Link Extension,,,,,,,,cam
-140,,Madison Street Corridor BRT,,,,,,,,cam
-141,,Link Extension and North Link,,,,,,,,cam
-142,,Airport Link,,,,,,,,cam
-143,,North Link,,,,,,,,cam
-144,,Everett to Seattle Commuter Rail,,,,,,,,cam
-145,,Federal Way Link Extension,,,,,,,,cam
-146,,Rapid Ride I,,,,,,,,cam
-147,,Rapid Ride K,,,,,,,,cam
-148,,Mill Plain Bus Rapid Transit,,,,,,,,cam
-149,,Fourth Plain Bus Rapid Transit,,,,,,,,cam
-150,,Swift II,,,,,,,,cam
-151,,Tacoma Link Light Rail Expansion,,,,,,,,cam
-152,,Lakewood to Tacoma Commuter Rail,,,,,,,,cam
-153,,Pacific Avenue/SR 7 Corridor,,,,,,,,cam
-154,,Central City Line,,,,,,,,cam
-155,,Metra North Central Corridor,,,,,,,,cam
-156,,Metra South West Corridor,,,,,,,,cam
-157,,Central Area Circulator,,,,,,,,cam
-158,,Ravenswood Line Extension,,,,,,,,cam
-159,,Ashland Avenue BRT Phase I,,,,,,,,cam
-160,,Red and Purple Line Modernization Project ,,,,,,,,cam
-161,,Red and Purple Line Modernization Project Phase I,,,,,,,,cam
+108,,Columbia River Crossing Project,AR15,AR15,AR15,AR15,AR15,AR15,AR15,cam
+119,,West Eugene EmX Extension,AR15,AR15,AR15,AR15,AR15,NAV,AR15,cam
+122,,Northeast Corridor BRT Project,AR15,AR15,AR15,AR15,AR15,NAV,AR15,cam
+124,,Cleveland Avenue Bus Rapid Transit,AR15,AR15,AR15,AR15,AR15,NAV,AR15,cam
+137,,Lynnwood Link Extension,AR15,AR15,AR15,AR15,AR15,NAV,AR15,cam
+141,,Link Extension and North Link,AR15,AR15,AR15,AR15,AR15,NAV,AR15,cam
+149,,Fourth Plain Bus Rapid Transit,AR15,AR15,AR15,AR15,AR15,AR15,AR15,cam
+161,,Red and Purple Line Modernization Project Phase I,AR15,AR15,AR15,AR15,NAV,NAV,AR15,cam
+119,,West Eugene EmX Extension,AR16,AR16,AR16,AR16,AR16,AR16,AR16,cam
+138,,Center City Connector Streetcar,AR16,AR16,AR16,AR16,AR16,NAV,AR16,cam
+149,,Fourth Plain Bus Rapid Transit,AR16,AR16,AR16,AR16,AR16,AR16,AR16,cam
+150,,Swift II,AR16,AR16,AR16,AR16,AR16,NAV,AR16,cam
+151,,Tacoma Link Light Rail Expansion,AR16,AR16,AR16,AR16,AR16,AR16,AR16,cam
+335,,South Extension of the Automated Skyway Express (ASE),AR95,Citation for FFGA Awarded,AR95,AR95,AR95,NAV,AR95,mwj
+206,,Eastside Corridor Extension Phase 2,AR97,AR97,AR97,AR97,AR97,AR97,AR97,am
+243,,South LRT,AR97,AR97,AR97,AR97,AR97,AR97,AR97,am
+309,,East-West Corridor/Miami Intermodal Center ,AR97,AR97,AR97,AR97,AR97,AR97,AR97,mwj
+310,b,Flagler to duPont Place - ASE Extension,AR97,AR97,AR97,AR97,AR97,AR97,AR97,mwj
+313,a,Hudson-Bergen Waterfront Light Rail Transit System (MOS-1),AR98,AR97,AR97,AR97,AR97,AR97,AR97,mwj
+333,,Secaucus Transfer Station ,AR97,AR97,AR97,AR97,AR97,AR97,AR97,mwj
+352,,Tri-County Commuter Rail ,AR97,AR97,AR97,AR97,AR97,AR97,AR97,mwj
+401,,Atlanta/North Line Extension,AR97,AR97,AR97,AR97,AR97,AR97,AR97,cox
+402,,Baltimore LRT Extensions ,AR97,AR97,AR97,AR97,AR97,AR97,AR97,cox
+409,a,South Boston Piers Phase I (MOS-2),AR97,AR97,AR97,AR97,AR97,AR97,AR97,cox
+409,b,South Boston Piers Phase II,AR97,AR97,AR97,AR97,AR97,AR97,AR97,cox
+412,,Burlington to Charlotte Corridor ,AR97,AR97,AR97,AR97,AR97,AR97,AR97,cox
+422,,Dallas North Central Corridor LRT,AR97,AR97,AR97,AR97,AR97,AR97,AR97,cox
+423,,Dallas Trinity Railtran Phase 2,AR97,AR97,AR97,AR97,AR97,AR97,AR97,cox
+428,,Houston Regional Bus Plan ,AR97,AR97,AR97,AR97,AR97,AR97,AR97,cox
+443,,Denver SW Corridor LRT,AR97,AR97,AR97,AR97,AR97,AR97,AR97,cox
+205,a,MOS-3 North Hollywood Extension,AR98,AR98,AR98,AR98,AR98,AR98,AR98,am
+205,c,MOS-3 The Mid-City Extension,AR97,AR97,AR97,AR97,NAV,NAV,AR98,am
+216,,San Francisco (Bayshore) ,AR98,AR98,AR98,AR98,AR98,AR98,AR98,am
+226,,Tasman LRT (West Extension) Phase 2,AR98,AR98,AR98,AR98,AR98,AR98,AR98,am
+232,,I-405/SR-55 Transitway and Direct Access HOV Ramps ,AR98,AR98,AR98,AR98,AR98,AR98,AR98,am
+310,,Flagler to duPont Place ,AR98,AR98,AR98,AR98,AR98,NAV,AR98,mwj
+328,,Orlando (I-4 Central Florida Light Rail System) (MOS),AR98,AR98,AR98,AR98,AR98,AR98,AR98,mwj
+329,,Phase I Airport Busway/Wabash HOV Facility ,AR96,AR96,AR96,AR96,AR96,AR96,AR98,mwj
+406,,MARC Frederick Extension & Rolling Stock Procurement ,AR98,AR98,AR98,AR98,AR98,AR98,AR98,cox
+409,a,South Boston Piers Phase I (MOS-2),AR98,AR98,AR98,AR98,AR98,AR98,AR98,cox
+409,b,South Boston Piers Phase II,AR98,AR98,AR98,AR98,AR98,AR98,AR98,cox
+412,,Burlington to Charlotte Corridor ,AR98,AR98,AR98,AR98,AR98,AR98,AR98,cox
+414,,Queens Connector,AR98,AR98,AR98,AR98,AR98,AR98,AR98,cox
+422,,Dallas North Central Corridor LRT,AR98,AR98,AR98,AR98,AR98,AR98,AR98,cox
+215,,BART Airport Extension ,AR99,AR99,AR99,AR99,AR99,AR99,AR99,am
+222,,South corridor (IOS-1),AR99,AR99,AR99,AR99,AR99,AR99,AR99,am
+243,,South LRT,AR99,AR99,AR99,AR99,AR99,AR99,AR99,am
+244,,Downtown connector ,AR00,AR00,AR00,AR00,AR00,AR00,AR00,am
+309,b,East-West Corridor/Miami Intermodal Center (MOS),AR00,AR00,AR00,AR00,AR00,NAV,AR00,mwj
+401,,Atlanta/North Line Extension,AR00,AR00,AR00,AR00,AR00,AR00,AR00,cox
+403,,Baltimore Central Light Rail Double Tracking ,AR00,AR00,AR00,AR00,AR00,AR00,AR00,cox
+409,a,South Boston Piers Phase I (MOS-2),AR00,AR00,AR00,AR00,AR00,AR00,AR00,cox
+409,b,South Boston Piers Phase II,AR00,AR00,AR00,AR00,AR00,AR00,AR00,cox
+422,,Dallas North Central Corridor LRT,AR00,AR00,AR00,AR00,AR00,AR00,AR00,cox
+423,,Dallas Trinity Railtran Phase 2,AR00,AR00,AR00,AR00,AR00,AR00,AR00,cox
+433,,Northwest/North Central Corridor ,AR00,AR00,AR00,AR00,AR00,AR00,AR00,cox
+443,,Denver SW Corridor LRT,AR00,AR00,AR00,AR00,AR00,AR00,AR00,cox
+501,,Douglas Branch Reconstruction,AR00,AR00,AR00,AR00,AR00,NA,AR00,zi
+503,,Little Rock River Rail Project,AR00,AR00,AR00,AR00,AR00,NA,AR00,zi
+516,,Hiawatha Corridor LRT,AR00,AR00,AR00,AR00,AR00,NA,AR00,zi
+526,,Research Triangle Regional Rail System,AR00,AR00,AR00,AR00,AR00,NA,AR00,zi
+547,,Resort Corridor Fixed Guideway,AR00,AR00,AR00,AR00,AR00,AR00,AR00,zi
+551,,Medical Center Extension,AR00,AR00,AR00,AR00,AR00,NA,AR00,zi
+301,,Canal Streetcar Spine ,AR00,AR00,AR00,AR00,AR00,NAV,AR01,mwj
+352,b,Tri-County Commuter Rail / Segment 5 ,AR01,AR01,AR01,AR01,AR01,AR01,AR01,mwj
+401,,Atlanta/North Line Extension,AR01,AR01,AR01,AR01,AR01,AR01,AR01,cox
+403,,Baltimore Central Light Rail Double Tracking ,AR01,AR01,AR01,AR01,AR01,AR01,AR01,cox
+404,,MARC Commuter Rail Improvements,AR01,AR01,AR01,AR01,AR01,AR01,AR01,cox
+409,a,South Boston Piers Phase I (MOS-2),AR01,AR01,AR01,AR01,AR01,AR01,AR01,cox
+415,,Long Island Rail Road Access to Manhattan's East Side ,AR01,AR01,AR01,AR01,AR01,AR01,AR01,cox
+423,,Dallas Trinity Railtran Phase 2,AR01,AR01,AR01,AR01,AR01,AR01,AR01,cox
+432,,Houston Downtown to Astrodome Light Rail,AR01,AR01,AR01,AR01,AR01,AR01,AR01,cox
+434,,Austin Light Rail Corridors,AR01,AR01,AR01,AR01,AR01,AR01,AR01,cox
+446,,Denver Southeast Corridor LRT ,AR01,AR01,AR01,AR01,AR01,AR01,AR01,cox
+501,,Douglas Branch Reconstruction,AR01,AR01,AR01,AR01,AR01,AR01,AR01,zi
+503,,Little Rock River Rail Project,AR01,AR01,AR01,AR01,AR01,AR01,AR01,zi
+516,,Hiawatha Corridor LRT,AR02,AR02,AR01,AR01,AR01,AR01,AR01,zi
+535,,New Britain Hartford Busway,AR01,AR01,AR01,AR01,AR01,AR01,AR01,zi
+550,,East Corridor Commuter Rail,AR01,AR01,AR01,AR01,AR01,AR01,AR01,zi
+551,,Medical Center Extension,AR01,AR01,AR01,AR01,AR01,NA,AR01,zi
+553,,Dulles Corridor Metrorail Project Extension to Wiehle Avenue ,AR01,AR01,AR01,AR01,AR01,AR01,AR01,zi
+205,a,MOS-3 North Hollywood Extension,AR02,AR02,AR02,AR02,AR02,AR02,AR02,am
+218,,Third Street Light Rail Phase 1 ,AR02,AR02,AR02,AR02,AR02,AR02,AR02,am
+218,,Third Street Light Rail Phase 2,AR02,AR02,AR02,AR02,AR02,AR02,AR02,am
+222,,South corridor (IOS-1),AR02,AR02,AR02,AR02,AR02,AR02,AR02,am
+226,,Tasman LRT (West Extension) Phase 3,AR02,AR02,AR02,AR02,AR02,AR02,AR02,am
+352,b,Tri-County Commuter Rail / Segment 5 ,AR02,AR02,AR02,AR02,AR02,AR02,AR02,mwj
+411,,Lowell-Nashua Commuter Rail Extension ,AR02,AR02,AR02,AR02,AR02,AR02,AR02,cox
+415,,Long Island Rail Road Access to Manhattan's East Side ,AR02,AR02,AR02,AR02,AR02,AR02,AR02,cox
+446,,Denver Southeast Corridor LRT ,AR02,AR02,AR02,AR02,AR02,AR02,AR02,cox
+501,,Douglas Branch Reconstruction,AR02,AR02,AR02,AR01,AR01,AR02,AR02,zi
+501,,Douglas Branch Reconstruction,AR02,AR02,AR02,AR02,AR02,AR02,AR02,zi
+503,,Little Rock River Rail Project,AR02,AR02,AR02,AR02,AR02,AR02,AR02,zi
+516,,Hiawatha Corridor LRT,AR02,AR02,AR02,AR02,AR02,AR02,AR02,zi
+526,,Research Triangle Regional Rail System,AR02,AR02,AR02,AR02,AR02,AR02,AR02,zi
+535,,New Britain Hartford Busway,AR02,AR02,AR02,AR02,AR02,AR02,AR02,zi
+537,,Urban Transitway Phase I,AR02,AR02,AR02,AR02,AR02,AR02,AR02,zi
+547,,Resort Corridor Fixed Guideway,AR02,AR02,AR02,AR02,AR02,AR02,AR02,zi
+550,,East Corridor Commuter Rail,AR02,AR02,AR02,AR02,AR02,AR02,AR02,zi
+551,,Medical Center Extension,AR02,AR02,AR02,AR02,AR02,NA,AR02,zi
+242,,SPRINTER Light Rail (Oceanside-Escondido) ,AR03,AR03,AR03,AR03,AR03,AR03,AR03,am
+302,,CBD to university LRT ,AR02,AR03,AR03,AR03,AR03,AR03,AR03,mwj
+403,,Baltimore Central Light Rail Double Tracking ,AR03,AR03,AR03,AR03,AR03,AR03,AR03,cox
+404,,MARC Commuter Rail Improvements,AR03,AR03,AR03,AR03,AR03,AR03,AR03,cox
+416,a,Second Avenue Subway Phase 1,AR03,AR03,AR03,AR03,AR03,AR03,AR03,cox
+434,,Austin Light Rail Corridors,AR03,AR03,AR03,AR03,AR03,AR03,AR03,cox
+441,,Rail Trolley Extension ,AR03,AR03,AR03,AR03,AR03,AR03,AR03,cox
+502,,Union-Pacific West Line Extension,AR03,AR03,AR03,AR03,AR03,AR03,AR03,zi
+526,,Research Triangle Regional Rail System,AR03,AR03,AR03,AR03,AR03,AR02,AR03,zi
+535,,New Britain Hartford Busway,AR03,AR03,AR03,AR03,AR03,AR03,AR03,zi
+538,,Bridgeport Innermodal Transportation Center Phase 2B and 3,AR02,AR03,AR03,AR03,AR03,AR03,AR03,zi
+540,,Primary Corridor Transportation Project,AR03,AR03,NAV,AR03,AR03,NAV,AR03,zi
+547,,Resort Corridor Fixed Guideway,AR03,AR03,AR03,AR03,AR03,NAV,AR03,zi
+550,,East Corridor Commuter Rail,AR03,AR03,AR07,AR03,AR03,AR02,AR03,zi
+553,,Dulles Corridor Metrorail Project Extension to Wiehle Avenue ,AR01,AR01,AR01,AR03,AR03,NAV,AR03,zi
+217,,Central Subway LRT ,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,am
+234,,"San Diego County, California/Mission Valley East ",AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,am
+243,,South LRT,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,am
+405,,MARC Penn-Camden connection ,AR-2004,Final Design,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,cox
+409,c,Silver Line Phase III,AR-2004,Preliminary Engineering,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,cox
+413,,Burlington-Essex Commuter Rail Project,AR-2004,Preliminary Engineering,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,cox
+415,,Long Island Rail Road Access to Manhattan's East Side ,AR-2004,Final Design,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,cox
+416,a,Second Avenue Subway Phase 1,AR-2004,Preliminary Engineering,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,cox
+425,,Dallas Northwest / Southeast LRT MOS ,AR-2004,Preliminary Engineering,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,cox
+444,,Denver West Corridor LRT,AR-2004,Preliminary Engineering,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,cox
+502,,Union-Pacific West Line Extension,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,zi
+503,,Little Rock River Rail Project,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,zi
+526,,Research Triangle Regional Rail System,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,AR-2002,AR-2004,zi
+540,,Primary Corridor Transportation Project,AR-2004,AR-2004,NAV,AR-2004,AR-2004,NAV,AR-2004,zi
+547,,Resort Corridor Fixed Guideway,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,NAV,AR-2004,zi
+550,,East Corridor Commuter Rail,AR-2004,AR-2004,AR-2007,AR-2004,AR-2004,NAV,AR-2004,zi
+553,,Dulles Corridor Metrorail Project Extension to Wiehle Avenue ,AR-2001,AR-2001,AR-2001,AR-2004,AR-2004,AR-2004,AR-2004,zi
+215,,BART Airport Extension ,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,am
+242,,SPRINTER Light Rail (Oceanside-Escondido) ,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,am
+301,,Canal Streetcar Spine ,AR-2005,FFGA Awarded,AR-2005,AR-2005,AR-2005,NAV,AR-2005,mwj
+302,,CBD to university LRT ,AR-2005,Project Opening,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,mwj
+313,a,Hudson-Bergen Waterfront Light Rail Transit System (MOS-1),AR-2005,Project Opening,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,mwj
+317,,Largo Metrorail Extension ,AR-2005,FFGA Awarded,AR-2005,AR-2005,AR-2005,NAV,AR-2005,mwj
+321,b,Newark-Elizabeth Rail Link  (MOS I),AR-2002,FFGA Awarded,AR-2002,AR-2002,AR-2002,AR-2002,AR-2005,mwj
+324,,North Shore LRT Connector ,AR-2005,Final Design,AR-2005,BA,AR-2005,AR-2005,AR-2005,mwj
+342,,Stage II Light Rail Transit Reconstruction Project ,AR-2005,FFGA Awarded,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,mwj
+350,, TRAX Light Rail System- Medical Center Extension ,AR-2005,FFGA Awarded,AR-2005,AR-2005,AR-2005,NAV,AR-2005,mwj
+409,c,Silver Line Phase III,AR-2005,Preliminary Engineering,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,cox
+425,,Dallas Northwest / Southeast LRT MOS ,AR-2005,Preliminary Engineering,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,cox
+438,,Sun Metro Areas Rapid Transit (SMART) Starter Line ,AR-2005,Preliminary Engineering,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,cox
+444,,Denver West Corridor LRT,AR-2005,Preliminary Engineering,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,cox
+503,,Little Rock River Rail Project,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,zi
+504,,Cenral Phoenix East Valley Light Rail,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,zi
+526,,Research Triangle Regional Rail System,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,zi
+535,,New Britain Hartford Busway,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,zi
+540,,Primary Corridor Transportation Project,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,zi
+409,c,Silver Line Phase III,AR-2006,Preliminary Engineering,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,cox
+416,b,Second Avenue Subway MOS,AR-2006,Preliminary Engineering,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,cox
+425,,Dallas Northwest / Southeast LRT MOS ,AR-2006,Final Design,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,cox
+444,,Denver West Corridor LRT,AR-2006,Preliminary Engineering,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,cox
+503,,Little Rock River Rail Project,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,zi
+504,,Cenral Phoenix East Valley Light Rail,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,AR-2007,AR-2006,zi
+524,,South Corridor Light Rail Project,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,AR-2007,AR-2006,zi
+526,,Research Triangle Regional Rail System,AR-2005,AR-2006,AR-2007,AR-2006,AR-2006,AR-2006,AR-2006,zi
+537,,Urban Transitway Phase I,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,zi
+540,,Primary Corridor Transportation Project,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,zi
+547,,Resort Corridor Fixed Guideway,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,zi
+234,,"San Diego County, California/Mission Valley East ",AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,am
+246,,Weber County to Salt Lake City Commuter Rail ,AR-2005,AR-2005,AR-2007,AR-2005,AR-2005,AR-2005,AR-2007,am
+246,,Weber County to Salt Lake City Commuter Rail ,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,am
+246,,Weber County to Salt Lake City Commuter Rail ,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,am
+415,,Long Island Rail Road Access to Manhattan's East Side ,AR-2007,Final Design,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,cox
+416,b,Second Avenue Subway MOS,AR-2007,Preliminary Engineering,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,cox
+429,,Houston North Corridor LRT(MOS) ,AR-2007,Preliminary Engineering,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,cox
+444,,Denver West Corridor LRT,AR-2007,Final Design,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,cox
+512,,Northstar Corridor Rail,AR-2006,AR-2006,AR-2007,AR-2006,AR-2007,AR-2007,AR-2007,zi
+520,,Wilmington to Newark Commuter Rail Improvements,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,zi
+526,,Research Triangle Regional Rail System,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,zi
+535,,New Britain Hartford Busway,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,zi
+550,,East Corridor Commuter Rail,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,zi
+553,,Dulles Corridor Metrorail Project Extension to Wiehle Avenue ,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,NA,AR-2007,zi
+558,,South County Commuter Rail,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,zi
+409,c,Silver Line Phase III,AR-2008,Preliminary Engineering,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,cox
+415,,Long Island Rail Road Access to Manhattan's East Side ,AR-2008,FFGA Awarded,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,cox
+416,b,Second Avenue Subway MOS,AR-2008,Final Design,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,cox
+444,,Denver West Corridor LRT,AR-2008,Final Design,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,cox
+512,,Northstar Corridor Rail,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,zi
+517,,Central Corridor LRT,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,zi
+520,,Wilmington to Newark Commuter Rail Improvements,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,zi
+535,,New Britain Hartford Busway,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,zi
+536,,Urban Transitway Phase II,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,zi
+553,,Dulles Corridor Metrorail Project Extension to Wiehle Avenue ,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,zi
+444,,Denver West Corridor LRT,AR-2009,Final Design,AR-2009,AR-2009,AR-2009,AR-2009,AR-2009,cox
+208,,Metro Gold Line Eastside Extension ,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,am
+246,,Weber County to Salt Lake City Commuter Rail ,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,am
+313,b,Hudson-Bergen Waterfront Light Rail Transit System (MOS-2),AR-2010,FFGA Awarded,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,mwj
+409,c,Silver Line Phase III,AR-2010,Preliminary Engineering,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,cox
+416,b,Second Avenue Subway MOS,AR-2010,FFGA Awarded,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,cox
+429,,Houston North Corridor LRT(MOS) ,AR-2010,Preliminary Engineering,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,cox
+430,,Houston Southeast Corridor LRT,AR-2010,Preliminary Engineering,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,cox
+435,,MetroRapid Bus Rapid Transit Project ,AR-2010,Project Development,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,cox
+444,,Denver West Corridor LRT,AR-2010,FFGA Awarded,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,cox
+445,,Denver Eagle Commuter Rail (East Corridor and Gold Line),AR-2010,Preliminary Engineering,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,cox
+507,,Modern Streetcar Project,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,zi
+511,,Mountain Link BRT Project,BA,BA,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,zi
+512,,Northstar Corridor Rail,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,zi
+517,,Central Corridor LRT,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,zi
+520,,Wilmington to Newark Commuter Rail Improvements,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,zi
+521,,LYNX Blue Line Extension - Northeast Corridor,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,NA,AR-2010,zi
+535,,New Britain Hartford Busway,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,zi
+536,,Urban Transitway Phase II,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,zi
+541,,Division Avenue/Silver Line BRT,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,zi
+553,,Dulles Corridor Metrorail Project Extension to Wiehle Avenue ,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,zi
+553,,Dulles Corridor Metrorail Project Extension to Wiehle Avenue ,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,zi
+217,,Central Subway LRT ,AR-2011,AR-2011,AR-2011,AR-2011,AR-2011,AR-2011,AR-2011,am
+429,,Houston North Corridor LRT(MOS) ,AR-2011,Final Design,AR-2011,AR-2011,AR-2011,AR-2011,AR-2011,cox
+430,,Houston Southeast Corridor LRT,AR-2011,Final Design,AR-2011,AR-2011,AR-2011,AR-2011,AR-2011,cox
+431,,Houston University Corridor LRT,AR-2011,Preliminary Engineering,AR-2011,AR-2011,AR-2011,AR-2011,AR-2011,cox
+435,,MetroRapid Bus Rapid Transit Project ,AR-2011,Project Development,AR-2011,AR-2011,AR-2011,AR-2011,AR-2011,cox
+445,,Denver Eagle Commuter Rail (East Corridor and Gold Line),AR-2011,Preliminary Engineering,AR-2011,AR-2011,AR-2011,AR-2011,AR-2011,cox
+507,,Modern Streetcar Project,AR-2011,AR-2011,AR-2011,AR-2011,AR-2011,NA,AR-2011,zi
+539,,High Capacity Transit Corridor Project,AR-2011,AR-2011,AR-2011,AR-2011,AR-2011,AR-2011,AR-2011,zi
+558,,South County Commuter Rail,AR-2009,AR-2009,AR-2011,AR-2009,AR-2009,AR-2011,AR-2011,zi
+445,,Denver Eagle Commuter Rail (East Corridor and Gold Line),AR-2012,Final Design,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,cox
+507,,Modern Streetcar Project,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,zi
+513,,Southwest Light Rail Transit,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,zi
+517,,Central Corridor LRT,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,zi
+521,,LYNX Blue Line Extension - Northeast Corridor,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,NA,AR-2012,zi
+535,,New Britain Hartford Busway,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,zi
+556,,Pawtucket Central Falls Commuter Rail Station,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,zi
+558,,South County Commuter Rail,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,zi
+210,,Westside Subway Extension Section 1,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,am
+219,,Third Street Light Rail Phase 2 – Central Subway,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,am
+219,,Third Street Light Rail Phase 2 – Central Subway,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,am
+239,,East Bay BRT,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,am
+307,,Draper Transit Corridor ,AR-2013,FFGA Awarded,AR-2011,AR-2013,AR-2013,AR-2013,AR-2013,mwj
+407,,Baltimore Red Line,AR-2013,Preliminary Engineering,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,cox
+408,,Maryland National Capital Purple Line,AR-2013,Preliminary Engineering,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,cox
+429,,Houston North Corridor LRT(MOS) ,AR-2013,FFGA Awarded,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,cox
+430,,Houston Southeast Corridor LRT,AR-2013,FFGA Awarded,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,cox
+431,,Houston University Corridor LRT,AR-2013,Preliminary Engineering,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,cox
+436,,Dyer Avenue Bus Rapid Transit System,AR-2013,Project Development,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,cox
+509,,Central Mesa Light Rail Transit Extension,BA,BA,AR-2013,BA,AR-2013,AR-2013,AR-2013,zi
+517,,Central Corridor LRT,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,zi
+521,,LYNX Blue Line Extension - Northeast Corridor,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,NA,AR-2013,zi
+535,,New Britain Hartford Busway,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,zi
+539,,High Capacity Transit Corridor Project,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,zi
+541,,Division Avenue/Silver Line BRT,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,zi
+220,,Van Ness Avenue BRT ,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,am
+223,,South  Corridor Phase Light Rail Transit Extension,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,am
+228,,Silicon Valley Berryessa Extension Project,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,am
+235,,Mid-Coast Corridor Transit Project,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,am
+235,,Mid-Coast Corridor Transit Project,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,am
+305,,Central Florida Commuter Rail Transit – Initial Operating Segment,AR-2013,Final Design,AR-2013,AR-2013,AR-2013,NAV,AR-2014,mwj
+315,,JTA BRT North Corridor,AR-2014,Project Development,AR-2014,AR-2014,AR-2014,NAV,AR-2014,mwj
+316,,JTA BRT Southeast Corridor,AR-2014,Project Development,AR-2014,AR-2014,AR-2014,NAV,AR-2014,mwj
+332,,Provo-Orem Bus Rapid Transit,AR-2014,Project Development,AR-2014,AR-2014,AR-2014,NAV,AR-2014,mwj
+346,,SunRail Phase II South,AR-2014,Preliminary Engineering,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,mwj
+354,,Wave Streetcar,AR-2014,Project Development,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,mwj
+407,,Baltimore Red Line,AR-2014,Project Development,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,cox
+408,,Maryland National Capital Purple Line,AR-2014,Project Development,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,cox
+410,,Green Line Extension ,AR-2014,Preliminary Engineering,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,cox
+436,,Dyer Avenue Bus Rapid Transit System,AR-2014,Project Development,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,cox
+437,,Montana Avenue Rapid Transit System,AR-2014,Project Development,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,cox
+439,,TEX Rail,AR-2014,Project Development,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,cox
+447,,Denver Southeast Rail Extension,AR-2014,Project Development,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,cox
+508,,Tempe Streetcar,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,zi
+509,,Central Mesa Light Rail Transit Extension,BA,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,zi
+539,,High Capacity Transit Corridor Project,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,zi
+541,,Division Avenue/Silver Line BRT,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,zi
+543,,Michigan/Grand River BRT,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,zi
+219,,Third Street Light Rail Phase 2 – Central Subway,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,am
+227,,El Camino Real Corridor BRT Project ,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,am
+237,,Blackstone/Kings Canyon Bus Rapid Transit,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,am
+407,,Baltimore Red Line,AR-2015,Project Development,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,cox
+408,,Maryland National Capital Purple Line,AR-2015,Project Development,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,cox
+410,,Green Line Extension ,AR-2015,Preliminary Engineering,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,cox
+436,,Dyer Avenue Bus Rapid Transit System,AR-2015,Project Development,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,cox
+439,,TEX Rail,AR-2015,Project Development,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,cox
+508,,Tempe Streetcar,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,zi
+521,,LYNX Blue Line Extension - Northeast Corridor,AR-2015,AR-2013,AR-2015,AR-2015,AR-2015,NA,AR-2015,zi
+521,,LYNX Blue Line Extension - Northeast Corridor,AR-2015,AR-2013,AR-2015,AR-2015,AR-2015,NA,AR-2015,zi
+522,,CityLYNX Gold Line Phase 2 Streetcar,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,NA,AR-2015,zi
+525,,Durham-Orange LRT,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,zi
+535,,New Britain Hartford Busway,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,zi
+544,,Central Avenue Corridor/Albuquerque Rapid Transit BRT Project,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,zi
+545,,4th Street/Prater Way BRT Project,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,zi
+549,,East-West Connector BRT Project/ The AMP,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,zi
+220,,Van Ness Avenue BRT ,AR-2016,AR-2016,AR-2016,AR-2016,AR-2016,AR-2016,AR-2016,am
+224,,Downtown Riverfront Streetcar,AR-2016,AR-2016,AR-2016,AR-2016,AR-2016,AR-2016,AR-2016,am
+237,,Blackstone/Kings Canyon Bus Rapid Transit,AR-2016,AR-2017,AR-2016,AR-2016,AR-2016,AR-2016,AR-2016,am
+240,,San Rafael to Larkspur Regional Connection,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2016,am
+407,,Baltimore Red Line,AR-2016,Project Development,AR-2016,AR-2016,AR-2016,AR-2016,AR-2016,cox
+408,,Maryland National Capital Purple Line,AR-2016,Engineering,AR-2016,AR-2016,AR-2016,AR-2016,AR-2016,cox
+436,,Dyer Avenue Bus Rapid Transit System,AR-2016,Project Development,AR-2016,AR-2016,AR-2016,AR-2016,AR-2016,cox
+437,,Montana Avenue Rapid Transit System,AR-2016,Project Development,AR-2016,AR-2016,AR-2016,AR-2016,AR-2016,cox
+439,,TEX Rail,AR-2016,Project Development,AR-2016,AR-2016,AR-2016,AR-2016,AR-2016,cox
+447,,Denver Southeast Rail Extension,AR-2016,Project Development,AR-2016,AR-2016,AR-2016,AR-2016,AR-2016,cox
+346,,SunRail Phase II South,AR-2017,FFGA Awarded,AR-2017,AR-2017,AR-2017,AR-2017,AR-2017,mwj
+545,,6th Street/Prater Way BRT Project,AR-2018,AR-2018,AR-2018,AR-2018,AR-2018,AR-2018,AR-2018,zi
+546,,Virginia Street BRT Extension Project,AR-2021,AR-2021,AR-2021,AR-2021,AR-2021,AR-2021,AR-2021,zi
+508,,Tempe Streetcar,AR-21,AR-21,PP-20,PP-20,PP-20,PP-20,AR-21,zi
+103,,South/North Corridor (MOS-1),AR97,AR97,AR97,AR97,AR97,NAV,AR97,cam
+104,,"Portland, Oregon/Westside-Hillsboro Corridor ",AR97,AR97,AR97,AR97,AR97,NAV,AR97,cam
+105,,Westside Light Rail to 185th,AR97,AR97,AR97,AR97,AR97,NAV,AR97,cam
+104,,"Portland, Oregon/Westside-Hillsboro Corridor ",AR98,AR98,AR98,AR98,AR98,NAV,AR98,cam
+144,,Everett to Seattle Commuter Rail,AR98,AR98,AR98,AR98,AR98,NAV,AR98,cam
+305,,Central Florida Commuter Rail Transit – Initial Operating Segment,BA,Project Opening,BA,BA,NAV,NAV,BA,mwj
+311,, FrontRunner North Rail Project ,BA,Project Opening,BA,NAV,NAV,NAV,BA,mwj
+351,,Tren Urbano,BA,FFGA Awarded,BA,BA,BA,BA,BA,mwj
+351,,Tren Urbano,BA,FFGA Awarded-2,BA,BA,BA,BA,BA,mwj
+351,,Tren Urbano,BA,Project Opening,BA,BA,BA,BA,BA,mwj
+352,b,Tri-County Commuter Rail / Segment 5 ,BA,Preliminary Engineering,BA,BA,BA,BA,BA,mwj
+352,b,Tri-County Commuter Rail / Segment 5 ,BA,FFGA Awarded-2,BA,BA,BA,BA,BA,mwj
+352,b,Tri-County Commuter Rail / Segment 5 ,BA,Project Opening,BA,BA,BA,BA,BA,mwj
+425,,Dallas Northwest / Southeast LRT MOS ,BA,Preliminary Engineering,BA,BA,BA,BA,BA,cox
+425,,Dallas Northwest / Southeast LRT MOS ,BA,FFGA Awarded,BA,BA,BA,BA,BA,cox
+425,,Dallas Northwest / Southeast LRT MOS ,BA,Project Opening,BA,BA,BA,BA,BA,cox
+435,,MetroRapid Bus Rapid Transit Project ,BA,PCGA,BA,BA,BA,BA,BA,cox
+435,,MetroRapid Bus Rapid Transit Project ,BA,Project Opening,BA,BA,BA,BA,BA,cox
+504,,Cenral Phoenix East Valley Light Rail,BA,BA,BA,BA,AR-2008,AR-2008,BA,zi
+511,,Mountain Link BRT Project,BA,BA,BA,BA,AR-2010,BA,BA,zi
+511,,Mountain Link BRT Project,BA,BA,BA,BA,BA,BA,BA,zi
+512,,Northstar Corridor Rail,BA,BA,BA,BA,AR-2010,NAV,BA,zi
+517,,Central Corridor LRT,BA,BA,BA,BA,AR-2013,AR-2013,BA,zi
+524,,South Corridor Light Rail Project,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,NA,BA,zi
+524,,South Corridor Light Rail Project,AR-2003,AR-2003,NAV,AR-2003,AR-2003,NA,BA,zi
+524,,South Corridor Light Rail Project,AR-2004,AR-2004,NAV,AR-2004,AR-2004,NA,BA,zi
+524,,South Corridor Light Rail Project,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,NA,BA,zi
+524,,South Corridor Light Rail Project,BA,BA,AR-2007,BA,AR-2007,AR-2007,BA,zi
+524,,South Corridor Light Rail Project,AR-2007,BA,AR-2007,BA,AR-2007,AR-2007,BA,zi
+524,,South Corridor Light Rail Project,BA,BA,BA,BA,AR-2007,AR-2007,BA,zi
+134,,Central Link Initial Segment (Initial),BA13,BA13,BA13,BA13,BA13,NAV,BA13,cam
+142,,Airport Link,BA13,BA13,BA13,BA13,BA13,NAV,BA13,cam
+142,,Airport Link,BA13,BA13,BA13,BA13,BA13,NAV,BA13,cam
+114,,Green Line Light Rail Project ,BA14,BA14,BA14,BA14,NAV,NAV,BA14,cam
+114,,Green Line Light Rail Project ,BA14,BA14,BA14,NAV,NAV,NAV,BA14,cam
+114,,Green Line Light Rail Project ,BA14,BA14,BA14,NAV,NAV,NAV,BA14,cam
+114,,Green Line Light Rail Project ,BA14,BA14,BA14,NAV,NAV,NAV,BA14,cam
+130,,Norfolk LRT - The Tide Light Rail,BA15,BA15,BA15,BA15,NAV,NAV,BA15,cam
+130,,Norfolk LRT - The Tide Light Rail,BA15,BA15,BA15,BA15,NAV,NAV,BA15,cam
+130,,Norfolk LRT - The Tide Light Rail,BA15,BA15,BA15,BA15,NAV,NAV,BA15,cam
+130,,Norfolk LRT - The Tide Light Rail,BA15,BA15,BA15,BA15,NAV,NAV,BA15,cam
+115,,Streetcar Loop Project ,NAV,BA16,BA16,BA16,NAV,NAV,BA16,cam
+115,,Streetcar Loop Project ,NAV,BA16,BA16,BA16,NAV,NAV,BA16,cam
+115,,Streetcar Loop Project ,NAV,BA16,BA16,BA16,NAV,NAV,BA16,cam
+242,,SPRINTER Light Rail (Oceanside-Escondido) ,BA-2011,BA-2011,BA-2011,BA-2011,BA-2011,BA-2011,BA-2011,am
+208,,Metro Gold Line Eastside Extension ,BA-2013,BA-2013,BA-2013,BA-2013,BA-2013,BA-2013,BA-2013,am
+208,,Metro Gold Line Eastside Extension ,BA-2013,BA-2013,BA-2013,BA-2013,BA-2013,BA-2013,BA-2013,am
+208,,Metro Gold Line Eastside Extension ,BA-2013,BA-2013,BA-2013,BA-2013,BA-2013,BA-2013,BA-2013,am
+245,,Mid-Jordan LRT ,BA-2016,BA-2016,BA-2016,BA-2016,NAV,BA-2016,BA-2016,am
+502,,Union-Pacific West Line Extension,AR-2000,AR-2000,AR-2000,AR-2000,AR-2000,NA,NA,zi
+502,,Union-Pacific West Line Extension,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,NA,NA,zi
+502,,Union-Pacific West Line Extension,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,NA,NA,zi
+504,,Cenral Phoenix East Valley Light Rail,AR-2000,AR-2000,AR-2000,AR-2000,AR-2000,NA,NA,zi
+504,,Cenral Phoenix East Valley Light Rail,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,NA,NA,zi
+504,,Cenral Phoenix East Valley Light Rail,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,NA,zi
+504,,Cenral Phoenix East Valley Light Rail,AR-2003,AR-2003,BA,AR-2003,AR-2003,AR-2003,NA,zi
+101,,Corridor one Rail MOS,AR07,AR07,AR07,AR07,AR07,AR07,NAV,cam
+102,,Schuylkill Valley Metro Rail,AR07,AR07,AR07,AR07,AR07,NAV,NAV,cam
+109,,Columbia River Crossing Project,NAV,NAV,NAV,NAV,NAV,NAV,NAV,cam
+111,,TriMet Interstate MAX Light Rail ,BA08,BA08,BA08,NAV,NAV,NAV,NAV,cam
+111,,TriMet Interstate MAX Light Rail ,BA08,BA08,BA08,NAV,NAV,NAV,NAV,cam
+111,,TriMet Interstate MAX Light Rail ,BA08,BA08,BA08,NAV,NAV,NAV,NAV,cam
+111,,TriMet Interstate MAX Light Rail ,BA08,BA08,BA08,NAV,NAV,NAV,NAV,cam
+112,,MAX Red Line Extension and Reliability Improvements,NAV,NAV,NAV,NAV,NAV,NAV,NAV,cam
+113,,Westside Express Service Rail Project ,AR02,AR02,NAV,NAV,NAV,NAV,NAV,cam
+113,,Westside Express Service Rail Project ,AR02,AR02,NAV,NAV,NAV,NAV,NAV,cam
+113,,Westside Express Service Rail Project ,AR02,AR02,AR02,AR02,AR02,NAV,NAV,cam
+119,,West Eugene EmX Extension,AR17,AR17,AR17,NAV,NAV,NAV,NAV,cam
+121,,Interstate 71 corridor (MOS-1),AR02,AR02,AR02,AR02,AR02,NAV,NAV,cam
+121,,Interstate 71 corridor (MOS-1),AR04,NAV,NAV,AR04,AR04,NAV,NAV,cam
+121,,Interstate 71 corridor (MOS-1),AR05,NAV,AR05,NAV,NAV,NAV,NAV,cam
+121,,Interstate 71 corridor (MOS-1),AR06,NAV,NAV,NAV,NAV,NAV,NAV,cam
+125,,"Craig, Alaska (Alaska-Hollis Ketchikan Ferry) ",NAV,NAV,NAV,NAV,NAV,NAV,NAV,cam
+126,,Alaska Rail Road - South Wasilla Track Realignment ,AR05,NAV,NAV,AR05,AR05,NAV,NAV,cam
+127,,South Anchorage Double Track ,AR03,NAV,NAV,AR03,AR03,NAV,NAV,cam
+128,,Alaska Marine Highway System ,NAV,NAV,NAV,NAV,NAV,NAV,NAV,cam
+129,,Norfolk -Virginia Beach Corridor  (First phase),NAV,NAV,NAV,NAV,NAV,NAV,NAV,cam
+132,,Richmond Highway BRT Project,AR22,AR22,NAV,AR22,AR22,NAV,NAV,cam
+134,,Central Link Initial Segment (Initial),BA13,BA13,BA13,BA13,NAV,NAV,NAV,cam
+134,,Central Link Initial Segment (Initial),BA13,BA13,BA13,BA13,NAV,NAV,NAV,cam
+135,,Roosevelt RapidRide BRT ,AR19,AR19,NAV,AR19,AR19,NAV,NAV,cam
+135,,Roosevelt RapidRide BRT ,AR20,AR20,NAV,AR20,AR20,NAV,NAV,cam
+136,,University Link LRT Extension,AR07,AR07,NAV,NAV,NAV,NAV,NAV,cam
+136,,University Link LRT Extension,AR07,AR07,NAV,NAV,NAV,NAV,NAV,cam
+137,,Lynnwood Link Extension,AR17,AR17,NAV,AR17,AR17,NAV,NAV,cam
+138,,Center City Connector Streetcar,AR18,AR18,NAV,AR18,AR18,NAV,NAV,cam
+138,,Center City Connector Streetcar,AR19,AR19,NAV,AR19,AR19,NAV,NAV,cam
+138,,Center City Connector Streetcar,AR20,AR20,NAV,AR20,AR20,NAV,NAV,cam
+138,,Center City Connector Streetcar,AR21,AR21,NAV,AR21,AR21,NAV,NAV,cam
+139,,Sound Transit-Federal Way Link Extension,AR19,AR19,NAV,AR19,AR19,NAV,NAV,cam
+139,,Sound Transit-Federal Way Link Extension,AR20,AR20,NAV,AR20,AR20,NAV,NAV,cam
+141,,Link Extension and North Link,AR15,AR15,AR15,NAV,NAV,NAV,NAV,cam
+141,,Link Extension and North Link,AR15,AR15,AR15,NAV,NAV,NAV,NAV,cam
+143,,North Link,NAV,NAV,NAV,NAV,NAV,NAV,NAV,cam
+145,,Federal Way Link Extension,AR18,AR18,NAV,AR18,NAV,NAV,NAV,cam
+145,,Federal Way Link Extension,AR19,AR19,NAV,AR19,NAV,NAV,NAV,cam
+145,,Federal Way Link Extension,AR20,AR20,NAV,AR20,NAV,NAV,NAV,cam
+145,,Federal Way Link Extension,AR21,AR21,NAV,AR21,NAV,NAV,NAV,cam
+146,,Rapid Ride I,AR21,AR21,NAV,AR21,NAV,NAV,NAV,cam
+146,,Rapid Ride I,AR22,AR22,NAV,AR22,AR22,NAV,NAV,cam
+147,,Rapid Ride K,AR21,AR21,NAV,AR21,NAV,NAV,NAV,cam
+148,,Mill Plain Bus Rapid Transit,AR20,AR20,NAV,AR20,AR20,NAV,NAV,cam
+148,,Mill Plain Bus Rapid Transit,AR21,AR21,NAV,AR21,AR21,NAV,NAV,cam
+150,,Swift II,AR17,AR17,NAV,AR17,AR17,NAV,NAV,cam
+150,,Swift II,AR18,AR18,NAV,AR18,AR18,NAV,NAV,cam
+150,,Swift II,AR19,AR19,NAV,AR19,AR19,NAV,NAV,cam
+151,,Tacoma Link Light Rail Expansion,AR17,AR17,NAV,AR17,AR17,NAV,NAV,cam
+151,,Tacoma Link Light Rail Expansion,AR18,AR18,NAV,AR18,AR18,NAV,NAV,cam
+151,,Tacoma Link Light Rail Expansion,AR19,AR19,NAV,AR19,AR19,NAV,NAV,cam
+152,,Lakewood to Tacoma Commuter Rail,AR00,AR00,AR00,NAV,NAV,NAV,NAV,cam
+152,,Lakewood to Tacoma Commuter Rail,AR05,AR05,AR05,AR05,AR05,NAV,NAV,cam
+153,,Pacific Avenue/SR 7 Corridor,AR20,AR20,NAV,AR20,AR20,NAV,NAV,cam
+153,,Pacific Avenue/SR 7 Corridor,AR21,AR21,NAV,AR21,AR21,NAV,NAV,cam
+153,,Pacific Avenue/SR 7 Corridor,AR22,AR22,NAV,AR22,AR22,NAV,NAV,cam
+154,,Central City Line,AR 17,AR 17,NAV,AR 17,NAV,NAV,NAV,cam
+154,,Central City Line,AR19,AR19,NAV,AR19,AR19,NAV,NAV,cam
+157,,Central Area Circulator,AR97,AR97,AR97,AR97,AR97,NAV,NAV,cam
+158,,Ravenswood Line Extension,AR03,AR03,AR03,AR03,AR03,AR03,NAV,cam
+158,,Ravenswood Line Extension,AR04,AR04,AR04,AR04,AR04,AR04,NAV,cam
+158,,Ravenswood Line Extension,AR05,AR05,AR05,AR05,AR05,NAV,NAV,cam
+159,,Ashland Avenue BRT Phase I,AR15,AR15,AR15,AR15,AR15,NAV,NAV,cam
+160,,Red and Purple Line Modernization Project ,AR15,AR15,AR15,AR15,AR15,NAV,NAV,cam
+161,,Red and Purple Line Modernization Project Phase I,AR16,AR16,AR16,AR16,AR16,NAV,NAV,cam
+161,,Red and Purple Line Modernization Project Phase I,AR18,AR18,AR18,AR18,AR18,NAV,NAV,cam
 200,,Mason Transportation Corridor,AR-2003,AR-2003,AR-2003,AR-2003,AR-2003,AR-2003,NAV,am
+200,,Mason Transportation Corridor,AR-2011,AR-2011,AR-2011,AR-2011,AR-2011,AR-2011,NAV,am
 201,,San Fernando Valley East-West Transit Corridor,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,NAV,am
 202,,Mid-City/Exposition LRT,AR-2003,AR-2003,AR-2003,AR-2003,AR-2003,AR-2003,NAV,am
 203,,East Central Corridor,AR-1995,AR-1995,AR-1995,AR-1995,AR-1995,AR-1995,NAV,am
 204,,Eastside Corridor LRT,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,NAV,am
-205,,MOS-3 ,AR-1997,AR-1997,AR-1997,AR-1997,AR-1997,AR-1997,NAV,am
-205,a,MOS-3 North Hollywood Extension,AR-1998,AR-1998,AR-1998,AR-1998,AR-1998,AR-1998,AR-1998,am
 205,b,MOS-3 East Side Extension,AR-1997,AR-1997,AR-1997,AR-1997,NAV,NAV,NAV,am
-205,c,MOS-3 The Mid-City Extension,AR-1997,AR-1997,AR-1997,AR-1997,NAV,NAV,AR-1998,am
-206,,Eastside Corridor Extension Phase 2,AR-1997,AR-1997,AR-1997,AR-1997,AR-1997,AR-1997,AR-1997,am
+205,,MOS-3 ,AR-1997,AR-1997,AR-1997,AR-1997,AR-1997,AR-1997,NAV,am
 207,,LOSSAN Rail Corridor Improvement Project ,AR-1997,AR-1997,AR-1997,AR-1997,AR-1997,AR-1997,NAV,am
-208,,Metro Gold Line Eastside Extension ,BA-2013,BA-2013,BA-2013,BA-2013,BA-2013,BA-2013,BA-2013,am
-209,,Regional Connector,PP-2018,PP-2018,PP-2018,PP-2018,PP-2018,PP-2018,PP-2018,am
-210,,Westside Subway Extension Section 1,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,am
-211,,Westside Purple Line Extension Section 1,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,am
-212,,Westside Purple Line Extension Section 2,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,am
-213,,Westside Purple Line Extension Section 3,PP-2019,PP-2019,PP-2019,PP-2019,PP-2019,PP-2019,PP-2019,am
 214,,Downtown Los Angeles Streetcar,AR-2016,AR-2016,AR-2016,AR-2016,AR-2016,AR-2016,NAV,am
 215,,BART Airport Extension ,AR-1997,AR-1997,AR-1997,AR-1997,AR-1997,AR-1997,NAV,am
-216,,San Francisco (Bayshore) ,AR-1998,AR-1998,AR-1998,AR-1998,AR-1998,AR-1998,AR-1998,am
-217,,Central Subway LRT ,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,am
-218,,Third Street Light Rail Phase 1 ,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,am
-219,,Third Street Light Rail Phase 2 – Central Subway,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,am
-220,,Van Ness Avenue BRT ,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,am
-221,,Transbay Corridor ,PP-2019,PP-2019,PP-2019,PP-2019,PP-2019,PP-2019,PP-2019,am
-222,,South corridor (IOS-1),AR-1999,AR-1999,AR-1999,AR-1999,AR-1999,AR-1999,AR-1999,am
 223,,South  Corridor Phase Light Rail Transit Extension,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,NAV,am
-224,,Downtown Riverfront Streetcar,AR-2016,AR-2016,AR-2016,AR-2016,AR-2016,AR-2016,AR-2016,am
 225,,Tasman LRT (West Extension),AR-1995,AR-1995,AR-1995,AR-1995,AR-1995,AR-1995,NAV,am
 226,,Tasman LRT (West Extension) Phase 1,AR-1997,AR-1997,AR-1997,AR-1997,AR-1997,AR-1997,NAV,am
-227,,El Camino Real Corridor BRT Project ,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,am
 228,,Silicon Valley Berryessa Extension Project,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,NAV,am
-229,,Silicon Valley Phase II,PP-2018,AR-2018,PP-2018,AR-2018,AR-2018,AR-2018,PP-2018,am
+228,,Silicon Valley Berryessa Extension Project,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,NAV,am
 230,,Mid Coast Corridor (LR),AR-1998,AR-1998,AR-1998,AR-1998,AR-1998,AR-1998,NAV,am
 231,,Oceanside-Escondido Rail Corridor ,AR-2000,AR-2000,AR-2000,AR-2000,AR-2000,AR-2000,NAV,am
 233,,CenterLine LRT Project ,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,NAV,am
 234,,"San Diego County, California/Mission Valley East ",AR-2000,AR-2000,AR-2000,AR-2000,AR-2000,AR-2000,NAV,am
-235,,Mid-Coast Corridor Transit Project,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,am
+234,,"San Diego County, California/Mission Valley East ",AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,NAV,am
 236,,Caltrain Peninsula Corridor Electrification Project ,AR-2017,AR-2017,AR-2017,AR-2017,AR-2017,AR-2017,NAV,am
-237,,Blackstone/Kings Canyon Bus Rapid Transit,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,am
-238,,Garden Grove Streetcar,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,PP-2019,am
-239,,East Bay BRT,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,am
-240,,San Rafael to Larkspur Regional Connection,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2016,am
-241,,Redlands Passenger Rail Project,PP-2018,PP-2018,PP-2018,PP-2018,PP-2018,PP-2018,PP-2018,am
-242,,SPRINTER Light Rail (Oceanside-Escondido) ,AR-2003,AR-2003,AR-2003,AR-2003,AR-2003,AR-2003,AR-2003,am
-243,,South LRT,AR-1997,AR-1997,AR-1997,AR-1997,AR-1997,AR-1997,AR-1997,am
-244,,Downtown connector ,AR-2000,AR-2000,AR-2000,AR-2000,AR-2000,AR-2000,AR-2000,am
 245,,Mid-Jordan LRT ,AR-2011,AR-2011,AR-2011,BA-2016,NAV,AR-2011,NAV,am
-246,,Weber County to Salt Lake City Commuter Rail ,AR-2005,AR-2005,AR-2007,AR-2005,AR-2005,AR-2005,AR-2007,am
-301,,Canal Streetcar Spine ,AR-1997,Preliminary Engineering,AR-1997,AR-1997,AR-1997,,,mwj
-301,,Canal Streetcar Spine ,AR-2000,Final Design,AR-2000,AR-2000,AR-2000,,AR-2001,mwj
-301,,Canal Streetcar Spine ,AR-2005,FFGA Awarded,AR-2005,AR-2005,AR-2005,,AR-2005,mwj
-301,,Canal Streetcar Spine ,https://en.wikipedia.org/wiki/Canal_Streetcar_Line,Project Opening,,,,,,mwj
-302,,CBD to university LRT ,AR-2005,Preliminary Engineering,AR-2001,AR-2001,AR-2001,,,mwj
-302,,CBD to university LRT ,AR-2005,Final Design,AR-2005,,,,,mwj
-302,,CBD to university LRT ,AR-2005,Project Opening,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,mwj
-302,,CBD to university LRT ,AR-2002,FFGA Awarded,AR-2003,AR-2003,AR-2003,AR-2003,AR-2003,mwj
-303,,Central Avenue Bus Rapid Transit Project,PP,Project Development,PP,PP,PP,,PP,mwj
-304,,"Central Broward Transit Study, Phase I ",AR-2017,Project Development,PP,,,,PP,mwj
-304,,"Central Broward Transit Study, Phase I ",https://www.broward.org/BCT/Documents/BCT_2020-29-TDPAnnualUpdate.pdf,Project Cancelled,,,,,,mwj
-305,,Central Florida Commuter Rail Transit – Initial Operating Segment,AR-2013,Preliminary Engineering,AR-2013,AR-2013,AR-2013,,,mwj
-305,,Central Florida Commuter Rail Transit – Initial Operating Segment,AR-2013,Final Design,AR-2013,AR-2013,AR-2013,,AR-2014,mwj
-305,,Central Florida Commuter Rail Transit – Initial Operating Segment,AR-2013,FFGA Awarded,AR-2013,AR-2013,AR-2013,,,mwj
-305,,Central Florida Commuter Rail Transit – Initial Operating Segment,BA,Project Opening,BA,BA,,,BA,mwj
-306,,Desire Streetcar Line ,AR-2002,Preliminary Engineering,AR-2002,AR-2002,AR-2002,AR-2002,,mwj
-307,,Draper Transit Corridor ,AR-2013,Preliminary Engineering,AR-2011,AR-2011,AR-2011,,,mwj
-307,,Draper Transit Corridor ,AR-2013,FFGA Awarded,AR-2011,AR-2013,AR-2013,AR-2013,AR-2013,mwj
-307,,Draper Transit Corridor ,https://www.hdrinc.com/portfolio/draper-transit-corridor-environmental-impact-statement,Project Opening,https://www.hdrinc.com/portfolio/draper-transit-corridor-environmental-impact-statement,,,,,mwj
-308,,JTA BRT East Corridor,PP,Project Development,PP,PP,PP,,,mwj
-308,,JTA BRT East Corridor,AR-2020,CGA,AR-2020,AR-2020,AR-2020,,,mwj
-309,,East-West Corridor/Miami Intermodal Center ,AR-1997,Project Development,AR-1997,AR-1997,AR-1997,AR-1997,AR-1997,mwj
-309,,East-West Corridor/Miami Intermodal Center ,AR -2000,Final Design,AR -2000,AR -2000,AR -2000,AR -2000,,mwj
-309,b,East-West Corridor/Miami Intermodal Center (MOS),AR-1998,Preliminary Engineering,AR-1998,AR-1998,AR-1998,,,mwj
-309,b,East-West Corridor/Miami Intermodal Center (MOS),AR-1998,Project Development,AR-1998,AR-1998,AR-1998,,,mwj
-309,b,East-West Corridor/Miami Intermodal Center (MOS),AR -2000,Final Design,AR-2000,AR-2000,AR-2000,,AR-2000,mwj
-310,,Flagler to duPont Place ,AR-1998,FFGA Awarded,AR-1998,AR-1998,AR-1998,,AR-1998,mwj
-310,b,Flagler to duPont Place - ASE Extension,AR-1997,FFGA Awarded,AR-1997,AR-1997,AR-1997,AR-1997,AR-1997,mwj
-311,, FrontRunner North Rail Project ,BA,Preliminary Engineering,BA,BA,,,,mwj
-311,, FrontRunner North Rail Project ,BA,Final Design,BA,BA,,,,mwj
-311,, FrontRunner North Rail Project ,BA,FFGA Awarded,BA,BA,,,,mwj
-311,, FrontRunner North Rail Project ,BA,Project Opening,BA,,,,BA,mwj
+245,,Mid-Jordan LRT ,AR-2011,AR-2011,AR-2011,AR-2011,AR-2011,AR-2011,NAV,am
+245,,Mid-Jordan LRT ,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,NAV,am
+301,,Canal Streetcar Spine ,AR-1997,Preliminary Engineering,AR-1997,AR-1997,AR-1997,NAV,NAV,mwj
+301,,Canal Streetcar Spine ,https://en.wikipedia.org/wiki/Canal_Streetcar_Line,Project Opening,NAV,NAV,NAV,NAV,NAV,mwj
+302,,CBD to university LRT ,AR-2005,Preliminary Engineering,AR-2001,AR-2001,AR-2001,NAV,NAV,mwj
+302,,CBD to university LRT ,AR-2005,Final Design,AR-2005,NAV,NAV,NAV,NAV,mwj
+304,,"Central Broward Transit Study, Phase I ",https://www.broward.org/BCT/Documents/BCT_2020-29-TDPAnnualUpdate.pdf,Project Cancelled,NAV,NAV,NAV,NAV,NAV,mwj
+305,,Central Florida Commuter Rail Transit – Initial Operating Segment,AR-2013,Preliminary Engineering,AR-2013,AR-2013,AR-2013,NAV,NAV,mwj
+305,,Central Florida Commuter Rail Transit – Initial Operating Segment,AR-2013,FFGA Awarded,AR-2013,AR-2013,AR-2013,NAV,NAV,mwj
+306,,Desire Streetcar Line ,AR-2002,Preliminary Engineering,AR-2002,AR-2002,AR-2002,AR-2002,NAV,mwj
+307,,Draper Transit Corridor ,AR-2013,Preliminary Engineering,AR-2011,AR-2011,AR-2011,NAV,NAV,mwj
+307,,Draper Transit Corridor ,https://www.hdrinc.com/portfolio/draper-transit-corridor-environmental-impact-statement,Project Opening,https://www.hdrinc.com/portfolio/draper-transit-corridor-environmental-impact-statement,NAV,NAV,NAV,NAV,mwj
+308,,JTA BRT East Corridor,PP,Project Development,PP,PP,PP,NAV,NAV,mwj
+308,,JTA BRT East Corridor,AR-2020,CGA,AR-2020,AR-2020,AR-2020,NAV,NAV,mwj
+309,b,East-West Corridor/Miami Intermodal Center (MOS),AR-1998,Preliminary Engineering,AR-1998,AR-1998,AR-1998,NAV,NAV,mwj
+309,b,East-West Corridor/Miami Intermodal Center (MOS),AR-1998,Project Development,AR-1998,AR-1998,AR-1998,NAV,NAV,mwj
+309,,East-West Corridor/Miami Intermodal Center ,AR -2000,Final Design,AR -2000,AR -2000,AR -2000,AR -2000,NAV,mwj
+311,, FrontRunner North Rail Project ,BA,Preliminary Engineering,BA,BA,NAV,NAV,NAV,mwj
+311,, FrontRunner North Rail Project ,BA,Final Design,BA,BA,NAV,NAV,NAV,mwj
+311,, FrontRunner North Rail Project ,BA,FFGA Awarded,BA,BA,NAV,NAV,NAV,mwj
+313,a,Hudson-Bergen Waterfront Light Rail Transit System (MOS-1),AR-1997,Preliminary Engineering,AR-1997,NAV,NAV,NAV,NAV,mwj
+313,b,Hudson-Bergen Waterfront Light Rail Transit System (MOS-2),AR-2001,Final Design,AR-2001,AR-2001,AR-2001,AR-2001,NAV,mwj
+313,b,Hudson-Bergen Waterfront Light Rail Transit System (MOS-2),https://www.state.nj.us/transportation/about/press/2003/110603.shtm,Project Opening,NAV,https://www.state.nj.us/transportation/about/press/2003/110603.shtm,NAV,NAV,NAV,mwj
+313,,Hudson-Bergen Waterfront Light Rail Transit System ,AR-1997,Preliminary Engineering,AR-1997,AR-1997,AR-1997,NAV,NAV,mwj
+314,,I-35 Commuter Rail ,AR-2002,Preliminary Engineering,AR-2002,AR-2002,AR-2002,NAV,NAV,mwj
+315,,JTA BRT North Corridor,AR-2017,CGA,AR-2017,NAV,NAV,NAV,NAV,mwj
+317,,Largo Metrorail Extension ,AR-1997,Preliminary Engineering,AR-1997,AR-1997,AR-1997,AR-1997,NAV,mwj
+318,,"Martin Luther King, Jr. East Busway Extension ",AR-2000,Preliminary Engineering,AR-2000,AR-2000,AR-2000,AR-2000,NAV,mwj
+318,,"Martin Luther King, Jr. East Busway Extension ",https://pittsburgh.pahighways.com/busways/ebusway.html,Final Design,https://pittsburgh.pahighways.com/busways/ebusway.html,https://pittsburgh.pahighways.com/busways/ebusway.html,NAV,NAV,NAV,mwj
+318,,"Martin Luther King, Jr. East Busway Extension ",https://pittsburgh.pahighways.com/busways/ebusway.html,Project Opening,https://pittsburgh.pahighways.com/busways/ebusway.html,https://pittsburgh.pahighways.com/busways/ebusway.html,NAV,NAV,NAV,mwj
+319,,Miami (North 27th Avenue Corridor) ,AR-1997,Project Development,AR-1997,AR-1997,AR-1997,AR-1997,NAV,mwj
+319,,North 27th Avenue Corridor,AR-2002,Preliminary Engineering,AR-2002,AR-2002,AR-2002,NAV,NAV,mwj
+320,,Minillas Extension ,AR-2000,Final Design,AR-2000,AR-2000,AR-2000,AR-2000,NAV,mwj
+321,a,Newark-Elizabeth Rail Link ,AR-1997,Preliminary Engineering,AR-1997,AR-1997,AR-1997,AR-1997,NAV,mwj
+321,b,Newark-Elizabeth Rail Link  (MOS I),AR-2000,Preliminary Engineering,AR-2000,AR-2000,AR-2000,AR-2000,NAV,mwj
+323,,North Corridor Metro Rail Extension ,AR-2005,Preliminary Engineering,AR-2005,AR-2005,AR-2005,AR-2005,NAV,mwj
+323,,North Corridor Metro Rail Extension ,AR-2012,Project Cancelled,AR-2011,AR-2011,AR-2011,NAV,NAV,mwj
+324,,North Shore LRT Connector ,AR-2002,Preliminary Engineering,AR-2002,BA,AR-2002,NAV,NAV,mwj
+324,,North Shore LRT Connector ,AR-2010,FFGA Awarded,AR-2010,AR-2010,AR-2010,AR-2010,NAV,mwj
+324,,North Shore LRT Connector ,BA,Recovery Plan ,BA,BA,NAV,NAV,NAV,mwj
+324,,North Shore LRT Connector ,BA,Project Opening,BA,BA,NAV,NAV,NAV,mwj
+326,,Oklahoma city (Map Links),AR-1998,Preliminary Engineering,AR-1998,AR-1998,AR-1998,AR-1998,NAV,mwj
+327,,Oklahoma city (Map Links) Park Avenue Rail Loop ,AR-1997,Project Development,AR-1997,AR-1997,AR-1997,AR-1997,NAV,mwj
+328,,Orlando (I-4 Central Florida Light Rail System) (MOS),AR-2000,Final Design,AR-2000,AR-2000,AR-2000,AR-2000,NAV,mwj
+332,,Provo-Orem Bus Rapid Transit,AR-2018,CGA,BA,BA,BA,NAV,NAV,mwj
+336,,South Miami-Dade Busway Extension ,AR-2000,Preliminary Engineering,AR-2000,AR-2000,AR-2000,AR-2000,NAV,mwj
+336,,South Miami-Dade Busway Extension ,AR-2002,Final Design,AR-2002,AR-2002,AR-2002,AR-2002,NAV,mwj
+337,,Southtown BRT ,AR-2005,Preliminary Engineering,AR-2005,AR-2005,AR-2005,NAV,NAV,mwj
+337,,Southtown BRT ,AR-2006,Final Design,AR-2006,AR-2006,AR-2006,NAV,NAV,mwj
+338,b,Southtown Corridor (Segment),AR-2000,Preliminary Engineering,AR-2000,AR-2000,AR-2000,NAV,NAV,mwj
+338,,Southtown Corridor ,AR-1997,Preliminary Engineering,AR-1997,AR-1997,AR-1997,NAV,NAV,mwj
+339,,Southwest Corridor ,AR-2017,Project Development,PP,AR-2017,AR-2017,NAV,NAV,mwj
+340,b,"St. Clair County, Illinois Corridor (IOS-1)",AR-1997,Preliminary Engineering,AR-1997,AR-1997,AR-1997,AR-1997,NAV,mwj
+340,b,"St. Clair County, Illinois Corridor (IOS-1)",AR-2005,Final Design,AR-2005,AR-2005,AR-2005,AR-2005,NAV,mwj
+340,b,"St. Clair County, Illinois Corridor (IOS-1)",AR-1999,FFGA Awarded,AR-1999,AR-1999,AR-1999,NAV,NAV,mwj
+340,b,"St. Clair County, Illinois Corridor (IOS-1)",AR-2005,Project Opening,AR-2005,AR-2005,AR-2005,AR-2005,NAV,mwj
+340,,"St. Clair County, Illinois Corridor ",AR-2005,Preliminary Engineering,AR-1997,AR-1997,NAV,NAV,NAV,mwj
+342,,Stage II Light Rail Transit Reconstruction Project ,AR-1997,Preliminary Engineering,AR-1997,AR-1997,AR-1997,AR-1997,NAV,mwj
+342,,Stage II Light Rail Transit Reconstruction Project ,AR-2000,Final Design,AR-2000,AR-2000,AR-2000,AR-2000,NAV,mwj
+344,,SunRail Connector to Orlando Airport ,PP,Project Development,PP,PP,PP,NAV,NAV,mwj
+347,,Tampa Bay Regional Rail,AR-2005,Preliminary Engineering,AR-2005,AR-2005,AR-2005,NAV,NAV,mwj
+350,, TRAX Light Rail System- Medical Center Extension ,AR-2003,Final Design,AR-2003,AR-2003,AR-2003,NAV,NAV,mwj
+350,, TRAX Light Rail System- Medical Center Extension ,AR-2005,Preliminary Engineering,AR-2005,BA,NAV,NAV,NAV,mwj
+350,, TRAX Light Rail System- Medical Center Extension ,BA,Project Opening,BA,NAV,NAV,NAV,NAV,mwj
+354,,Wave Streetcar,AR-2019,CGA,AR-2019,AR-2018,AR-2018,NAV,NAV,mwj
+354,,Wave Streetcar,https://www.sun-sentinel.com/local/broward/fl-sb-wave-streetcar-decision-expenses-20180509-story.html,Project Cancelled,NAV,NAV,NAV,NAV,NAV,mwj
+407,,Baltimore Red Line,External Source 1 (See below),Project Cancelled,NAV,NAV,NAV,NAV,NAV,cox
+409,c,Silver Line Phase III,External Source 2 (see below),Project Cancelled,NAV,NAV,NAV,NAV,NAV,cox
+501,,Douglas Branch Reconstruction,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,NAV,zi
+512,,Northstar Corridor Rail,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,NA,NAV,zi
+512,,Northstar Corridor Rail,AR-2003,AR-2003,AR-2003,AR-2003,AR-2003,NA,NAV,zi
+512,,Northstar Corridor Rail,AR-2004,AR-2004,AR-2003,AR-2004,AR-2004,NA,NAV,zi
+525,,Durham-Orange LRT,Other,Other,NAV,NAV,NAV,NAV,NAV,zi
+526,,Research Triangle Regional Rail System,AR-2008,AR-2009,NAV,NAV,NAV,NAV,NAV,zi
+547,,Resort Corridor Fixed Guideway,AR-2007,AR-2007,NAV,NAV,NAV,NAV,NAV,zi
+549,,East-West Connector BRT Project/ The AMP,Other,Other,NAV,NAV,NAV,NAV,NAV,zi
+557,,Rhode Island Commuter Rail Improvement,AR-2003,AR-2003,NAV,AR-2003,AR-2003,NAV,NAV,zi
+559,,Transportation Tomorrow South Central Corridor LRT,AR-2002,AR-2002,AR-2002,AR-2002,NAV,NAV,NAV,zi
+559,,Transportation Tomorrow South Central Corridor LRT,AR-2003,AR-2003,AR-2003,AR-2003,AR-2003,NAV,NAV,zi
+507,,Modern Streetcar Project,Other,Other,Other,Other,Other,Other,Other,zi
+509,,Central Mesa Light Rail Transit Extension,BA,BA,AR-2014,BA,Other,Other,Other,zi
+516,,Hiawatha Corridor LRT,Other,Other,Other,Other,Other,Other,Other,zi
+520,,Wilmington to Newark Commuter Rail Improvements,Other,Other,Other,Other,NAV,NAV,Other,zi
+521,,LYNX Blue Line Extension - Northeast Corridor,Other,Other,Other,Other,Other,NA,Other,zi
+531,,Red Line All-Electric BRT,Other,Other,Other,Other,Other,Other,Other,zi
+535,,New Britain Hartford Busway,Other,Other,Other,Other,Other,Other,Other,zi
+536,,Urban Transitway Phase II,Other,Other,Other,Other,AR-2013,AR-2013,Other,zi
+537,,Urban Transitway Phase I,Other,Other,Other,Other,Other,Other,Other,zi
+542,,Laker Line BRT,Other,Other,NAV,Other,NAV,NAV,Other,zi
+551,,Medical Center Extension,Other,Other,Other,Other,Other,NA,Other,zi
+131,,West End Transitway,PA18,PA18,PA18,PA18,NAV,NAV,PA18,cam
+131,,West End Transitway,PA18,PA18,PA18,PA18,NAV,NAV,PA18,cam
+131,,West End Transitway,PA18,PA18,PA18,PA18,NAV,NAV,PA18,cam
+303,,Central Avenue Bus Rapid Transit Project,PP,Project Development,PP,PP,PP,NAV,PP,mwj
+304,,"Central Broward Transit Study, Phase I ",AR-2017,Project Development,PP,NAV,NAV,NAV,PP,mwj
 312,,Hudson Tunnel,PP,Project Development,PP,PP,PP,PP,PP,mwj
-313,,Hudson-Bergen Waterfront Light Rail Transit System ,AR-1997,Preliminary Engineering,AR-1997,AR-1997,AR-1997,,,mwj
-313,a,Hudson-Bergen Waterfront Light Rail Transit System (MOS-1),AR-1997,Preliminary Engineering,AR-1997,,,,,mwj
-313,a,Hudson-Bergen Waterfront Light Rail Transit System (MOS-1),AR-1998,FFGA Awarded,AR-1997,AR-1997,AR-1997,AR-1997,AR-1997,mwj
-313,a,Hudson-Bergen Waterfront Light Rail Transit System (MOS-1),AR-2005,Project Opening,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,mwj
-313,b,Hudson-Bergen Waterfront Light Rail Transit System (MOS-2),AR-2010,FFGA Awarded,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,mwj
-313,b,Hudson-Bergen Waterfront Light Rail Transit System (MOS-2),AR-2001,Final Design,AR-2001,AR-2001,AR-2001,AR-2001,,mwj
-313,b,Hudson-Bergen Waterfront Light Rail Transit System (MOS-2),https://www.state.nj.us/transportation/about/press/2003/110603.shtm,Project Opening,,https://www.state.nj.us/transportation/about/press/2003/110603.shtm,,,,mwj
-314,,I-35 Commuter Rail ,AR-2002,Preliminary Engineering,AR-2002,AR-2002,AR-2002,,,mwj
-315,,JTA BRT North Corridor,AR-2014,Project Development,AR-2014,AR-2014,AR-2014,,AR-2014,mwj
-315,,JTA BRT North Corridor,AR-2017,CGA,AR-2017,,,,,mwj
-316,,JTA BRT Southeast Corridor,AR-2014,Project Development,AR-2014,AR-2014,AR-2014,,AR-2014,mwj
-317,,Largo Metrorail Extension ,AR-1997,Preliminary Engineering,AR-1997,AR-1997,AR-1997,AR-1997,,mwj
-317,,Largo Metrorail Extension ,AR-2005,FFGA Awarded,AR-2005,AR-2005,AR-2005,,AR-2005,mwj
-318,,"Martin Luther King, Jr. East Busway Extension ",AR-2000,Preliminary Engineering,AR-2000,AR-2000,AR-2000,AR-2000,,mwj
-318,,"Martin Luther King, Jr. East Busway Extension ",https://pittsburgh.pahighways.com/busways/ebusway.html,Final Design,https://pittsburgh.pahighways.com/busways/ebusway.html,https://pittsburgh.pahighways.com/busways/ebusway.html,,,,mwj
-318,,"Martin Luther King, Jr. East Busway Extension ",https://pittsburgh.pahighways.com/busways/ebusway.html,Project Opening,https://pittsburgh.pahighways.com/busways/ebusway.html,https://pittsburgh.pahighways.com/busways/ebusway.html,,,,mwj
-319,,Miami (North 27th Avenue Corridor) ,AR-1997,Project Development,AR-1997,AR-1997,AR-1997,AR-1997,,mwj
-319,,North 27th Avenue Corridor,AR-2002,Preliminary Engineering,AR-2002,AR-2002,AR-2002,,,mwj
-320,,Minillas Extension ,AR-2000,Final Design,AR-2000,AR-2000,AR-2000,AR-2000,,mwj
-321,a,Newark-Elizabeth Rail Link ,AR-1997,Preliminary Engineering,AR-1997,AR-1997,AR-1997,AR-1997,,mwj
-321,b,Newark-Elizabeth Rail Link  (MOS I),AR-2000,Preliminary Engineering,AR-2000,AR-2000,AR-2000,AR-2000,,mwj
-321,b,Newark-Elizabeth Rail Link  (MOS I),AR-2002,FFGA Awarded,AR-2002,AR-2002,AR-2002,AR-2002,AR-2005,mwj
-323,,North Corridor Metro Rail Extension ,AR-2005,Preliminary Engineering,AR-2005,AR-2005,AR-2005,AR-2005,,mwj
-323,,North Corridor Metro Rail Extension ,AR-2012,Project Cancelled,AR-2011,AR-2011,AR-2011,,,mwj
-324,,North Shore LRT Connector ,AR-2002,Preliminary Engineering,AR-2002,BA,AR-2002,,,mwj
-324,,North Shore LRT Connector ,AR-2005,Final Design,AR-2005,BA,AR-2005,AR-2005,AR-2005,mwj
-324,,North Shore LRT Connector ,AR-2010,FFGA Awarded,AR-2010,AR-2010,AR-2010,AR-2010,,mwj
-324,,North Shore LRT Connector ,BA,Recovery Plan ,BA,BA,,,,mwj
-324,,North Shore LRT Connector ,BA,Project Opening,BA,BA,,,,mwj
 325,,Ogden/Weber State University BRT,PP,Project Development,PP,PP,PP,PP,PP,mwj
-326,,Oklahoma city (Map Links),AR-1998,Preliminary Engineering,AR-1998,AR-1998,AR-1998,AR-1998,,mwj
-327,,Oklahoma city (Map Links) Park Avenue Rail Loop ,AR-1997,Project Development,AR-1997,AR-1997,AR-1997,AR-1997,,mwj
-328,,Orlando (I-4 Central Florida Light Rail System) (MOS),AR-1998,Preliminary Engineering,AR-1998,AR-1998,AR-1998,AR-1998,AR-1998,mwj
-328,,Orlando (I-4 Central Florida Light Rail System) (MOS),AR-2000,Final Design,AR-2000,AR-2000,AR-2000,AR-2000,,mwj
-329,,Phase I Airport Busway/Wabash HOV Facility ,AR-1996,FFGA Awarded,AR-1996,AR-1996,AR-1996,AR-1996,AR-1998,mwj
-330,,Portal North Bridge Replacement,AR-2018,Project Development,PP,AR-2018,AR-2018,,PP,mwj
+330,,Portal North Bridge Replacement,AR-2018,Project Development,PP,AR-2018,AR-2018,NAV,PP,mwj
 331,,Prospect MAX Bus Rapid Transit ,AR-2017,Project Development,PP,AR-2017,AR-2017,PP,PP,mwj
-332,,Provo-Orem Bus Rapid Transit,AR-2014,Project Development,AR-2014,AR-2014,AR-2014,,AR-2014,mwj
-332,,Provo-Orem Bus Rapid Transit,AR-2018,CGA,BA,BA,BA,,,mwj
-333,,Secaucus Transfer Station ,AR-1997,FFGA Awarded,AR-1997,AR-1997,AR-1997,,AR-1997,mwj
-334,,South Corridor Rapid Transit Project,PP,Project Development,PP,PP,PP,,PP,mwj
-335,,South Extension of the Automated Skyway Express (ASE),AR-1995,FFGA Awarded,AR-1995,AR-1995,AR-1995,,AR-1995,mwj
-336,,South Miami-Dade Busway Extension ,AR-2000,Preliminary Engineering,AR-2000,AR-2000,AR-2000,AR-2000,,mwj
-336,,South Miami-Dade Busway Extension ,AR-2002,Final Design,AR-2002,AR-2002,AR-2002,AR-2002,,mwj
-337,,Southtown BRT ,AR-2005,Preliminary Engineering,AR-2005,AR-2005,AR-2005,,,mwj
-337,,Southtown BRT ,AR-2006,Final Design,AR-2006,AR-2006,AR-2006,,,mwj
-338,,Southtown Corridor ,AR-1997,Preliminary Engineering,AR-1997,AR-1997,AR-1997,,,mwj
-338,b,Southtown Corridor (Segment),AR-2000,Preliminary Engineering,AR-2000,AR-2000,AR-2000,,,mwj
-339,,Southwest Corridor ,AR-2017,Project Development,PP,AR-2017,AR-2017,,,mwj
-340,,"St. Clair County, Illinois Corridor ",AR-2005,Preliminary Engineering,AR-1997,AR-1997,,,,mwj
-340,b,"St. Clair County, Illinois Corridor (IOS-1)",AR-1997,Preliminary Engineering,AR-1997,AR-1997,AR-1997,AR-1997,,mwj
-340,b,"St. Clair County, Illinois Corridor (IOS-1)",AR-2005,Final Design,AR-2005,AR-2005,AR-2005,AR-2005,,mwj
-340,b,"St. Clair County, Illinois Corridor (IOS-1)",AR-1999,FFGA Awarded,AR-1999,AR-1999,AR-1999,,,mwj
-340,b,"St. Clair County, Illinois Corridor (IOS-1)",AR-2005,Project Opening,AR-2005,AR-2005,AR-2005,AR-2005,,mwj
-341,,St. Claude and Elysian Fields Streetcar Extensions,PP,Project Development,PP,,,,PP,mwj
-342,,Stage II Light Rail Transit Reconstruction Project ,AR-1997,Preliminary Engineering,AR-1997,AR-1997,AR-1997,AR-1997,,mwj
-342,,Stage II Light Rail Transit Reconstruction Project ,AR-2000,Final Design,AR-2000,AR-2000,AR-2000,AR-2000,,mwj
-342,,Stage II Light Rail Transit Reconstruction Project ,AR-2005,FFGA Awarded,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,mwj
-343,,Streetcar Expansion ,PP,Project Development,PP,PP,PP,,PP,mwj
-344,,SunRail Connector to Orlando Airport ,PP,Project Development,PP,PP,PP,,,mwj
-345,,SunRail Phase II North,PP,Project Development,PP,PP,PP,,PP,mwj
-346,,SunRail Phase II South,AR-2014,Preliminary Engineering,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,mwj
-346,,SunRail Phase II South,AR-2017,FFGA Awarded,AR-2017,AR-2017,AR-2017,AR-2017,AR-2017,mwj
-347,,Tampa Bay Regional Rail,AR-2005,Preliminary Engineering,AR-2005,AR-2005,AR-2005,,,mwj
-348,,Tampa Streetcar Extension Project,PP,Project Development,PP,PP,PP,,PP,mwj
-349,,TramLinkBR ,PP,Project Development,PP,PP,PP,,PP,mwj
-350,, TRAX Light Rail System- Medical Center Extension ,AR-2005,FFGA Awarded,AR-2005,AR-2005,AR-2005,,AR-2005,mwj
-350,, TRAX Light Rail System- Medical Center Extension ,AR-2003,Final Design,AR-2003,AR-2003,AR-2003,,,mwj
-350,, TRAX Light Rail System- Medical Center Extension ,AR-2005,Preliminary Engineering,AR-2005,BA,,,,mwj
-350,, TRAX Light Rail System- Medical Center Extension ,BA,Project Opening,BA,,,,,mwj
-351,,Tren Urbano,BA,FFGA Awarded,BA,BA,BA,BA,BA,mwj
-351,,Tren Urbano,BA,FFGA Awarded-2,BA,BA,BA,BA,BA,mwj
-351,,Tren Urbano,BA,Project Opening,BA,BA,BA,BA,BA,mwj
-352,,Tri-County Commuter Rail ,AR-1997,Final Design,AR-1997,AR-1997,AR-1997,AR-1997,AR-1997,mwj
-352,b,Tri-County Commuter Rail / Segment 5 ,BA,Preliminary Engineering,BA,BA,BA,BA,BA,mwj
-352,b,Tri-County Commuter Rail / Segment 5 ,AR-2001,Final Design,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,mwj
-352,b,Tri-County Commuter Rail / Segment 5 ,AR-2002,FFGA Awarded,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,mwj
-352,b,Tri-County Commuter Rail / Segment 5 ,BA,FFGA Awarded-2,BA,BA,BA,BA,BA,mwj
-352,b,Tri-County Commuter Rail / Segment 5 ,BA,Project Opening,BA,BA,BA,BA,BA,mwj
-354,,Wave Streetcar,AR-2014,Project Development,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,mwj
-354,,Wave Streetcar,AR-2019,CGA,AR-2019,AR-2018,AR-2018,,,mwj
-354,,Wave Streetcar,https://www.sun-sentinel.com/local/broward/fl-sb-wave-streetcar-decision-expenses-20180509-story.html,Project Cancelled,,,,,,mwj
-401,,Atlanta/North Line Extension,AR-1997,FFGA Awarded,AR-1997,AR-1997,AR-1997,AR-1997,AR-1997,cox
-401,,Atlanta/North Line Extension,AR-2000,FFGA Awarded,AR-2000,AR-2000,AR-2000,AR-2000,AR-2000,cox
-401,,Atlanta/North Line Extension,AR-2001,FFGA Awarded,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,cox
-401,,Atlanta/North Line Extension,Spielberg,Project Opening,Spielberg,Spielberg,Spielberg,Spielberg,Spielberg,cox
-402,,Baltimore LRT Extensions ,AR-1997,FFGA Awarded,AR-1997,AR-1997,AR-1997,AR-1997,AR-1997,cox
-402,,Baltimore LRT Extensions ,Spielberg,Project Opening,Spielberg,Spielberg,Spielberg,Spielberg,Spielberg,cox
-403,,Baltimore Central Light Rail Double Tracking ,AR-2000,Preliminary Engineering,AR-2000,AR-2000,AR-2000,AR-2000,AR-2000,cox
-403,,Baltimore Central Light Rail Double Tracking ,AR-2001,Final Design,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,cox
-403,,Baltimore Central Light Rail Double Tracking ,AR-2003,FFGA Awarded,AR-2003,AR-2003,AR-2003,AR-2003,AR-2003,cox
-403,,Baltimore Central Light Rail Double Tracking ,Workman,Project Opening,Workman,Workman,Workman,Workman,Workman,cox
-404,,MARC Commuter Rail Improvements,AR-2001,Preliminary Engineering,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,cox
-404,,MARC Commuter Rail Improvements,AR-2003,Preliminary Engineering,AR-2003,AR-2003,AR-2003,AR-2003,AR-2003,cox
-405,,MARC Penn-Camden connection ,AR-2004,Final Design,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,cox
-406,,MARC Frederick Extension & Rolling Stock Procurement ,AR-1998,FFGA Awarded,AR-1998,AR-1998,AR-1998,AR-1998,AR-1998,cox
-407,,Baltimore Red Line,AR-2013,Preliminary Engineering,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,cox
-407,,Baltimore Red Line,AR-2014,Project Development,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,cox
-407,,Baltimore Red Line,AR-2015,Project Development,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,cox
-407,,Baltimore Red Line,AR-2016,Project Development,AR-2016,AR-2016,AR-2016,AR-2016,AR-2016,cox
-407,,Baltimore Red Line,External Source 1 (See below),Project Cancelled,,,,,,cox
-408,,Maryland National Capital Purple Line,AR-2013,Preliminary Engineering,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,cox
-408,,Maryland National Capital Purple Line,AR-2014,Project Development,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,cox
-408,,Maryland National Capital Purple Line,AR-2015,Project Development,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,cox
-408,,Maryland National Capital Purple Line,AR-2016,Engineering,AR-2016,AR-2016,AR-2016,AR-2016,AR-2016,cox
+334,,South Corridor Rapid Transit Project,PP,Project Development,PP,PP,PP,NAV,PP,mwj
+341,,St. Claude and Elysian Fields Streetcar Extensions,PP,Project Development,PP,NAV,NAV,NAV,PP,mwj
+343,,Streetcar Expansion ,PP,Project Development,PP,PP,PP,NAV,PP,mwj
+345,,SunRail Phase II North,PP,Project Development,PP,PP,PP,NAV,PP,mwj
+348,,Tampa Streetcar Extension Project,PP,Project Development,PP,PP,PP,NAV,PP,mwj
+349,,TramLinkBR ,PP,Project Development,PP,PP,PP,NAV,PP,mwj
 408,,Maryland National Capital Purple Line,PP,FFGA Awarded,PP,PP,PP,PP,PP,cox
-409,a,South Boston Piers Phase I (MOS-2),AR-1997,Preliminary Engineering,AR-1997,AR-1997,AR-1997,AR-1997,AR-1997,cox
-409,a,South Boston Piers Phase I (MOS-2),AR-1998,FFGA Awarded,AR-1998,AR-1998,AR-1998,AR-1998,AR-1998,cox
-409,a,South Boston Piers Phase I (MOS-2),AR-2000,FFGA Awarded,AR-2000,AR-2000,AR-2000,AR-2000,AR-2000,cox
-409,a,South Boston Piers Phase I (MOS-2),AR-2001,FFGA Awarded,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,cox
-409,a,South Boston Piers Phase I (MOS-2),Workman,Project Opening,Workman,Workman,Workman,Workman,Workman,cox
-409,b,South Boston Piers Phase II,AR-1997,FFGA Awarded,AR-1997,AR-1997,AR-1997,AR-1997,AR-1997,cox
-409,b,South Boston Piers Phase II,AR-1998,FFGA Awarded,AR-1998,AR-1998,AR-1998,AR-1998,AR-1998,cox
-409,b,South Boston Piers Phase II,AR-2000,FFGA Awarded,AR-2000,AR-2000,AR-2000,AR-2000,AR-2000,cox
-409,c,Silver Line Phase III,AR-2004,Preliminary Engineering,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,cox
-409,c,Silver Line Phase III,AR-2005,Preliminary Engineering,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,cox
-409,c,Silver Line Phase III,AR-2006,Preliminary Engineering,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,cox
-409,c,Silver Line Phase III,AR-2008,Preliminary Engineering,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,cox
-409,c,Silver Line Phase III,AR-2010,Preliminary Engineering,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,cox
-409,c,Silver Line Phase III,External Source 2 (see below),Project Cancelled,,,,,,cox
-410,,Green Line Extension ,AR-2014,Preliminary Engineering,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,cox
-410,,Green Line Extension ,AR-2015,Preliminary Engineering,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,cox
 410,,Green Line Extension ,PP,FFGA Awarded,PP,PP,PP,AR-2016,PP,cox
-411,,Lowell-Nashua Commuter Rail Extension ,AR-2002,Preliminary Engineering,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,cox
-412,,Burlington to Charlotte Corridor ,AR-1997,NAV,AR-1997,AR-1997,AR-1997,AR-1997,AR-1997,cox
-412,,Burlington to Charlotte Corridor ,AR-1998,Preliminary Engineering,AR-1998,AR-1998,AR-1998,AR-1998,AR-1998,cox
-413,,Burlington-Essex Commuter Rail Project,AR-2004,Preliminary Engineering,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,cox
-414,,Queens Connector,AR-1998,FFGA Awarded,AR-1998,AR-1998,AR-1998,AR-1998,AR-1998,cox
-415,,Long Island Rail Road Access to Manhattan's East Side ,AR-2001,Preliminary Engineering,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,cox
-415,,Long Island Rail Road Access to Manhattan's East Side ,AR-2002,Preliminary Engineering,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,cox
-415,,Long Island Rail Road Access to Manhattan's East Side ,AR-2004,Final Design,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,cox
-415,,Long Island Rail Road Access to Manhattan's East Side ,AR-2007,Final Design,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,cox
-415,,Long Island Rail Road Access to Manhattan's East Side ,AR-2008,FFGA Awarded,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,cox
-416,a,Second Avenue Subway Phase 1,AR-2003,Preliminary Engineering,AR-2003,AR-2003,AR-2003,AR-2003,AR-2003,cox
-416,a,Second Avenue Subway Phase 1,AR-2004,Preliminary Engineering,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,cox
-416,b,Second Avenue Subway MOS,AR-2006,Preliminary Engineering,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,cox
-416,b,Second Avenue Subway MOS,AR-2007,Preliminary Engineering,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,cox
-416,b,Second Avenue Subway MOS,AR-2008,Final Design,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,cox
-416,b,Second Avenue Subway MOS,AR-2010,FFGA Awarded,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,cox
 416,c,Second Avenue Subway Phase 2,PP,Project Development,PP,PP,PP,PP,PP,cox
 417,,Canarsie Line Power Improvements,PP,Engineering,PP,PP,PP,PP,PP,cox
 418,,Woodhaven Select Bus Service ,PP,Project Development,PP,PP,PP,PP,PP,cox
 419,,Washington/Western Bus Rapid Transit Line,PP,Project Development,PP,PP,PP,PP,PP,cox
 420,,River Corridor/Blue Line Bus Rapid Transit ,PP,Project Development,PP,PP,PP,PP,PP,cox
 421,,Hudson Tunnel,PP,Project Development,PP,PP,PP,PP,PP,cox
-422,,Dallas North Central Corridor LRT,AR-1997,Preliminary Engineering,AR-1997,AR-1997,AR-1997,AR-1997,AR-1997,cox
-422,,Dallas North Central Corridor LRT,AR-1998,Final Design,AR-1998,AR-1998,AR-1998,AR-1998,AR-1998,cox
-422,,Dallas North Central Corridor LRT,AR-2000,FFGA Awarded,AR-2000,AR-2000,AR-2000,AR-2000,AR-2000,cox
-422,,Dallas North Central Corridor LRT,Workman,Project Opening,Workman,Workman,Workman,Workman,Workman,cox
-423,,Dallas Trinity Railtran Phase 2,AR-1997,Final Design,AR-1997,AR-1997,AR-1997,AR-1997,AR-1997,cox
-423,,Dallas Trinity Railtran Phase 2,AR-2000,Final Design,AR-2000,AR-2000,AR-2000,AR-2000,AR-2000,cox
-423,,Dallas Trinity Railtran Phase 2,AR-2001,Final Design,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,cox
-424,,Dallas South Oak Cliff Corridor,Spielberg,FFGA Awarded,Spielberg,Spielberg,Spielberg,Spielberg,Spielberg,cox
-424,,Dallas South Oak Cliff Corridor,Spielberg,Project Opening,Spielberg,Spielberg,Spielberg,Spielberg,Spielberg,cox
-425,,Dallas Northwest / Southeast LRT MOS ,SR-2002,Preliminary Engineering,SR-2002,SR-2002,SR-2002,SR-2002,SR-2002,cox
-425,,Dallas Northwest / Southeast LRT MOS ,AR-2004,Preliminary Engineering,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,cox
-425,,Dallas Northwest / Southeast LRT MOS ,AR-2005,Preliminary Engineering,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,cox
-425,,Dallas Northwest / Southeast LRT MOS ,BA,Preliminary Engineering,BA,BA,BA,BA,BA,cox
-425,,Dallas Northwest / Southeast LRT MOS ,AR-2006,Final Design,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,cox
-425,,Dallas Northwest / Southeast LRT MOS ,BA,FFGA Awarded,BA,BA,BA,BA,BA,cox
-425,,Dallas Northwest / Southeast LRT MOS ,BA,Project Opening,BA,BA,BA,BA,BA,cox
 426,,Dallas Red and Blue Line Platform Extensions,PP,Engineering,PP,PP,PP,PP,PP,cox
 427,,Dallas CBD Second Light Rail Alignment (D2 Subway),PP,Project Development,PP,PP,PP,PP,PP,cox
-428,,Houston Regional Bus Plan ,AR-1997,FFGA Awarded,AR-1997,AR-1997,AR-1997,AR-1997,AR-1997,cox
-429,,Houston North Corridor LRT(MOS) ,AR-2007,Preliminary Engineering,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,cox
-429,,Houston North Corridor LRT(MOS) ,AR-2010,Preliminary Engineering,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,cox
-429,,Houston North Corridor LRT(MOS) ,AR-2011,Final Design,AR-2011,AR-2011,AR-2011,AR-2011,AR-2011,cox
-429,,Houston North Corridor LRT(MOS) ,AR-2013,FFGA Awarded,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,cox
-430,,Houston Southeast Corridor LRT,AR-2010,Preliminary Engineering,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,cox
-430,,Houston Southeast Corridor LRT,AR-2011,Final Design,AR-2011,AR-2011,AR-2011,AR-2011,AR-2011,cox
-430,,Houston Southeast Corridor LRT,AR-2013,FFGA Awarded,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,cox
-431,,Houston University Corridor LRT,AR-2011,Preliminary Engineering,AR-2011,AR-2011,AR-2011,AR-2011,AR-2011,cox
-431,,Houston University Corridor LRT,AR-2013,Preliminary Engineering,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,cox
-432,,Houston Downtown to Astrodome Light Rail,AR-2001,Preliminary Engineering,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,cox
-433,,Northwest/North Central Corridor ,AR-2000,Preliminary Engineering,AR-2000,AR-2000,AR-2000,AR-2000,AR-2000,cox
-434,,Austin Light Rail Corridors,AR-2001,Preliminary Engineering,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,cox
-434,,Austin Light Rail Corridors,AR-2003,Preliminary Engineering,AR-2003,AR-2003,AR-2003,AR-2003,AR-2003,cox
-435,,MetroRapid Bus Rapid Transit Project ,AR-2010,Project Development,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,cox
-435,,MetroRapid Bus Rapid Transit Project ,AR-2011,Project Development,AR-2011,AR-2011,AR-2011,AR-2011,AR-2011,cox
-435,,MetroRapid Bus Rapid Transit Project ,BA,PCGA,BA,BA,BA,BA,BA,cox
-435,,MetroRapid Bus Rapid Transit Project ,BA,Project Opening,BA,BA,BA,BA,BA,cox
-436,,Dyer Avenue Bus Rapid Transit System,AR-2013,Project Development,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,cox
-436,,Dyer Avenue Bus Rapid Transit System,AR-2014,Project Development,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,cox
-436,,Dyer Avenue Bus Rapid Transit System,AR-2015,Project Development,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,cox
-436,,Dyer Avenue Bus Rapid Transit System,AR-2016,Project Development,AR-2016,AR-2016,AR-2016,AR-2016,AR-2016,cox
-437,,Montana Avenue Rapid Transit System,AR-2014,Project Development,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,cox
-437,,Montana Avenue Rapid Transit System,AR-2016,Project Development,AR-2016,AR-2016,AR-2016,AR-2016,AR-2016,cox
 437,,Montana Avenue Rapid Transit System,PP,Project Development,PP,PP,PP,PP,PP,cox
-438,,Sun Metro Areas Rapid Transit (SMART) Starter Line ,AR-2005,Preliminary Engineering,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,cox
-439,,TEX Rail,AR-2014,Project Development,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,cox
-439,,TEX Rail,AR-2015,Project Development,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,cox
-439,,TEX Rail,AR-2016,Project Development,AR-2016,AR-2016,AR-2016,AR-2016,AR-2016,cox
-439,,TEX Rail,PP-2015,Engineering,PP-2015,PP-2015,PP-2015,PP-2015,PP-2015,cox
-439,,TEX Rail,PP-2017,FFGA Awarded,PP-2017,PP-2017,PP-2017,PP-2017,PP-2017,cox
-439,,TEX Rail,PP-2020,Project Opening,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,cox
 440,,San Antonio Modern Streetcar Project,PP,Project Development,PP,PP,PP,PP,PP,cox
-441,,Rail Trolley Extension ,AR-2003,Final Design,AR-2003,AR-2003,AR-2003,AR-2003,AR-2003,cox
 442,,Waco Rapid Transit Corridor,PP,Project Development,PP,PP,PP,PP,PP,cox
-443,,Denver SW Corridor LRT,AR-1997,FFGA Awarded,AR-1997,AR-1997,AR-1997,AR-1997,AR-1997,cox
-443,,Denver SW Corridor LRT,AR-2000,FFGA Awarded,AR-2000,AR-2000,AR-2000,AR-2000,AR-2000,cox
-443,,Denver SW Corridor LRT,Spielberg,Project Opening,Spielberg,Spielberg,Spielberg,Spielberg,Spielberg,cox
-444,,Denver West Corridor LRT,SR-2002,Preliminary Engineering,SR-2002,SR-2002,SR-2002,SR-2002,SR-2002,cox
-444,,Denver West Corridor LRT,AR-2004,Preliminary Engineering,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,cox
-444,,Denver West Corridor LRT,AR-2005,Preliminary Engineering,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,cox
-444,,Denver West Corridor LRT,AR-2006,Preliminary Engineering,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,cox
-444,,Denver West Corridor LRT,AR-2007,Final Design,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,cox
-444,,Denver West Corridor LRT,AR-2008,Final Design,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,cox
-444,,Denver West Corridor LRT,AR-2009,Final Design,AR-2009,AR-2009,AR-2009,AR-2009,AR-2009,cox
-444,,Denver West Corridor LRT,AR-2010,FFGA Awarded,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,cox
-445,,Denver Eagle Commuter Rail (East Corridor and Gold Line),AR-2010,Preliminary Engineering,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,cox
-445,,Denver Eagle Commuter Rail (East Corridor and Gold Line),AR-2011,Preliminary Engineering,AR-2011,AR-2011,AR-2011,AR-2011,AR-2011,cox
-445,,Denver Eagle Commuter Rail (East Corridor and Gold Line),AR-2012,Final Design,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,cox
 445,,Denver Eagle Commuter Rail (East Corridor and Gold Line),PP,FFGA Awarded,PP,PP,PP,PP,PP,cox
-446,,Denver Southeast Corridor LRT ,AR-2001,Preliminary Engineering,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,cox
-446,,Denver Southeast Corridor LRT ,AR-2002,FFGA Awarded,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,cox
-446,,Denver Southeast Corridor LRT ,Workman,Project Opening,Workman,Workman,Workman,Workman,Workman,cox
-447,,Denver Southeast Rail Extension,AR-2014,Project Development,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,cox
-447,,Denver Southeast Rail Extension,AR-2016,Project Development,AR-2016,AR-2016,AR-2016,AR-2016,AR-2016,cox
 447,,Denver Southeast Rail Extension,PP,Engineering,PP,PP,PP,PP,PP,cox
-501,,Douglas Branch Reconstruction,AR-2000,AR-2000,AR-2000,AR-2000,AR-2000,NA,AR-2000,zi
-501,,Douglas Branch Reconstruction,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,zi
-501,,Douglas Branch Reconstruction,AR-2002,AR-2002,AR-2002,AR-2001,AR-2001,AR-2002,AR-2002,zi
-501,,Douglas Branch Reconstruction,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,zi
-501,,Douglas Branch Reconstruction,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,,zi
-502,,Union-Pacific West Line Extension,AR-2000,AR-2000,AR-2000,AR-2000,AR-2000,NA,NA,zi
-502,,Union-Pacific West Line Extension,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,NA,NA,zi
-502,,Union-Pacific West Line Extension,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,NA,NA,zi
-502,,Union-Pacific West Line Extension,AR-2003,AR-2003,AR-2003,AR-2003,AR-2003,AR-2003,AR-2003,zi
-502,,Union-Pacific West Line Extension,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,zi
-503,,Little Rock River Rail Project,AR-2000,AR-2000,AR-2000,AR-2000,AR-2000,NA,AR-2000,zi
-503,,Little Rock River Rail Project,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,zi
-503,,Little Rock River Rail Project,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,zi
-503,,Little Rock River Rail Project,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,zi
-503,,Little Rock River Rail Project,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,zi
-503,,Little Rock River Rail Project,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,zi
-504,,Cenral Phoenix East Valley Light Rail,AR-2000,AR-2000,AR-2000,AR-2000,AR-2000,NA,NA,zi
-504,,Cenral Phoenix East Valley Light Rail,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,NA,NA,zi
-504,,Cenral Phoenix East Valley Light Rail,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,NA,zi
-504,,Cenral Phoenix East Valley Light Rail,AR-2003,AR-2003,BA,AR-2003,AR-2003,AR-2003,NA,zi
-504,,Cenral Phoenix East Valley Light Rail,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,zi
-504,,Cenral Phoenix East Valley Light Rail,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,AR-2007,AR-2006,zi
-504,,Cenral Phoenix East Valley Light Rail,BA,BA,BA,BA,AR-2008,AR-2008,BA,zi
-505,,South Central Phoenix LRT/Downtown Hub,PP-17,PP-17,PP-17,PP-17,PP-17,NA,PP-17,zi
-505,,South Central Phoenix LRT/Downtown Hub,AR-2018,AR-2018,PP-18,AR-2018,AR-2018,NA,PP-18,zi
-505,,South Central Phoenix LRT/Downtown Hub,PP-19,PP-19,PP-19,PP-19,PP-19,NA,PP-19,zi
-505,,South Central Phoenix LRT/Downtown Hub,PP-20,PP-20,PP-20,PP-20,PP-20,PP-20,PP-20,zi
-505,,South Central Phoenix LRT/Downtown Hub,PP-21,PP-21,PP-21,PP-21,PP-21,PP-21,PP-21,zi
-505,,South Central Phoenix LRT/Downtown Hub,PP-22,PP-22,PP-22,PP-22,PP-22,PP-22,PP-22,zi
-506,,Northwest Phase II LRT Extension,PP-19,PP-19,PP-19,PP-19,PP-19,PP-19,PP-19,zi
-506,,Northwest Phase II LRT Extension,PP-20,PP-20,PP-20,PP-20,PP-20,PP-20,PP-20,zi
-506,,Northwest Phase II LRT Extension,PP-21,PP-21,PP-21,PP-21,PP-21,PP-21,PP-21,zi
-506,,Northwest Phase II LRT Extension,PP-22,PP-22,PP-22,PP-22,PP-22,PP-22,PP-22,zi
-507,,Modern Streetcar Project,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,zi
-507,,Modern Streetcar Project,AR-2011,AR-2011,AR-2011,AR-2011,AR-2011,NA,AR-2011,zi
-507,,Modern Streetcar Project,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,zi
-507,,Modern Streetcar Project,Other,Other,Other,Other,Other,Other,Other,zi
-508,,Tempe Streetcar,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,zi
-508,,Tempe Streetcar,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,zi
-508,,Tempe Streetcar,PP-17,PP-17,PP-17,PP-17,PP-17,PP-17,PP-17,zi
-508,,Tempe Streetcar,AR-21,AR-21,PP-20,PP-20,PP-20,PP-20,AR-21,zi
-509,,Central Mesa Light Rail Transit Extension,BA,BA,AR-2013,BA,AR-2013,AR-2013,AR-2013,zi
-509,,Central Mesa Light Rail Transit Extension,BA,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,zi
-509,,Central Mesa Light Rail Transit Extension,BA,BA,AR-2014,BA,Other,Other,Other,zi
-510,,Transit Spine BRT,PP-18,PP-18,PP-18,PP-18,PP-18,PP-18,PP-18,zi
-511,,Mountain Link BRT Project,BA,BA,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,zi
-511,,Mountain Link BRT Project,BA,BA,BA,BA,AR-2010,BA,BA,zi
-511,,Mountain Link BRT Project,BA,BA,BA,BA,BA,BA,BA,zi
-512,,Northstar Corridor Rail,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,NA,NAV,zi
-512,,Northstar Corridor Rail,AR-2003,AR-2003,AR-2003,AR-2003,AR-2003,NA,NAV,zi
-512,,Northstar Corridor Rail,AR-2004,AR-2004,AR-2003,AR-2004,AR-2004,NA,NAV,zi
-512,,Northstar Corridor Rail,AR-2006,AR-2006,AR-2007,AR-2006,AR-2007,AR-2007,AR-2007,zi
-512,,Northstar Corridor Rail,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,zi
-512,,Northstar Corridor Rail,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,zi
-512,,Northstar Corridor Rail,BA,BA,BA,BA,AR-2010,NAV,BA,zi
-513,,Southwest Light Rail Transit,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,zi
 513,,Southwest Light Rail Transit,PP-16,PP-16,PP-16,PP-16,PP-16,NA,PP-16,zi
-513,,Southwest Light Rail Transit,PP-18,PP-18,PP-18,PP-18,PP-18,PP-18,PP-18,zi
-513,,Southwest Light Rail Transit,PP-21,PP-21,PP-21,PP-21,PP-21,PP-21,PP-21,zi
-513,,Southwest Light Rail Transit,PP-22,PP-22,PP-22,PP-22,PP-22,PP-22,PP-22,zi
 514,,METRO Blue Line Extension,PP-16,PP-16,PP-16,PP-16,PP-16,NA,PP-16,zi
-514,,METRO Blue Line Extension,PP-18,PP-18,PP-18,PP-18,PP-18,NA,PP-18,zi
-514,,METRO Blue Line Extension,PP-22,PP-22,PP-22,PP-22,PP-22,NA,PP-22,zi
 515,,METRO Orange Line Bus Rapid Transit Project,PP-16,PP-16,PP-16,PP-16,PP-16,NA,PP-16,zi
-515,,METRO Orange Line Bus Rapid Transit Project,PP-20,PP-20,PP-20,PP-20,PP-20,PP-20,PP-20,zi
-515,,METRO Orange Line Bus Rapid Transit Project,AR-2021,AR-2021,PP-20,PP-20,PP-20,PP-20,PP-20,zi
-516,,Hiawatha Corridor LRT,AR-2000,AR-2000,AR-2000,AR-2000,AR-2000,NA,AR-2000,zi
-516,,Hiawatha Corridor LRT,AR-2002,AR-2002,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,zi
-516,,Hiawatha Corridor LRT,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,zi
-516,,Hiawatha Corridor LRT,Other,Other,Other,Other,Other,Other,Other,zi
-517,,Central Corridor LRT,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,zi
-517,,Central Corridor LRT,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,zi
-517,,Central Corridor LRT,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,zi
-517,,Central Corridor LRT,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,zi
-517,,Central Corridor LRT,BA,BA,BA,BA,AR-2013,AR-2013,BA,zi
-518,,METRO Gold Bus Rapid Transit,PP-19,PP-19,PP-19,PP-19,PP-19,PP-19,PP-19,zi
-518,,METRO Gold Bus Rapid Transit,PP-22,PP-22,PP-22,PP-22,PP-22,PP-22,PP-22,zi
-519,,Rochester Downtown Circulator Bus Rapid Transit,PP-22,PP-22,PP-22,PP-22,PP-22,PP-22,PP-22,zi
-520,,Wilmington to Newark Commuter Rail Improvements,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,zi
-520,,Wilmington to Newark Commuter Rail Improvements,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,zi
-520,,Wilmington to Newark Commuter Rail Improvements,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,zi
-520,,Wilmington to Newark Commuter Rail Improvements,Other,Other,Other,Other,,,Other,zi
-521,,LYNX Blue Line Extension - Northeast Corridor,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,NA,AR-2010,zi
-521,,LYNX Blue Line Extension - Northeast Corridor,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,NA,AR-2012,zi
-521,,LYNX Blue Line Extension - Northeast Corridor,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,NA,AR-2013,zi
-521,,LYNX Blue Line Extension - Northeast Corridor,AR-2015,AR-2013,AR-2015,AR-2015,AR-2015,NA,AR-2015,zi
-521,,LYNX Blue Line Extension - Northeast Corridor,AR-2015,AR-2013,AR-2015,AR-2015,AR-2015,NA,AR-2015,zi
-521,,LYNX Blue Line Extension - Northeast Corridor,Other,Other,Other,Other,Other,NA,Other,zi
-522,,CityLYNX Gold Line Phase 2 Streetcar,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,NA,AR-2015,zi
 522,,CityLYNX Gold Line Phase 2 Streetcar,PP-16,PP-16,PP-16,PP-16,PP-16,NA,PP-16,zi
 522,,CityLYNX Gold Line Phase 2 Streetcar,AR-2018,AR-2018,PP-16,PP-16,PP-16,NA,PP-16,zi
 523,,Blue Line Capacity Expansion,PP-16,PP-16,PP-16,PP-16,PP-16,NA,PP-16,zi
-524,,South Corridor Light Rail Project,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,NA,BA,zi
-524,,South Corridor Light Rail Project,AR-2003,AR-2003,,AR-2003,AR-2003,NA,BA,zi
-524,,South Corridor Light Rail Project,AR-2004,AR-2004,,AR-2004,AR-2004,NA,BA,zi
-524,,South Corridor Light Rail Project,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,NA,BA,zi
-524,,South Corridor Light Rail Project,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,AR-2007,AR-2006,zi
-524,,South Corridor Light Rail Project,BA,BA,AR-2007,BA,AR-2007,AR-2007,BA,zi
-524,,South Corridor Light Rail Project,AR-2007,BA,AR-2007,BA,AR-2007,AR-2007,BA,zi
-524,,South Corridor Light Rail Project,BA,BA,BA,BA,AR-2007,AR-2007,BA,zi
-525,,Durham-Orange LRT,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,zi
-525,,Durham-Orange LRT,PP-2017,PP-2017,PP-2017,PP-2017,PP-2017,PP-2017,PP-2017,zi
-526,,Research Triangle Regional Rail System,AR-2000,AR-2000,AR-2000,AR-2000,AR-2000,NA,AR-2000,zi
-526,,Research Triangle Regional Rail System,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,zi
-526,,Research Triangle Regional Rail System,AR-2003,AR-2003,AR-2003,AR-2003,AR-2003,AR-2002,AR-2003,zi
-526,,Research Triangle Regional Rail System,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,AR-2002,AR-2004,zi
-526,,Research Triangle Regional Rail System,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,zi
-526,,Research Triangle Regional Rail System,AR-2005,AR-2006,AR-2007,AR-2006,AR-2006,AR-2006,AR-2006,zi
-526,,Research Triangle Regional Rail System,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,zi
+542,,Laker Line BRT,PP-16,PP-16,PP-16,PP-16,PP-16,PP-16,PP-16,zi
+546,,Virginia Street BRT Extension Project,PP-16,PP-16,PP-16,PP-16,PP-16,NA,PP-16,zi
+505,,South Central Phoenix LRT/Downtown Hub,PP-17,PP-17,PP-17,PP-17,PP-17,NA,PP-17,zi
+508,,Tempe Streetcar,PP-17,PP-17,PP-17,PP-17,PP-17,PP-17,PP-17,zi
+542,,Laker Line BRT,PP-17,PP-17,PP-17,PP-17,PP-17,PP-17,PP-17,zi
+543,,Michigan/Grand River BRT,PP-17,PP-17,PP-17,PP-17,PP-17,PP-17,PP-17,zi
+544,,Central Avenue Corridor/Albuquerque Rapid Transit BRT Project,PP-17,PP-17,PP-17,PP-17,PP-17,PP-17,PP-17,zi
+545,,5th Street/Prater Way BRT Project,PP-17,PP-17,PP-17,PP-17,PP-17,PP-17,PP-17,zi
+546,,Virginia Street BRT Extension Project,PP-17,PP-17,PP-17,PP-17,PP-17,NA,PP-17,zi
+110,,Powell-Division Transit and Development ,PP18,PP18,PP18,NAV,PP18,NAV,PP18,cam
+505,,South Central Phoenix LRT/Downtown Hub,AR-2018,AR-2018,PP-18,AR-2018,AR-2018,NA,PP-18,zi
+510,,Transit Spine BRT,PP-18,PP-18,PP-18,PP-18,PP-18,PP-18,PP-18,zi
+513,,Southwest Light Rail Transit,PP-18,PP-18,PP-18,PP-18,PP-18,PP-18,PP-18,zi
+514,,METRO Blue Line Extension,PP-18,PP-18,PP-18,PP-18,PP-18,NA,PP-18,zi
 527,,North-South BRT,PP-18,PP-18,PP-18,PP-18,PP-18,NA,PP-18,zi
+531,,Red Line All-Electric BRT,PP-18,PP-18,PP-18,PP-18,PP-18,PP-18,PP-18,zi
+533,,West Lake Corridor,PP-18,PP-18,PP-18,PP-18,PP-18,NA,PP-18,zi
+542,,Laker Line BRT,PP-18,PP-18,PP-18,PP-18,PP-18,PP-18,PP-18,zi
+543,,Michigan/Grand River BRT,PP-18,PP-18,PP-18,PP-18,PP-18,PP-18,PP-18,zi
+544,,Central Avenue Corridor/Albuquerque Rapid Transit BRT Project,AR-2020,AR-2020,PP-18,PP-18,PP-18,PP-18,PP-18,zi
+100,,Downtown-Uptown-Oakland-East End BRT Project ,PP19,PP19,PP19,PP19,PP19,PP19,PP19,cam
+117,,Southwest Corridor Light Rail Transit Project,NAV,PP19,PP19,NAV,NAV,NAV,PP19,cam
+117,,Southwest Corridor Light Rail Transit Project,NAV,PP19,PP19,NAV,NAV,NAV,PP19,cam
+117,,Southwest Corridor Light Rail Transit Project,NAV,PP19,PP19,PP19,PP19,NAV,PP19,cam
+140,,Madison Street Corridor BRT,PP19,PP19,PP19,PP19,PP19,PP19,PP19,cam
+140,,Madison Street Corridor BRT,PP19,PP19,PP19,PP19,PP19,PP19,PP19,cam
+505,,South Central Phoenix LRT/Downtown Hub,PP-19,PP-19,PP-19,PP-19,PP-19,NA,PP-19,zi
+506,,Northwest Phase II LRT Extension,PP-19,PP-19,PP-19,PP-19,PP-19,PP-19,PP-19,zi
+518,,METRO Gold Bus Rapid Transit,PP-19,PP-19,PP-19,PP-19,PP-19,PP-19,PP-19,zi
+530,,IndyGO Purple Line BRT,PP-19,PP-19,PP-19,PP-19,PP-19,PP-19,PP-19,zi
+533,,West Lake Corridor,PP-19,PP-19,PP-19,PP-19,PP-19,NA,PP-19,zi
+534,,South Shore Line /Double Track Northwest Indiana,PP-19,PP-19,PP-19,PP-19,PP-19,NA,PP-19,zi
+542,,Laker Line BRT,AR-2020,AR-2020,PP-19,PP-19,PP-19,PP-19,PP-19,zi
+546,,Virginia Street BRT Extension Project,PP-19,PP-19,PP-19,PP-19,PP-19,PP-19,PP-19,zi
+554,,East West Corridor BRT,PP-19,PP-19,PP-19,PP-19,PP-19,PP-19,PP-19,zi
+505,,South Central Phoenix LRT/Downtown Hub,PP-20,PP-20,PP-20,PP-20,PP-20,PP-20,PP-20,zi
+506,,Northwest Phase II LRT Extension,PP-20,PP-20,PP-20,PP-20,PP-20,PP-20,PP-20,zi
+515,,METRO Orange Line Bus Rapid Transit Project,PP-20,PP-20,PP-20,PP-20,PP-20,PP-20,PP-20,zi
+515,,METRO Orange Line Bus Rapid Transit Project,AR-2021,AR-2021,PP-20,PP-20,PP-20,PP-20,PP-20,zi
+530,,IndyGO Purple Line BRT,PP-20,PP-20,PP-20,PP-20,PP-20,PP-20,PP-20,zi
+532,,IndyGO Blue Line Rapid Transit,PP-20,PP-20,PP-20,PP-20,PP-20,NA,PP-20,zi
+533,,West Lake Corridor,PP-20,PP-20,PP-20,PP-20,PP-20,NA,PP-20,zi
+546,,Virginia Street BRT Extension Project,PP-20,PP-20,PP-20,PP-20,PP-20,PP-20,PP-20,zi
+439,,TEX Rail,PP-2015,Engineering,PP-2015,PP-2015,PP-2015,PP-2015,PP-2015,cox
+439,,TEX Rail,PP-2017,FFGA Awarded,PP-2017,PP-2017,PP-2017,PP-2017,PP-2017,cox
+525,,Durham-Orange LRT,PP-2017,PP-2017,PP-2017,PP-2017,PP-2017,PP-2017,PP-2017,zi
+209,,Regional Connector,PP-2018,PP-2018,PP-2018,PP-2018,PP-2018,PP-2018,PP-2018,am
+209,,Regional Connector,PP-2018,PP-2018,PP-2018,PP-2018,PP-2018,PP-2018,PP-2018,am
+229,,Silicon Valley Phase II,PP-2018,AR-2018,PP-2018,AR-2018,AR-2018,AR-2018,PP-2018,am
+241,,Redlands Passenger Rail Project,PP-2018,PP-2018,PP-2018,PP-2018,PP-2018,PP-2018,PP-2018,am
+213,,Westside Purple Line Extension Section 3,PP-2019,PP-2019,PP-2019,PP-2019,PP-2019,PP-2019,PP-2019,am
+221,,Transbay Corridor ,PP-2019,PP-2019,PP-2019,PP-2019,PP-2019,PP-2019,PP-2019,am
+221,,Transbay Corridor ,PP-2019,PP-2019,PP-2019,PP-2019,PP-2019,PP-2019,PP-2019,am
+238,,Garden Grove Streetcar,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,PP-2019,am
+238,,Garden Grove Streetcar,AR-2016,AR-2016,AR-2016,AR-2016,AR-2016,AR-2016,PP-2019,am
+211,,Westside Purple Line Extension Section 1,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,am
+211,,Westside Purple Line Extension Section 2,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,am
+212,,Westside Purple Line Extension Section 2,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,am
+212,,Westside Purple Line Extension Section 3,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,am
+235,,Mid-Coast Corridor Transit Project,PP-2020,PP-2020,PP-2020,AR-2017,AR-2017,AR-2017,PP-2020,am
+235,,Mid-Coast Corridor Transit Project,PP-2020,PP-2020,PP-2020,AR-2018,AR-2018,AR-2018,PP-2020,am
+235,,Mid-Coast Corridor Transit Project,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,am
+236,,Caltrain Peninsula Corridor Electrification Project ,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,am
+236,,Caltrain Peninsula Corridor Electrification Project ,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,am
+439,,TEX Rail,PP-2020,Project Opening,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,cox
+505,,South Central Phoenix LRT/Downtown Hub,PP-21,PP-21,PP-21,PP-21,PP-21,PP-21,PP-21,zi
+506,,Northwest Phase II LRT Extension,PP-21,PP-21,PP-21,PP-21,PP-21,PP-21,PP-21,zi
+513,,Southwest Light Rail Transit,PP-21,PP-21,PP-21,PP-21,PP-21,PP-21,PP-21,zi
 527,,North-South BRT,PP-21,PP-21,PP-21,PP-21,PP-21,NA,PP-21,zi
 528,,Wake Bus Rapid Transit: New Bern Avenue Project,PP-21,PP-21,PP-21,PP-21,PP-21,PP-21,PP-21,zi
-529,,Lowcountry Rapid Transit Project,PP-22,PP-22,PP-22,PP-22,PP-22,PP-22,PP-22,zi
-530,,IndyGO Purple Line BRT,PP-19,PP-19,PP-19,PP-19,PP-19,PP-19,PP-19,zi
-530,,IndyGO Purple Line BRT,PP-20,PP-20,PP-20,PP-20,PP-20,PP-20,PP-20,zi
 530,,IndyGO Purple Line BRT,PP-21,PP-21,PP-21,PP-21,PP-21,PP-21,PP-21,zi
-531,,Red Line All-Electric BRT,PP-18,PP-18,PP-18,PP-18,PP-18,PP-18,PP-18,zi
-531,,Red Line All-Electric BRT,Other,Other,Other,Other,Other,Other,Other,zi
-532,,IndyGO Blue Line Rapid Transit,PP-20,PP-20,PP-20,PP-20,PP-20,NA,PP-20,zi
 532,,IndyGO Blue Line Rapid Transit,PP-21,PP-21,PP-21,PP-21,PP-21,PP-21,PP-21,zi
-533,,West Lake Corridor,PP-18,PP-18,PP-18,PP-18,PP-18,NA,PP-18,zi
-533,,West Lake Corridor,PP-19,PP-19,PP-19,PP-19,PP-19,NA,PP-19,zi
-533,,West Lake Corridor,PP-20,PP-20,PP-20,PP-20,PP-20,NA,PP-20,zi
 533,,West Lake Corridor,PP-21,PP-21,PP-21,PP-21,PP-21,NA,PP-21,zi
-533,,West Lake Corridor,PP-22,PP-22,PP-22,PP-22,PP-22,NA,PP-22,zi
-534,,South Shore Line /Double Track Northwest Indiana,PP-19,PP-19,PP-19,PP-19,PP-19,NA,PP-19,zi
 534,,South Shore Line /Double Track Northwest Indiana,PP-21,PP-21,PP-21,PP-21,PP-21,NA,PP-21,zi
-534,,South Shore Line /Double Track Northwest Indiana,PP-22,PP-22,PP-22,PP-22,PP-22,NA,PP-22,zi
-535,,New Britain Hartford Busway,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,zi
-535,,New Britain Hartford Busway,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,zi
-535,,New Britain Hartford Busway,AR-2003,AR-2003,AR-2003,AR-2003,AR-2003,AR-2003,AR-2003,zi
-535,,New Britain Hartford Busway,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,zi
-535,,New Britain Hartford Busway,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,zi
-535,,New Britain Hartford Busway,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,zi
-535,,New Britain Hartford Busway,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,zi
-535,,New Britain Hartford Busway,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,zi
-535,,New Britain Hartford Busway,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,zi
-535,,New Britain Hartford Busway,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,zi
-535,,New Britain Hartford Busway,Other,Other,Other,Other,Other,Other,Other,zi
-536,,Urban Transitway Phase II,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,zi
-536,,Urban Transitway Phase II,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,zi
-536,,Urban Transitway Phase II,Other,Other,Other,Other,AR-2013,AR-2013,Other,zi
-537,,Urban Transitway Phase I,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,zi
-537,,Urban Transitway Phase I,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,zi
-537,,Urban Transitway Phase I,Other,Other,Other,Other,Other,Other,Other,zi
-538,,Bridgeport Innermodal Transportation Center Phase 2B and 3,AR-2002,AR-2003,AR-2003,AR-2003,AR-2003,AR-2003,AR-2003,zi
-539,,High Capacity Transit Corridor Project,AR-2011,AR-2011,AR-2011,AR-2011,AR-2011,AR-2011,AR-2011,zi
-539,,High Capacity Transit Corridor Project,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,zi
-539,,High Capacity Transit Corridor Project,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,zi
-540,,Primary Corridor Transportation Project,AR-2003,AR-2003,,AR-2003,AR-2003,,AR-2003,zi
-540,,Primary Corridor Transportation Project,AR-2004,AR-2004,,AR-2004,AR-2004,,AR-2004,zi
-540,,Primary Corridor Transportation Project,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,zi
-540,,Primary Corridor Transportation Project,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,zi
-541,,Division Avenue/Silver Line BRT,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,zi
-541,,Division Avenue/Silver Line BRT,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,zi
-541,,Division Avenue/Silver Line BRT,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,zi
-542,,Laker Line BRT,PP-16,PP-16,PP-16,PP-16,PP-16,PP-16,PP-16,zi
-542,,Laker Line BRT,PP-17,PP-17,PP-17,PP-17,PP-17,PP-17,PP-17,zi
-542,,Laker Line BRT,PP-18,PP-18,PP-18,PP-18,PP-18,PP-18,PP-18,zi
-542,,Laker Line BRT,AR-2020,AR-2020,PP-19,PP-19,PP-19,PP-19,PP-19,zi
-542,,Laker Line BRT,Other,Other,,Other,,,Other,zi
-543,,Michigan/Grand River BRT,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,zi
-543,,Michigan/Grand River BRT,PP-17,PP-17,PP-17,PP-17,PP-17,PP-17,PP-17,zi
-543,,Michigan/Grand River BRT,PP-18,PP-18,PP-18,PP-18,PP-18,PP-18,PP-18,zi
-544,,Central Avenue Corridor/Albuquerque Rapid Transit BRT Project,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,zi
-544,,Central Avenue Corridor/Albuquerque Rapid Transit BRT Project,PP-17,PP-17,PP-17,PP-17,PP-17,PP-17,PP-17,zi
-544,,Central Avenue Corridor/Albuquerque Rapid Transit BRT Project,AR-2020,AR-2020,PP-18,PP-18,PP-18,PP-18,PP-18,zi
-545,,4th Street/Prater Way BRT Project,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,zi
-545,,5th Street/Prater Way BRT Project,PP-17,PP-17,PP-17,PP-17,PP-17,PP-17,PP-17,zi
-545,,6th Street/Prater Way BRT Project,AR-2018,AR-2018,AR-2018,AR-2018,AR-2018,AR-2018,AR-2018,zi
-546,,Virginia Street BRT Extension Project,PP-16,PP-16,PP-16,PP-16,PP-16,NA,PP-16,zi
-546,,Virginia Street BRT Extension Project,PP-17,PP-17,PP-17,PP-17,PP-17,NA,PP-17,zi
-546,,Virginia Street BRT Extension Project,PP-19,PP-19,PP-19,PP-19,PP-19,PP-19,PP-19,zi
-546,,Virginia Street BRT Extension Project,PP-20,PP-20,PP-20,PP-20,PP-20,PP-20,PP-20,zi
-546,,Virginia Street BRT Extension Project,AR-2021,AR-2021,AR-2021,AR-2021,AR-2021,AR-2021,AR-2021,zi
-547,,Resort Corridor Fixed Guideway,AR-2000,AR-2000,AR-2000,AR-2000,AR-2000,AR-2000,AR-2000,zi
 548,,Maryland Parkway High Capacity Transit Project,PP-21,PP-21,PP-21,PP-21,PP-21,NA,PP-21,zi
-549,,East-West Connector BRT Project/ The AMP,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,zi
-550,,East Corridor Commuter Rail,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,zi
-550,,East Corridor Commuter Rail,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,zi
-550,,East Corridor Commuter Rail,AR-2003,AR-2003,AR-2007,AR-2003,AR-2003,AR-2002,AR-2003,zi
-550,,East Corridor Commuter Rail,AR-2004,AR-2004,AR-2007,AR-2004,AR-2004,,AR-2004,zi
-550,,East Corridor Commuter Rail,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,zi
-551,,Medical Center Extension,AR-2000,AR-2000,AR-2000,AR-2000,AR-2000,NA,AR-2000,zi
-551,,Medical Center Extension,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,NA,AR-2001,zi
-551,,Medical Center Extension,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,NA,AR-2002,zi
-551,,Medical Center Extension,Other,Other,Other,Other,Other,NA,Other,zi
-552,,Memphis Innovation Corridor Project,PP-22,PP-22,PP-22,PP-22,PP-22,NA,PP-22,zi
-553,,Dulles Corridor Metrorail Project Extension to Wiehle Avenue ,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,zi
-553,,Dulles Corridor Metrorail Project Extension to Wiehle Avenue ,AR-2001,AR-2001,AR-2001,AR-2003,AR-2003,,AR-2003,zi
-553,,Dulles Corridor Metrorail Project Extension to Wiehle Avenue ,AR-2001,AR-2001,AR-2001,AR-2004,AR-2004,AR-2004,AR-2004,zi
-553,,Dulles Corridor Metrorail Project Extension to Wiehle Avenue ,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,NA,AR-2007,zi
-553,,Dulles Corridor Metrorail Project Extension to Wiehle Avenue ,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,AR-2008,zi
-553,,Dulles Corridor Metrorail Project Extension to Wiehle Avenue ,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,zi
-553,,Dulles Corridor Metrorail Project Extension to Wiehle Avenue ,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,zi
-554,,East West Corridor BRT,PP-19,PP-19,PP-19,PP-19,PP-19,PP-19,PP-19,zi
 554,,East West Corridor BRT,PP-21,PP-21,PP-21,PP-21,PP-21,PP-21,PP-21,zi
+505,,South Central Phoenix LRT/Downtown Hub,PP-22,PP-22,PP-22,PP-22,PP-22,PP-22,PP-22,zi
+506,,Northwest Phase II LRT Extension,PP-22,PP-22,PP-22,PP-22,PP-22,PP-22,PP-22,zi
+513,,Southwest Light Rail Transit,PP-22,PP-22,PP-22,PP-22,PP-22,PP-22,PP-22,zi
+514,,METRO Blue Line Extension,PP-22,PP-22,PP-22,PP-22,PP-22,NA,PP-22,zi
+518,,METRO Gold Bus Rapid Transit,PP-22,PP-22,PP-22,PP-22,PP-22,PP-22,PP-22,zi
+519,,Rochester Downtown Circulator Bus Rapid Transit,PP-22,PP-22,PP-22,PP-22,PP-22,PP-22,PP-22,zi
+529,,Lowcountry Rapid Transit Project,PP-22,PP-22,PP-22,PP-22,PP-22,PP-22,PP-22,zi
+533,,West Lake Corridor,PP-22,PP-22,PP-22,PP-22,PP-22,NA,PP-22,zi
+534,,South Shore Line /Double Track Northwest Indiana,PP-22,PP-22,PP-22,PP-22,PP-22,NA,PP-22,zi
+552,,Memphis Innovation Corridor Project,PP-22,PP-22,PP-22,PP-22,PP-22,NA,PP-22,zi
 555,,Madison East West Bus Rapid Transit,PP-22,PP-22,PP-22,PP-22,PP-22,PP-22,PP-22,zi
-556,,Pawtucket Central Falls Commuter Rail Station,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,zi
-557,,Rhode Island Commuter Rail Improvement,AR-2003,AR-2003,,AR-2003,AR-2003,,,zi
-558,,South County Commuter Rail,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,zi
-558,,South County Commuter Rail,AR-2009,AR-2009,AR-2011,AR-2009,AR-2009,AR-2011,AR-2011,zi
-558,,South County Commuter Rail,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,AR-2012,zi
-559,,Transportation Tomorrow South Central Corridor LRT,AR-2002,AR-2002,AR-2002,AR-2002,,,,zi
-559,,Transportation Tomorrow South Central Corridor LRT,AR-2003,AR-2003,AR-2003,AR-2003,AR-2003,,,zi
 560,,Wake BRT - Western Corridor Project,2020,PP-22,PP-22,PP-22,PP-22,NA,PP-22,zi
-871,,I-405/SR-55 Transitway and Direct Access HOV Ramps ,AR-1998,AR-1998,AR-1998,AR-1998,AR-1998,AR-1998,AR-1998,am
-N/A,,,Other,Other,,,,,,zi
-N/A,,,AR-2008,AR-2009,,,,,,zi
-N/A,,,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,zi
-N/A,,,AR-2003,AR-2003,AR-2003,AR-2003,AR-2003,,AR-2003,zi
-N/A,,,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,,AR-2004,zi
-N/A,,,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,AR-2006,zi
-N/A,,,AR-2007,AR-2007,,,,,,zi
-N/A,,,Other,Other,,,,,,zi
-N/A,,,AR-2011,AR-2011,AR-2011,AR-2011,AR-2011,AR-2011,NAV,am
-N/A,,,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,am
-N/A,,,BA-2013,BA-2013,BA-2013,BA-2013,BA-2013,BA-2013,BA-2013,am
-N/A,,,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,am
-N/A,,,BA-2013,BA-2013,BA-2013,BA-2013,BA-2013,BA-2013,BA-2013,am
-N/A,,,PP-2018,PP-2018,PP-2018,PP-2018,PP-2018,PP-2018,PP-2018,am
-N/A,,,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,am
-N/A,,,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,am
-N/A,,,AR-1999,AR-1999,AR-1999,AR-1999,AR-1999,AR-1999,AR-1999,am
-N/A,,,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,am
-N/A,,,AR-2011,AR-2011,AR-2011,AR-2011,AR-2011,AR-2011,AR-2011,am
-N/A,,,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,am
-N/A,,,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,am
-N/A,,,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,AR-2015,am
-N/A,,,AR-2016,AR-2016,AR-2016,AR-2016,AR-2016,AR-2016,AR-2016,am
-N/A,,,PP-2019,PP-2019,PP-2019,PP-2019,PP-2019,PP-2019,PP-2019,am
-N/A,,,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,am
-N/A,,,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,am
-N/A,,,AR-1998,AR-1998,AR-1998,AR-1998,AR-1998,AR-1998,AR-1998,am
-N/A,,,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,AR-2002,am
-N/A,,,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,AR-2013,NAV,am
-N/A,,,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,am
-N/A,,,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,AR-2001,NAV,am
-N/A,,,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,am
-N/A,,,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,am
-N/A,,,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,AR-2014,am
-N/A,,,PP-2020,PP-2020,PP-2020,AR-2017,AR-2017,AR-2017,PP-2020,am
-N/A,,,PP-2020,PP-2020,PP-2020,AR-2018,AR-2018,AR-2018,PP-2020,am
-N/A,,,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,am
-N/A,,,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,am
-N/A,,,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,PP-2020,am
-N/A,,,AR-2016,AR-2017,AR-2016,AR-2016,AR-2016,AR-2016,AR-2016,am
-N/A,,,AR-2016,AR-2016,AR-2016,AR-2016,AR-2016,AR-2016,PP-2019,am
-N/A,,,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,AR-2005,am
-N/A,,,BA-2011,BA-2011,BA-2011,BA-2011,BA-2011,BA-2011,BA-2011,am
-N/A,,,AR-1999,AR-1999,AR-1999,AR-1999,AR-1999,AR-1999,AR-1999,am
-N/A,,,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,AR-2004,am
-N/A,,,AR-2011,AR-2011,AR-2011,AR-2011,AR-2011,AR-2011,NAV,am
-N/A,,,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,NAV,am
-N/A,,,BA-2016,BA-2016,BA-2016,BA-2016,NAV,BA-2016,BA-2016,am
-N/A,,,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,am
-N/A,,,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,AR-2007,am
-N/A,,,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,AR-2010,am
+401,,Atlanta/North Line Extension,Spielberg,Project Opening,Spielberg,Spielberg,Spielberg,Spielberg,Spielberg,cox
+402,,Baltimore LRT Extensions ,Spielberg,Project Opening,Spielberg,Spielberg,Spielberg,Spielberg,Spielberg,cox
+424,,Dallas South Oak Cliff Corridor,Spielberg,FFGA Awarded,Spielberg,Spielberg,Spielberg,Spielberg,Spielberg,cox
+424,,Dallas South Oak Cliff Corridor,Spielberg,Project Opening,Spielberg,Spielberg,Spielberg,Spielberg,Spielberg,cox
+443,,Denver SW Corridor LRT,Spielberg,Project Opening,Spielberg,Spielberg,Spielberg,Spielberg,Spielberg,cox
+425,,Dallas Northwest / Southeast LRT MOS ,SR-2002,Preliminary Engineering,SR-2002,SR-2002,SR-2002,SR-2002,SR-2002,cox
+444,,Denver West Corridor LRT,SR-2002,Preliminary Engineering,SR-2002,SR-2002,SR-2002,SR-2002,SR-2002,cox
+403,,Baltimore Central Light Rail Double Tracking ,Workman,Project Opening,Workman,Workman,Workman,Workman,Workman,cox
+409,a,South Boston Piers Phase I (MOS-2),Workman,Project Opening,Workman,Workman,Workman,Workman,Workman,cox
+422,,Dallas North Central Corridor LRT,Workman,Project Opening,Workman,Workman,Workman,Workman,Workman,cox
+446,,Denver Southeast Corridor LRT ,Workman,Project Opening,Workman,Workman,Workman,Workman,Workman,cox
