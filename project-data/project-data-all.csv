@@ -134,8 +134,13 @@ ID,ID (letter),Name,Year of initial milestone,Number of stations,Project type,Fu
 318,,"Martin Luther King, Jr. East Busway Extension",1998,3,Expansion,New Starts,Pittsburgh,PA,BRT,mwj
 319,,Miami (North 27th Avenue Corridor),1997,7,Expansion,New Starts,Miami,FL,Heavy Rail,mwj
 320,,Minillas Extension,1996,2,Expansion,New Starts,San Juan ,PR,Heavy Rail,mwj
+<<<<<<< HEAD
 321,a,Newark-Elizabeth Rail Link (MOS I),2000,5,Expansion,New Starts,Northern New Jersey,NJ,LRT,mwj
 321,,Newark-Elizabeth Rail Link,1995,15,Introduction,New Starts,Northern New Jersey,NJ,LRT,mwj
+=======
+321,,Newark-Elizabeth Rail Link,1995,15,Introduction,New Starts,Northern New Jersey,NJ,LRT,mwj
+321,a,Newark-Elizabeth Rail Link (MOS I),2000,5,Expansion,New Starts,Northern New Jersey,NJ,LRT,mwj
+>>>>>>> 8158a41a8392f4bab63149718b2470d42afb7931
 324,,North Shore LRT Connector,2001,6,Expansion,New Starts,Pittsburgh,PA,LRT,mwj
 325,,Ogden/Weber State University BRT,2018,13,Introduction,Small Starts,Ogden ,UT,BRT,mwj
 326,,Oklahoma city (Map Links),1995,NAV,Introduction,New Starts,Oklahoma City,OK,Streetcar,mwj
