@@ -3,13 +3,20 @@ project-data-all, project-data-srcs-all, year-data-srcs-all
 2. Update Cam portions of spreadsheets [DONE]
 3. Standardization changes: correct typos [DONE]
 4. Standardization changes: standardizing data input [DONE]
-5. Add sponsor information into "project-data-all" [IN PROGRESS]
-6. Add missing information in spreadsheets [IN PROGRESS]
-7. Add missing years for AR, PP and BA [IN PROGRESS]
-8. Add missing sources in spreadsheets [IN PROGRESS]
-9. Spot check [NOT YET STARTED]
-10. Search for missing reports [NOT YET STARTED]
-11. Make sure all projects are represented in spreadsheets [NOT YET STARTED]
+----
 
-year-data-all
-12. Review from beginning to end and standardize [NOT YET STARTED]
+all reports
+5. Review "year-data-all" from beginning to end and standardize [NOT YET STARTED]
+6. Add sponsor information into "project-data-all" [IN PROGRESS]
+7. Add missing information in spreadsheets [IN PROGRESS]
+8. Add missing years for AR, PP and BA [IN PROGRESS]
+9. Add missing sources in spreadsheets [IN PROGRESS]
+10. Send to Carole for contemporaneous review [NOT YET STARTED]
+----
+
+all reports
+10. Spot check [NOT YET STARTED]
+11. Search for missing reports [NOT YET STARTED]
+12. Make sure all projects are represented in spreadsheets [NOT YET STARTED]
+
+
