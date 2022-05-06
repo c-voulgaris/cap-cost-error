@@ -3,20 +3,27 @@ project-data-all, project-data-srcs-all, year-data-srcs-all
 2. Update Cam portions of spreadsheets [DONE]
 3. Standardization changes: correct typos [DONE]
 4. Standardization changes: standardizing data input [DONE]
-----
 
 all reports
-5. Review "year-data-all" from beginning to end and standardize [NOT YET STARTED]
-6. Add sponsor information into "project-data-all" [IN PROGRESS]
-7. Add missing information in spreadsheets [IN PROGRESS]
-8. Add missing years for AR, PP and BA [IN PROGRESS]
-9. Add missing sources in spreadsheets [IN PROGRESS]
-10. Send to Carole for contemporaneous review [NOT YET STARTED]
+5. Add "Year" column to "year-data-srcs-all" [DONE]
+Note: There may be multiple years in the same milestone.
+
 ----
-
 all reports
-10. Spot check [NOT YET STARTED]
-11. Search for missing reports [NOT YET STARTED]
-12. Make sure all projects are represented in spreadsheets [NOT YET STARTED]
+6. Review "year-data-all" rows with "Milestone" column issues [IN PROGRESS]
+7. Add sponsor information into "project-data-all" [IN PROGRESS]
+Note: There may be multiple sponsors. If there is one main sponsor, that is included. If there are two or more co-sponsors, they have all been included.
+8. Add missing information in spreadsheets [IN PROGRESS]
+9. Add missing years for AR, PP and BA [BA is done; rest is IN PROGRESS]
+10. Add missing sources in spreadsheets [IN PROGRESS]
+11. Spot check [IN PROGRESS - see completed ones below]
+108		Columbia River Crossing Project
+109		Columbia River Crossing Project
+112		MAX Red Line Extension and Reliability Improvements
+113		Westside Express Service Rail Project - Wilsonville - Beaverton
+121		Interstate 71 corridor (MOS-1)
+137		Lynnwood Link Extension
 
-
+----
+13. Search for missing reports [NOT YET STARTED]
+14. Make sure all projects are represented in spreadsheets [NOT YET STARTED]
