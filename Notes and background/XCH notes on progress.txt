@@ -21,15 +21,14 @@ Due date: May 12, 2022
 ----
 
 all reports
-12. Redo Cam portion [IN PROGRESS]
-13. Spot check [IN PROGRESS - see completed ones below]
+12.Spot check, including all Cam entries [IN PROGRESS - see completed ones below]
 108		Columbia River Crossing Project
 109		Columbia River Crossing Project
 112		MAX Red Line Extension and Reliability Improvements
 113		Westside Express Service Rail Project - Wilsonville - Beaverton
 121		Interstate 71 corridor (MOS-1)
 137		Lynnwood Link Extension
-14. Search for missing reports [NOT YET STARTED]
-15. Make sure all projects are represented in spreadsheets [NOT YET STARTED]
+13. Search for missing reports [NOT YET STARTED]
+14. Make sure all projects are represented in spreadsheets [NOT YET STARTED]
 
 Due date: End of summer, 2022
