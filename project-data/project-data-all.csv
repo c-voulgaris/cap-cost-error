@@ -5,59 +5,52 @@ ID,ID (letter),Name,Year of initial milestone,Number of stations,Project type,Fu
 103,,South/North Corridor (MOS-1),1996,20,Introduction,New Starts,,,,,Portland,OR,LRT,cam
 104,,"Portland, Oregon/Westside-Hillsboro Corridor ",1994,20,Introduction,New Starts,,,,,Portland,OR,LRT,cam
 105,,Westside Light Rail to 185th,1992,NAV,Introduction,New Starts,,,,,Portland,OR,LRT,cam
-106,,South Corridor I-205 / Portland Mall LRT ,2004,22,Expansion,New Starts,,,,,Portland,OR,LRT,cam
-107,,Portland-Milwaukie Light Rail Project,2009,10,Expansion,New Starts,,,,,Portland,OR,LRT,cam
+106,,South Corridor I-205 / Portland Mall LRT ,2004,22,Expansion,New Starts,Tri-County Metropolitan Transportation District of Oregon,8,Portland Metro,NA,Portland,OR,LRT,cam
+107,,Portland-Milwaukie Light Rail Project,2009,10,Expansion,New Starts,Tri-County Metropolitan Transportation District of Oregon,8,,,Portland,OR,LRT,cam
 108,,Columbia River Crossing Project,2009,5,Expansion,New Starts,Washington State Department of Transportation (WSDOT),NA,,,Portland,OR,LRT,cam
-109,,Columbia River Crossing Project,2009,5,Expansion,New Starts,Oregon Department of Transportation (ODOT),NA,Tri-County Metropolitan Transportation District (TriMet),0008,Portland,OR,LRT,cam
+109,,Columbia River Crossing Project,2009,5,Expansion,New Starts,Oregon Department of Transportation (ODOT),NA,Tri-County Metropolitan Transportation District (TriMet),8,Portland,OR,LRT,cam
 110,,Powell-Division Transit and Development ,2015,NAV,Introduction,Small Starts,,,,,Portland,OR,BRT,cam
-111,,TriMet Interstate MAX Light Rail ,1996,,Expansion,Small Starts,,,,,Portland,OR,LRT,cam
-112,,MAX Red Line Extension and Reliability Improvements,2019,10,Improvement,Small Starts,Tri-County Metropolitan Transit District,00008,NA,NA,Portland,OR,LRT,cam
-113,,Westside Express Service Rail Project ,2001,5,Introduction,New Starts,Tri-County Metropolitan Transit District,00008,,,Portland,OR,Commuter rail,cam
+111,,TriMet Interstate MAX Light Rail ,1996,10,Expansion,New Starts,Tri-County Metropolitan Transportation District of Oregon,8,,,Portland,OR,LRT,cam
+112,,MAX Red Line Extension and Reliability Improvements,2019,10,Improvement,Small Starts,Tri-County Metropolitan Transit District,8,NA,NA,Portland,OR,LRT,cam
+113,,Westside Express Service Rail Project ,2001,5,Introduction,New Starts,Tri-County Metropolitan Transit District,8,,,Portland,OR,Commuter rail,cam
 114,,Green Line Light Rail Project ,2004,,Expansion,New Starts,,,,,Portland,OR,LRT,cam
 115,,Streetcar Loop Project ,2007,28,Expansion,Small Starts,,,,,Portland,OR,Streetcar,cam
-117,,Southwest Corridor Light Rail Transit Project,2019,13,Expansion,New Starts,,,,,Portland,OR,LRT,cam
+117,,Southwest Corridor Light Rail Transit Project,2019,13,Expansion,New Starts,Tri-County Metropolitan Transportation District of Oregon,8,,,Portland,OR,LRT,cam
 118,,Pioneer Parkway EmX BRT ,2006,14,Expansion,Small Starts,,,,,Springfield,OR,BRT,cam
-119,,West Eugene EmX Extension,2012,13,Expansion,Small Starts,,,,,Eugene,OR,BRT,cam
+119,,West Eugene EmX Extension,2012,13,Expansion,Small Starts,Lane Transit District,7,,,Eugene,OR,BRT,cam
 120,,Cleveland (Euclid Corridor) ,1997,22,Improvement,New Starts,,,,,Cleveland,OH,BRT,cam
 121,,Interstate 71 corridor (MOS-1),1998,24,Introduction,New Starts,Ohio-Kentucky-Indiana (OKI) Regional Council of Governments,NA,,,Cincinnati,OH,LRT,cam
-122,,Northeast Corridor BRT Project,2013,,Improvement,Small Starts,,,,,Columbus,OH,BRT,cam
+122,,Cleveland Avenue Bus Rapid Transit (aka Northeast Corridor BRT Project),2013,32,Introduction,Small Starts, Central Ohio Transit Authority (COTA),50016,NA,NA,Columbus,OH,BRT,cam
 123,,North Corridor LRT ,2001,14,Introduction,New Starts,,,,,Columbus,OH,LRT,cam
-124,,Cleveland Avenue Bus Rapid Transit,2013,,Improvement,Small Starts,,,,,Columbus,OH,BRT,cam
-125,,"Craig, Alaska (Alaska-Hollis Ketchikan Ferry) ",,1,Introduction,New Starts,,,,,Craig,AK,Ferry,cam
 126,,Alaska Rail Road - South Wasilla Track Realignment ,2000,NA,Improvement,New Starts,,,,,Wasilla,AK,Commuter rail,cam
 127,,South Anchorage Double Track ,2000,NA,Improvement,New Starts,,,,,Anchorage,AK,Commuter rail,cam
-128,,Alaska Marine Highway System ,2001,NA,Improvement,New Starts,,,,,Prince William Sound,AK,Ferry,cam
-129,,Norfolk -Virginia Beach Corridor  (First phase),1997,13,Introduction,New Starts,,,,,Norfolk,VA,LRT,cam
+129,,Norfolk -Virginia Beach Corridor,1997,13,Introduction,New Starts,Tidewater Transportation District Commission (TTDC),30083,NA,NA,Norfolk,VA,LRT,cam
 130,,Norfolk LRT - The Tide Light Rail,2002,11,Expansion,New Starts,,,,,Norfolk,VA,LRT,cam
-131,,West End Transitway,2016,15,Introduction,Small Starts,,,,,Alexandria,VA,BRT,cam
+131,,West End Transitway,2016,15,Introduction,Small Starts,City of Alexandria,NA,,,Alexandria,VA,BRT,cam
 132,,Richmond Highway BRT Project,2020,9,Introduction,New Starts,,,,,Fairfax County,VA,BRT,cam
 133,,Seattle-Tacoma Sounder Commuter Rail ,1998,8,Introduction,New Starts,,,,,Seattle,WA,Commuter rail,cam
-134,,Central Link Initial Segment (Initial),1997,11,Introduction,New Starts,,,,,Seattle,WA,LRT,cam
+134,,Central Link Initial Segment (Initial),1997,13,Introduction,New Starts,Central Puget Sound Regional Transit Authority,40,,,Seattle,WA,LRT,cam
 135,,Roosevelt RapidRide BRT ,2017,13,Expansion,Small Starts,,,,,Seattle,WA,BRT,cam
-136,,University Link LRT Extension,2005,2,Expansion,New Starts,,,,,Seattle,WA,LRT,cam
-137,,Lynnwood Link Extension,2013,4,Expansion,New Starts,Central Puget Sound Regional Transit Authority ,00040,,,Seattle,WA,LRT,cam
+136,,University Link LRT Extension,2005,2,Expansion,New Starts,Central Puget Sound Regional Transit Authority,40,,,Seattle,WA,LRT,cam
+137,,Lynnwood Link Extension,2013,4,Expansion,New Starts,Central Puget Sound Regional Transit Authority,40,,,Seattle,WA,LRT,cam
 138,,Center City Connector Streetcar,2014,4,Expansion,Small Starts,,,,,Seattle,WA,Streetcar,cam
-139,,Sound Transit-Federal Way Link Extension,2016,3,Expansion,Small Starts,,,,,Seattle,WA,LRT,cam
+139,,Federal Way Link Extension,2013,3,Expansion,New Starts,Central Puget Sound Regional Transit Authority,40,,,Seattle,WA,LRT,cam
 140,,Madison Street Corridor BRT,2016,10,Introduction,Small Starts,,,,,Seattle,WA,BRT,cam
-141,,Link Extension and North Link,2003,,Expansion,New Starts,,,,,Seattle,WA,LRT,cam
-142,,Airport Link,1997,,Introduction,New Starts,,,,,Seattle,WA,LRT,cam
-143,,North Link,1997,,Introduction,New Starts,,,,,Seattle,WA,LRT,cam
-144,,Everett to Seattle Commuter Rail,2004,7,Introduction,New Starts,,,,,Seattle,WA,Commuter rail,cam
-145,,Federal Way Link Extension,2016,3,Expansion,New Starts,,,,,Seattle,WA,LRT,cam
+144,,Everett to Seattle Commuter Rail,2004,3,Expansion,New Starts,Central Puget Sound Regional Transit Authority,40,,,Seattle,WA,Commuter rail,cam
 146,,Rapid Ride I,2019,76,Introduction,Small Starts,,,,,Seattle,WA,BRT,cam
 147,,Rapid Ride K,2019,36,Introduction,Small Starts,,,,,Seattle,WA,BRT,cam
 148,,Mill Plain Bus Rapid Transit,2019,21,Introduction,Small Starts,,,,,Vancouver,WA,BRT,cam
 149,,Fourth Plain Bus Rapid Transit,2013,18,Introduction,Small Starts,,,,,Vancouver,WA,BRT,cam
 150,,Swift II,2015,18,Expansion,Small Starts,,,,,Everett,WA,BRT,cam
 151,,Tacoma Link Light Rail Expansion,2014,6,Expansion,Small Starts,,,,,Tacoma,WA,LRT,cam
-152,,Lakewood to Tacoma Commuter Rail,2000,3,Introduction,New Starts,,,,,Tacoma,WA,Commuter rail,cam
+152,,Lakewood to Tacoma Commuter Rail,2006,2,Expansion,New Starts,Central Puget Sound Regional Transit Authority,40,,,Tacoma,WA,Commuter rail,cam
 153,,Pacific Avenue/SR 7 Corridor,2019,32,Introduction,Small Starts,,,,,Tacoma,WA,BRT,cam
 154,,Central City Line,2015,21,Introduction,Small Starts,,,,,Spokane,WA,BRT,cam
 155,,Metra North Central Corridor,1998,5,Expansion,New Starts,,,,,Chicago,IL,Commuter rail,cam
 156,,Metra South West Corridor,1998,2,Expansion,New Starts,,,,,Chicago,IL,Commuter rail,cam
 157,,Central Area Circulator,1994,NAV,Introduction,New Starts,,,,,Chicago,IL,LRT,cam
 158,,Ravenswood Line Extension,1999,19,Improvement,New Starts,,,,,Chicago,IL,Heavy rail,cam
-159,,Ashland Avenue BRT Phase I,2014,14,Introduction,Small Starts,,,,,Chicago,IL,BRT,cam
+159,,Ashland Avenue BRT Phase I,2014,14,Introduction,Small Starts,Chicago Transit Authority,50066,,,Chicago,IL,BRT,cam
 160,,Red and Purple Line Modernization Project ,2013,,Improvement,Core Capacity,,,,,Chicago,IL,Heavy rail,cam
 161,,Red and Purple Line Modernization Project Phase I,2014,4,Improvement,Core Capacity,,,,,Chicago,IL,Heavy rail,cam
 200,,Mason Transportation Corridor,2001,15,Expansion,New Starts,,,,,Fort Collins,CO,BRT,am
@@ -154,7 +147,7 @@ ID,ID (letter),Name,Year of initial milestone,Number of stations,Project type,Fu
 337,,Southtown BRT,2001,NAV,Expansion,Small Starts,,,,,Kansas City ,MO,BRT,mwj
 338,,Southtown Corridor,1995,NAV,Expansion,New Starts,,,,,Kansas City ,MO,LRT,mwj
 338,a,Southtown Corridor (Segment),1995,NAV,Expansion,New Starts,,,,,Kansas City ,MO,LRT,mwj
-339,,Southwest First Coast Flyer BRT,2015,13,Expansion,Small Starts,,,,,Jacksonville,FL,BRT,mwj
+339,,Southwest First Coast Flyer BRT,2015,13,Expansion,Small Starts,Jacksonville Transportation Authority,40040,,,Jacksonville,FL,BRT,mwj
 340,,"St. Clair County, Illinois Corridor ",1996,NAV,Expansion,New Starts,,,,,St. Louis,MO,LRT,mwj
 340,a,"St. Clair County, Illinois Corridor (IOS-1)",1996,8,Expansion,New Starts,,,,,St. Louis,MO,LRT,mwj
 341,,St. Claude and Elysian Fields Streetcar Extensions,2018,5,Expansion,Small Starts,,,,,New Orleans ,LA,Streetcar,mwj
@@ -183,7 +176,7 @@ ID,ID (letter),Name,Year of initial milestone,Number of stations,Project type,Fu
 409,,Silver Line,1993,4,Expansion,New Starts,,,,,Boston,MA,BRT,cox
 410,,Green Line Extension,2012,7,Expansion,New Starts,,,,,Cambridge,MA,LRT,cox
 411,,Lowell-Nashua Commuter Rail Extension ,2000,7,Expansion,New Starts,,,,,Lowell,MA,Commuter Rail,cox
-412,,Burlington to Charlotte Corridor ,1995,4,Improvement,New Starts,,,,,Burlington,VT,Commuter Rail,cox
+412,,Burlington to Charlotte Corridor ,NA,4,Improvement,New Starts,Vermont Agency on Transportation (VAOT),NA,NA,NA,Burlington,VT,Commuter Rail,cox
 413,,Burlington-Essex Commuter Rail Project,2002,3,Expansion,New Starts,,,,,Burlington,VT,Commuter Rail,cox
 414,,Queens Connector,1992,NA,Expansion,New Starts,,,,,New York ,NY,Heavy Rail,cox
 415,,Long Island Rail Road East Side Access,1998,2,Expansion,New Starts,,,,,New York,NY,Commuter Rail,cox
@@ -231,7 +224,7 @@ ID,ID (letter),Name,Year of initial milestone,Number of stations,Project type,Fu
 510,,Transit Spine BRT,2016,22,Introduction,Small Starts,,,,,Flagstaff,AZ,BRT,zi
 511,,Mountain Link BRT Project,2009,21,Introduction,Very Small Starts,,,,,Flagstaff,AZ,BRT,zi
 512,,Northstar Corridor Rail,2000,12,Introduction,New Starts,,,,,Minneapolis,MN,Commuter Rail,zi
-513,,Southwest Light Rail Transit,2011,16,Expansion,New Starts,,,,,Minneapolis,MN,LRT,zi
+513,,Southwest Light Rail Transit,2011,NAV,Expansion,New Starts,Metropolitan Council,50154,,,Minneapolis,MN,LRT,zi
 514,,METRO Blue Line Extension,2014,11,Expansion,New Starts,,,,,Minneapolis,MN,LRT,zi
 515,,METRO Orange Line Bus Rapid Transit Project,2014,11,Introduction,Small Starts,,,,,Minneapolis,MN,BRT,zi
 516,,Hiawatha Corridor LRT,1999,17,Expansion,New Starts,,,,,St. Paul,MN,LRT,zi
