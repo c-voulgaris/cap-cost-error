@@ -1,16 +1,18 @@
 # Capital Cost Escalation and Overrun for Federally-funded Fixed-guideway transit
 
 This is a project of Dr Carole Turley Voulgaris, which has been supported by the
-following research assistants over the years:
+following research assistants over the years (listed alphabetically):
 
-* Mojdeh Mahdavi
-* Sue Chen
 * Charuvi Begwani
-* Megan Willis-Jackson
-* Cam McCutchen
-* Zoe Iacovino
+* Sue Chen
 * Alex Cox
+* Zoe Iacovino
+* Ryan Johnson
+* Mojdeh Mahdavi
+* Cam McCutchen
 * Arnav Murulidhar
+* Tianyu Su
+* Megan Willis-Jackson
 
 The purpose of this project is to compile a database of projects that have been
 funded by the Federal Transit Administrations Capital Improvement Grants program
