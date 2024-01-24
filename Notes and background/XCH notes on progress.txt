@@ -15,7 +15,8 @@ TO DO
 10. Add sponsor information into "project-data-all" [IN PROGRESS]
 11. Search for missing reports (1999 report, 2003 Appendices, reports before 1997, project profiles no longer on website) [NOT YET STARTED]
 12. Add AR22, AR23, BA21 [NOT YET STARTED]
-13. Make sure all projects are represented in spreadsheets [NOT YET STARTED]
+13. Add project statues: open/abandoned/ongoing [NOT YET STARTED]
+13. Project completeness: check all projects that appear in four sources are included in our dataset [In Progress - Tianyu]
 
 
 
