@@ -19,13 +19,14 @@ funded by the Federal Transit Administrations Capital Improvement Grants program
 (section 5309) and how project budgets and timelines have changes over the the
 project planning and project construction periods.
 
-Data sources (ranked by priority; up to January 2024):
+## Data sources (ranked by priority; up to January 2024):
+
 * Capital Investment Grant (CIG) Dashboard: https://www.transit.dot.gov/funding/grants/grant-programs/capital-investments/capital-investment-grant-cig-dashboard 
 * Annual Report on Funding Recommendations: https://www.transit.dot.gov/funding/grant-programs/capital-investments/annual-report-funding-recommendations  
 * Before and After Studies of New Starts Projects: https://www.transit.dot.gov/funding/grant-programs/capital-investments/and-after-studies-new-starts-projects 
 * Capital Investment Program Project Profiles: https://www.transit.dot.gov/grant-programs/capital-investments/capital-investment-program-project-profiles-fiscal-year-2022  
 
-This repository includes the following directories and files:
+## Repository directories and files:
 
 ### Notes and background
 
@@ -82,3 +83,7 @@ is intended to explain the data in this file.
 The csv files in this file include codes to indicate the data sources for each 
 piece of data in the year-data folder. Data source abbreviations are explained
 in the "Notes on spreadsheets" word document in the Notes and Background directory.
+
+## Useful tools:
+
+### PDF to Excel: https://www.adobe.com/acrobat/online/pdf-to-excel.html 
