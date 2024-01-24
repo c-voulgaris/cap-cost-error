@@ -24,7 +24,7 @@ project planning and project construction periods.
 * Capital Investment Grant (CIG) Dashboard: https://www.transit.dot.gov/funding/grants/grant-programs/capital-investments/capital-investment-grant-cig-dashboard 
 * Annual Report on Funding Recommendations: https://www.transit.dot.gov/funding/grant-programs/capital-investments/annual-report-funding-recommendations  
 * Before and After Studies of New Starts Projects: https://www.transit.dot.gov/funding/grant-programs/capital-investments/and-after-studies-new-starts-projects 
-* Capital Investment Program Project Profiles: https://www.transit.dot.gov/grant-programs/capital-investments/capital-investment-program-project-profiles-fiscal-year-2022  
+* Capital Investment Program Project Profiles: https://www.transit.dot.gov/funding/grant-programs/capital-investments/current-capital-investment-grant-cig-projects
 
 ## Repository directories and files:
 
@@ -86,4 +86,4 @@ in the "Notes on spreadsheets" word document in the Notes and Background directo
 
 ## Useful tools:
 
-### PDF to Excel: https://www.adobe.com/acrobat/online/pdf-to-excel.html 
+* PDF to Excel: https://www.adobe.com/acrobat/online/pdf-to-excel.html 
