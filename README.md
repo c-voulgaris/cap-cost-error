@@ -25,14 +25,14 @@ project planning and project construction periods.
 * Capital Investment Program Project Profiles: https://www.transit.dot.gov/funding/grant-programs/capital-investments/current-capital-investment-grant-cig-projects
 
 ## Notes on progress
-## TO DO
+### TO DO
 9. Project completeness: check all projects that appear in four sources are included in our dataset [In Progress - Tianyu]
 10. Add sponsor information into "project-data-all" [IN PROGRESS]
 11. Search for missing reports (1999 report, 2003 Appendices, reports before 1997, project profiles no longer on website) [NOT YET STARTED]
 12. Add project statues: open/abandoned/ongoing [NOT YET STARTED]
 13. Add AR22, AR23, BA21 [NOT YET STARTED]
 
-## DONE
+### DONE
 project-data-all, project-data-srcs-all, year-data-srcs-all
 1. Consolidate spreadsheets from all reviewers [DONE]
 2. Update Cam portions of spreadsheets [DONE]
