@@ -1,272 +1,272 @@
-ID,ID (letter),Name,Year of initial milestone,Number of stations,Project type,Funding program,Sponsor_1,Sponsor ID_1,Sponsor_2,Sponsor ID_2,City,State,Mode,Author
-100,,Downtown-Uptown-Oakland-East End Bus Rapid Transit,PP19,PP19,PP19,PP19,PP19,NTD,,,PP19,PP19,PP19,cam
-101,,Corridor one Rail MOS,AR05,AR07,AR07,AR07,,NTD,,,AR07,AR07,AR07,cam
-102,,Schuylkill Valley Metro Rail,AR07,AR07,AR07,AR07,,NTD,,,AR07,AR07,AR07,cam
-103,,South/North Corridor (MOS-1),AR97,AR00,AR00,AR00,,NTD,,,AR97,AR97,AR97,cam
-104,,"Portland, Oregon/Westside-Hillsboro Corridor ",AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,cam
-105,,Westside Light Rail to 185th,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,cam
-106,,South Corridor I-205 / Portland Mall LRT ,AR07,AR10,AR07,AR07,AR08,NTD,AR08,NA,AR07,AR07,AR07,cam
-107,,Portland-Milwaukie Light Rail Project,AR10,AR10,AR10,AR10,AR16,NTD,,,AR10,AR10,AR10,cam
-108,,Columbia River Crossing Project,AR14,AR14,AR14,AR14,,NTD,,,AR14,AR14,AR14,cam
-109,,Columbia River Crossing Project,AR15,AR15,AR15,AR15,AR15,NA,AR15,NTD,AR15,AR15,AR15,cam
-110,,Powell-Division Transit and Development ,PP18,PP18,PP18,PP18,,NTD,,,PP18,PP18,PP18,cam
-111,,TriMet Interstate MAX Light Rail ,BA08,AR04,AR02,AR02,BA08,NTD,,,AR02,AR02,AR02,cam
-112,,MAX Red Line Extension and Reliability Improvements,AR21,PP19,AR21,AR21,PP19,NTD,NA,NA,AR21,AR21,AR21,cam
-113,,Westside Express Service Rail Project ,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,cam
-114,,Green Line Light Rail Project ,BA14,BA14,BA14,BA14,,NTD,,,BA14,BA14,BA14,cam
-115,,Streetcar Loop Project ,BA16,BA16,BA16,BA16,,NTD,,,BA16,BA16,BA16,cam
-117,,Southwest Corridor Light Rail Transit Project,PP19,PP19,PP19,PP19,,NTD,,,PP19,PP19,PP19,cam
-118,,Pioneer Parkway EmX BRT ,AR10,AR10,AR10,AR10,,NTD,,,AR10,AR10,AR10,cam
-119,,West Eugene EmX Extension,AR14,AR14,AR14,AR14,,NTD,,,AR14,AR14,AR14,cam
-120,,Cleveland (Euclid Corridor) ,AR05,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR05,cam
-121,,Interstate 71 corridor (MOS-1),AR02,AR02,AR02,AR02,AR02,NA,,,AR02,AR02,AR02,cam
-122,,Cleveland Avenue Bus Rapid Transit (aka Northeast Corridor BRT Project),AR14,AR16,AR14,AR14,AR14,NTD,NA,NA,AR14,AR14,AR14,cam
-123,,Northeast Corridor LRT ,AR05,AR05,AR05,AR05,,NTD,,,AR05,AR05,AR05,cam
-126,,Alaska Rail Road - South Wasilla Track Realignment ,AR05,AR05,AR05,AR05,,NTD,,,AR05,AR05,AR05,cam
-127,,South Anchorage Double Track ,AR03,AR03,AR03,AR03,,NTD,,,AR03,AR03,AR03,cam
-129,,Norfolk -Virginia Beach Corridor,AR00,AR00,AR00,AR00,AR00,NTD,NA,NA,AR00,AR00,AR00,cam
-130,,Norfolk LRT - The Tide Light Rail,BA15,BA15,BA15,BA15,,NTD,,,BA15,BA15,BA15,cam
-131,,West End Transitway,PP18,PP18,PP18,PP18,PP18,NA,,,PA18,PA18,PA18,cam
-132,,Richmond Highway BRT Project,AR22,AR22,AR22,AR22,,NTD,,,AR22,AR22,AR22,cam
-133,,Seattle-Tacoma Sounder Commuter Rail ,AR00,AR00,AR00,AR00,,NTD,,,AR00,AR00,AR00,cam
-134,,Central Link Initial Segment (Initial),BA13,BA13,BA13,BA13,BA13,NTD,,,BA13,BA13,BA13,cam
-135,,Roosevelt RapidRide BRT ,AR19,AR19,AR19,AR19,,NTD,,,AR19,AR19,AR19,cam
-136,,University Link LRT Extension,BA21,BA21,BA21,BA21,BA21,NTD,,,AR07,AR07,AR07,cam
-137,,Lynnwood Link Extension,PP21,PP21,PP21,PP21,PP21,NTD,,,PP21,PP21,PP21,cam
-138,,Center City Connector Streetcar,AR16,PP20,AR16,AR16,,NTD,,,AR16,AR16,AR16,cam
-139,,Federal Way Link Extension,PP21,PP21,PP21,PP21,PP21,NTD,,,AR18,AR18,AR18,cam
-140,,Madison Street Corridor BRT,PP19,PP19,PP19,PP19,,NTD,,,PP19,PP19,PP19,cam
-144,,Everett to Seattle Commuter Rail,AR06,AR06,AR06,AR06,AR06,NTD,,,AR06,AR06,AR06,cam
-146,,Rapid Ride I,AR21,AR21,AR21,AR21,,NTD,,,AR21,AR21,AR21,cam
-147,,Rapid Ride K,AR21,AR21,AR21,AR21,,NTD,,,AR21,AR21,AR21,cam
-148,,Mill Plain Bus Rapid Transit,AR20,AR20,AR20,AR20,,NTD,,,AR20,AR20,AR20,cam
-149,,Fourth Plain Bus Rapid Transit,AR15,AR15,AR15,AR15,,NTD,,,AR15,AR15,AR15,cam
-150,,Swift II,AR16,AR16,AR16,AR16,,NTD,,,AR16,AR16,AR16,cam
-151,,Tacoma Link Light Rail Expansion,AR16,AR16,AR16,AR16,,NTD,,,AR16,AR16,AR16,cam
-152,,Lakewood to Tacoma Commuter Rail,AR06,AR06,AR06,AR06,AR06,NTD,,,AR06,AR06,AR06,cam
-153,,Pacific Avenue/SR 7 Corridor,AR20,AR20,AR20,AR20,,NTD,,,AR20,AR20,AR20,cam
-154,,Central City Line,AR17,AR17,AR17,AR17,,NTD,,,AR17,AR17,AR17,cam
-155,,Metra North Central Corridor,AR05,AR05,AR05,AR05,,NTD,,,AR05,AR05,AR05,cam
-156,,Metra South West Corridor,AR05,AR05,AR05,AR05,,NTD,,,AR05,AR05,AR05,cam
-157,,Central Area Circulator,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,cam
-158,,Ravenswood Line Extension,AR03,AR03,AR03,AR03,,NTD,,,AR03,AR03,AR03,cam
-159,,Ashland Avenue BRT Phase I,AR16,AR16,AR16,AR16,AR16,NTD,,,AR15,AR15,AR15,cam
-160,,Red and Purple Line Modernization Project ,AR15,AR15,AR15,AR15,,NTD,,,AR15,AR15,AR15,cam
-161,,Red and Purple Line Modernization Project Phase I,AR16,AR16,AR16,AR16,,NTD,,,AR16,AR16,AR16,cam
-200,,Mason Transportation Corridor,AR03,AR05,AR03,AR03,,NTD,,,AR03,AR03,AR03,am
-201,,San Fernando Valley East-West Transit Corridor,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,am
-202,,Mid-city/ Exposition LRT,AR03,AR03,AR03,AR03,,NTD,,,AR03,AR03,AR03,am
-203,,East Central Corridor,AR95,AR95,AR95,AR95,,NTD,,,AR95,AR95,AR95,am
-204,,Eastside Corridor LRT,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,am
-205,,MOS-3 ,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,am
-205,b,MOS-3 East Side Extension,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,am
-205,a,MOS-3 North Hollywood Extension,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,am
-205,c,MOS-3 The Mid-City Extension,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,am
-206,,Eastside Corridor Extension Phase 2,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,am
-207,,LOSSAN Rail Corridor Improvement Project ,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,am
-208,,Metro Gold Line Eastside Extension ,BA13,BA13,BA13,BA13,,NTD,,,BA13,BA13,BA13,am
-209,,Regional Connector,PP18,PP18,PP18,PP18,,NTD,,,PP18,PP18,PP18,am
-210,,Westside Subway Extension Section 1,AR13,AR13,AR13,AR13,,NTD,,,AR13,AR13,AR13,am
-211,,Westside Purple Line Extension Section 1,PP20,PP20,PP20,PP20,,NTD,,,PP20,PP20,PP20,am
-212,,Westside Purple Line Extension Section 2,PP20,PP20,PP20,PP20,,NTD,,,PP20,PP20,PP20,am
-213,,Westside Purple Line Extension Section 3,PP19,PP19,PP19,PP19,,NTD,,,PP19,PP19,PP19,am
-214,,Downtown Los Angeles Streetcar,AR16,AR16,AR16,AR16,,NTD,,,AR16,AR16,AR16,am
-215,,BART Airport Extension ,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,am
-216,,San Francisco (Bayshore) ,AR98,NAV,AR98,AR98,,NTD,,,AR98,AR98,AR98,am
-217,,Central Subway LRT ,AR07,AR07,AR07,AR07,,NTD,,,AR07,AR07,AR07,am
-218,,Third Street Light Rail Phase 1 ,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,am
-219,,Third Street Light Rail Phase 2 – Central Subway,AR13,AR13,AR13,AR13,,NTD,,,AR13,AR13,AR13,am
-220,,Van Ness Avenue BRT ,AR14,AR14,AR14,AR14,,NTD,,,AR14,AR14,AR14,am
-221,,Transbay Corridor ,PP19,PP19,PP19,PP19,,NTD,,,PP19,PP19,PP19,am
-222,,South Corridor (IOS-1),AR99,AR99,AR99,AR99,,NTD,,,AR99,AR99,AR99,am
-223,,South Corridor Phase Light Rail Transit Extension,AR07,AR07,AR07,AR07,,NTD,,,AR07,AR07,AR07,am
-224,,Downtown Riverfront Streetcar,AR16,AR16,AR16,AR16,,NTD,,,AR16,AR16,AR16,am
-225,,Tasman LRT (West Extension),AR95,AR97,AR95,AR95,,NTD,,,AR95,AR95,AR95,am
-226,,Tasman LRT (West Extension) Phase 1,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,am
-227,,El Camino Real Corridor BRT Project ,AR15,AR15,AR15,AR15,,NTD,,,AR15,AR15,AR15,am
-228,,Silicon Valley Berryessa Extension Project,AR13,AR13,AR13,AR13,,NTD,,,AR13,AR13,AR13,am
-229,,Silicon Valley Phase II,PP18,PP18,PP18,PP18,,NTD,,,PP18,PP18,PP18,am
-230,,Mid Coast Corridor (LR),AR98,AR02,AR98,AR98,,NTD,,,AR98,AR98,AR98,am
-231,,Oceanside-Escondido Rail Corridor ,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,am
-232,,I-405/SR-55 Transitway and Direct Access HOV Ramps ,AR98,AR98,AR98,AR98,,NTD,,,AR98,AR98,AR98,am
-233,,CenterLine LRT Project ,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,am
-234,,"San Diego County, California/Mission Valley East ",AR00,AR00,AR00,AR00,,NTD,,,AR00,AR00,AR00,am
-235,,Mid-Coast Corridor Transit Project,AR14,AR14,AR14,AR14,,NTD,,,AR14,AR14,AR14,am
-236,,Caltrain Peninsula Corridor Electrification Project ,AR17,AR17,AR17,AR17,,NTD,,,AR17,AR17,AR17,am
-237,,Blackstone/Kings Canyon Bus Rapid Transit,AR15,AR15,AR15,AR15,,NTD,,,AR15,AR15,AR15,am
-238,,Garden Grove Streetcar,AR17,PP19,AR17,AR17,,NTD,,,AR17,AR17,AR17,am
-239,,East Bay BRT,AR13,AR14,AR13,AR13,,NTD,,,AR13,AR13,AR13,am
-240,,San Rafael to Larkspur Regional Connection,AR15,AR15,AR15,AR15,,NTD,,,AR15,AR15,AR15,am
-241,,Redlands Passenger Rail Project,PP18,PP18,PP18,PP18,,NTD,,,PP18,PP18,PP18,am
-242,,SPRINTER Light Rail (Oceanside-Escondido) ,AR03,AR03,AR03,AR03,,NTD,,,AR03,AR03,AR03,am
-243,,South LRT,AR97,NAV,AR97,AR97,,NTD,,,AR97,AR97,AR97,am
-244,,Downtown Connector ,AR00,AR00,AR00,AR00,,NTD,,,AR00,AR00,AR00,am
-245,,Mid-Jordan LRT ,AR11,AR11,AR11,AR11,,NTD,,,AR11,AR11,AR11,am
-246,,Weber County to Salt Lake City Commuter Rail ,AR05,AR07,AR05,AR05,,NTD,,,AR05,AR05,AR05,am
-301,,Canal Streetcar Spine,AR97,AR98,AR97,AR97,,NTD,,,AR97,AR97,AR97,mwj
-302,,CBD to University LRT,AR05,AR05,AR05,AR05,,NTD,,,AR05,AR05,AR05,mwj
-303,,Central Avenue Bus Rapid Transit Project,PP19,PP19,PP19,PP19,,NTD,,,PP19,PP19,AR18,mwj
-304,,"Central Broward Transit Study, Phase I",PP15,PP15,PP15,PP15,,NTD,,,PP15,PP15,PP15,mwj
-305,,Central Florida Commuter Rail Transit – Initial Operating Segment,AR13,AR13,AR13,AR13,,NTD,,,AR13,AR13,AR13,mwj
-306,,Desire Streetcar Line,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,mwj
-307,,Draper Transit Corridor,AR13,AR13,AR13,AR11,,NTD,,,AR11,AR11,AR13,mwj
-308,,East First Coast Flyer BRT,PP16,PP16,PP16,PP16,,NTD,,,PP16,PP16,PP16,mwj
-309,,East-West Corridor/Miami Intermodal Center,AR98,AR97,AR98,AR98,,NTD,,,AR98,AR98,AR98,mwj
-309,a,East-West Corridor/Miami Intermodal Center (MOS),AR98,AR97,AR98,AR98,,NTD,,,AR98,AR98,AR98,mwj
-310,,Flagler to duPont Place,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,mwj
-310,a,Flagler to duPont Place - ASE Extension,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,mwj
-311,,FrontRunner North Rail Project,BA13,BA13,BA13,BA13,,NTD,,,BA13,BA13,BA13,mwj
-312,,Hudson Tunnel,PP21,PP21,PP21,PP21,,NTD,,,PP21,PP21,AR18,mwj
-313,a,Hudson-Bergen Waterfront Light Rail Transit System (MOS-1),AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,mwj
-313,b,Hudson-Bergen Waterfront Light Rail Transit System (MOS-2),AR10,AR10,AR10,AR10,,NTD,,,AR10,AR10,AR10,mwj
-313,,Hudson-Bergen Waterfront Light Rail Transit System ,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,mwj
-314,,I-35 Commuter Rail,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,mwj
-315,,JTA BRT North Corridor,AR12,AR12,AR12,AR12,,NTD,,,AR12,AR12,AR12,mwj
-316,,JTA BRT Southeast Corridor,AR13,AR13,AR13,AR13,,NTD,,,AR13,AR13,AR13,mwj
-317,,Largo Metrorail Extension,AR97,AR00,AR97,AR00,,NTD,,,AR00,AR00,AR97,mwj
-318,,"Martin Luther King, Jr. East Busway Extension",AR00,https://pittsburgh.pahighways.com/busways/ebusway.html,AR00,AR00,,NTD,,,AR00,AR00,AR00,mwj
-319,,Miami (North 27th Avenue Corridor),AR97,AR00,AR98,AR98,,NTD,,,AR98,AR98,AR98,mwj
-320,,Minillas Extension,AR01,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,mwj
-321,,Newark-Elizabeth Rail Link,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,mwj
-321,a,Newark-Elizabeth Rail Link (MOS I),AR00,AR01,AR00,AR01,,NTD,,,AR01,AR01,AR00,mwj
-324,,North Shore LRT Connector,BA16,BA16,BA16,BA16,BA16,NTD,,,BA16,BA16,BA16,mwj
-325,,Ogden/Weber State University BRT,PP19,PP19,PP19,PP19,,NTD,,,PP19,PP19,PP19,mwj
-326,,Oklahoma city (Map Links),AR98,AR98,AR98,AR98,,NTD,,,AR98,AR98,AR98,mwj
-327,,Oklahoma city (Map Links) Park Avenue Rail Loop,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,mwj
-328,,Orlando (I-4 Central Florida Light Rail System) (MOS),AR00,AR00,AR98,AR98,,NTD,,,AR98,AR98,AR98,mwj
-329,,Phase I Airport Busway/Wabash HOV Facility,AR97,AR96,AR96,AR97,,NTD,,,AR97,AR97,AR96,mwj
-330,,Portal North Bridge Replacement,PP21,PP21,PP21,PP21,,NTD,,,PP21,PP21,PP21,mwj
-331,,Prospect MAX Bus Rapid Transit,PP15,PP15,PP15,PP15,,NTD,,,PP15,PP15,PP15,mwj
-332,,Provo-Orem Bus Rapid Transit,AR14,AR14,AR14,AR14,,NTD,,,AR14,AR14,AR14,mwj
-333,,Secaucus Transfer Station,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,mwj
-334,,South Corridor Rapid Transit Project,PP19,PP19,PP19,PP19,,NTD,,,PP19,PP19,PP19,mwj
-335,,South Extension of the Automated Skyway Express (ASE),AR95,AR95,AR95,AR95,,NTD,,,AR95,AR95,AR95,mwj
-336,,South Miami-Dade Bustway Extension,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,mwj
-337,,Southtown BRT,AR97,AR97,AR05,AR09,,NTD,,,AR97,AR97,AR05,mwj
-338,,Southtown Corridor,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,mwj
-338,a,Southtown Corridor (Segment),AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,mwj
-339,,Southwest First Coast Flyer BRT,PP17,PP17,PP17,PP17,PP17,NTD,,,PP17,PP17,PP17,mwj
-340,,"St. Clair County, Illinois Corridor ",AR99,AR00,AR99,AR99,,NTD,,,AR99,AR99,AR99,mwj
-340,a,"St. Clair County, Illinois Corridor (IOS-1)",AR99,AR00,AR99,AR99,,NTD,,,AR99,AR99,AR99,mwj
-341,,St. Claude and Elysian Fields Streetcar Extensions,PP18,PP18,PP18,PP18,,NTD,,,PP18,PP18,PP18,mwj
-342,,Stage II Light Rail Transit Reconstruction Project,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,mwj
-343,,Streetcar Expansion,PP21,PP21,AR19,PP21,,NTD,,,AR19,AR19,AR19,mwj
-344,,SunRail Connector to Orlando Airport,PP18,PP18,AR17,AR17,,NTD,,,PP18,PP18,PP18,mwj
-345,,SunRail Phase II North,PP14,PP14,AR15,AR15,,NTD,,,PP14,PP14,AR15,mwj
-346,,SunRail Phase II South,PP17,PP17,AR14,AR14,,NTD,,,AR14,AR14,AR14,mwj
-347,,Tampa Bay Regional Rail,AR05,AR05,AR05,AR05,,NTD,,,AR05,AR05,AR05,mwj
-348,,Tampa Streetcar Extension Project,PP21,PP21,PP21,PP21,,NTD,,,PP21,PP21,PP21,mwj
-349,,TramLinkBR,PP18,PP18,PP18,PP18,,NTD,,,PP18,PP18,PP18,mwj
-350,,TRAX Light Rail System- Medical Center Extension,BA07,AR05,AR05,BA07,,NTD,,,AR05,AR05,AR05,mwj
-351,,Tren Urbano,AR98,AR98,AR04,AR04,,NTD,,,AR98,AR98,AR04,mwj
-352,,Tri-County Commuter Rail,AR97,AR01,AR97,AR97,,NTD,,,AR97,AR97,AR97,mwj
-352,a,Tri-County Commuter Rail / Segment 5,AR01,AR01,AR01,AR01,,NTD,,,AR01,AR01,AR01,mwj
-353,,Tri-Rail Double-track Corridor Improvement,AR98,AR98,AR05,AR05,,NTD,,,AR98,AR98,AR05,mwj
-354,,Wave Streetcar,AR14,AR14,AR14,AR15,,NTD,,,AR14,AR14,AR14,mwj
-401,,Atlanta/North Line Extension,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,cox
-402,,Baltimore LRT Extensions ,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,cox
-403,,Baltimore Central Light Rail Double Tracking ,AR00,AR00,AR00,AR00,,NTD,,,AR00,AR00,AR00,cox
-404,,MARC Commuter Rail Improvements,AR00,AR00,AR00,AR00,,NTD,,,AR00,AR00,AR00,cox
-405,,MARC Penn-Camden connection ,AR00,AR00,AR00,AR00,,NTD,,,AR00,AR00,AR00,cox
-406,,MARC Frederick Extension & Rolling Stock Procurement ,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,cox
-407,,Baltimore Red Line,AR13,AR14,AR13,AR13,,NTD,,,AR13,AR13,AR13,cox
-408,,Maryland National Capital Purple Line,PP21,PP21,PP21,PP21,,NTD,,,PP21,PP21,PP21,cox
-409,,Silver Line,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,cox
-410,,Green Line Extension,PP21,PP21,PP21,PP21,,NTD,,,PP21,PP21,PP21,cox
-411,,Lowell-Nashua Commuter Rail Extension ,AR00,AR02,AR00,AR00,,NTD,,,AR00,AR00,AR00,cox
-412,,Burlington to Charlotte Corridor ,NA,AR98,AR97,AR97,AR97,NA,NA,NA,AR97,AR97,AR97,cox
-413,,Burlington-Essex Commuter Rail Project,AR97,AR98,AR97,AR97,,NTD,,,AR97,AR97,AR97,cox
-414,,Queens Connector,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,cox
-415,,Long Island Rail Road East Side Access,AR00,AR00,AR00,AR00,,NTD,,,AR00,AR00,AR00,cox
-416,,Second Avenue Subway,PP22,PP22,PP22,PP22,,NTD,,,PP22,PP22,PP22,cox
-417,,Canarsie Line Power Improvements,PP16,PP16,PP16,PP16,,NTD,,,PP16,PP16,PP16,cox
-418,,Woodhaven Boulevard Select Bus Service,PP19,PP19,PP19,PP19,,NTD,,,PP19,PP19,PP19,cox
-419,,Washington/Western Bus Rapid Transit Line,PP17,PP17,PP17,PP17,,NTD,,,PP17,PP17,PP17,cox
-420,,River Corridor/Blue Line Bus Rapid Transit ,PP15,PP15,PP15,PP15,,NTD,,,PP15,PP15,PP15,cox
-421,,Hudson Tunnel,PP21,PP21,PP21,PP21,,NTD,,,PP21,PP21,PP21,cox
-422,,Dallas North Central Corridor LRT,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,cox
-423,,Dallas Trinity Railtran Phase 2,AR97,AR01,AR97,AR97,,NTD,,,AR97,AR97,AR97,cox
-424,,Dallas South Oak Cliff Corridor,Spielberg,Spielberg,Spielberg,Spielberg,,NTD,,,Spielberg,Spielberg,Spielberg,cox
-425,,Dallas Northwest / Southeast LRT MOS ,BA15,BA15,BA15,BA15,,NTD,,,BA15,BA15,BA15,cox
-426,,Dallas Red and Blue Line Platform Extensions,PP18,PP18,PP18,PP18,,NTD,,,PP18,PP18,PP18,cox
-427,,Dallas CBD Second Light Rail Alignment (D2 Subway),PP15,PP15,PP15,PP15,,NTD,,,PP15,PP15,PP15,cox
-428,,Houston Regional Bus Plan ,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,cox
-429,,Houston North Corridor LRT,AR07,AR07,AR07,AR07,,NTD,,,AR07,AR07,AR07,cox
-430,,Houston Southeast Corridor LRT,AR13,AR13,AR13,AR13,,NTD,,,AR13,AR13,AR13,cox
-431,,Houston University Corridor LRT,AR13,AR13,AR13,AR13,,NTD,,,AR13,AR13,AR13,cox
-432,,Houston Downtown to Astrodome Light Rail,AR01,AR01,AR01,AR01,,NTD,,,AR01,AR01,AR01,cox
-433,,Northwest/North Central Corridor ,AR00,AR01,AR00,AR01,,NTD,,,AR00,AR00,AR00,cox
-434,,Austin Light Rail Corridors,AR01,AR01,AR01,AR01,,NTD,,,AR01,AR01,AR01,cox
-435,,MetroRapid Bus Rapid Transit Project ,BA18,BA18,BA18,BA18,,NTD,,,BA18,BA18,BA18,cox
-436,,Dyer Avenue Bus Rapid Transit System,AR13,AR13,AR13,AR13,,NTD,,,AR13,AR13,AR13,cox
-437,,Montana Avenue Rapid Transit System,PP14,PP14,PP14,PP14,,NTD,,,PP14,PP14,PP14,cox
-438,,Sun Metro Areas Rapid Transit (SMART) Starter Line ,AR05,AR05,AR05,AR05,,NTD,,,AR05,AR05,AR05,cox
-439,,TEX Rail,PP20,PP20,PP20,PP20,,NTD,,,PP20,PP20,PP20,cox
-440,,San Antonio Modern Streetcar Project,PP14,PP14,PP14,PP14,,NTD,,,PP14,PP14,PP14,cox
-441,,Rail Trolley Extension ,AR01,AR01,AR01,AR01,,NTD,,,AR01,AR01,AR01,cox
-442,,Waco Rapid Transit Corridor,PP19,PP19,PP19,PP19,,NTD,,,PP19,PP19,PP19,cox
-443,,Denver SW Corridor LRT,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,cox
-444,,Denver West Corridor LRT,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,cox
-445,,Denver Eagle Commuter Rail (East Corridor and Gold Line),PP17,PP17,PP17,PP17,,NTD,,,PP17,PP17,PP17,cox
-446,,Denver Southeast Corridor LRT ,AR01,AR01,AR01,AR01,,NTD,,,AR01,AR01,AR01,cox
-447,,Denver Southeast Rail Extension,PP15,PP15,PP15,PP15,,NTD,,,PP15,PP15,PP15,cox
-501,,Douglas Branch Reconstruction,AR07,AR07,AR07,AR07,,NTD,,,AR07,AR07,AR07,zi
-502,,Union-Pacific West Line Extension,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,zi
-503,,Little Rock River Rail Project,AR00,AR00,AR00,AR00,,NTD,,,AR00,AR00,AR00,zi
-504,,Central Phoenix East Valley Light Rail,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,zi
-505,,South Central Phoenix LRT/Downtown Hub,PP19,PP19,PP19,PP19,,NTD,,,PP19,PP19,PP19,zi
-506,,Northwest Phase II LRT Extension,PP19,PP19,PP19,PP19,,NTD,,,PP19,PP19,PP19,zi
-507,,Modern Streetcar Project,AR11,AR11,AR11,AR11,,NTD,,,AR11,AR11,AR11,zi
-508,,Tempe Streetcar,AR14,AR14,AR14,AR14,,NTD,,,AR14,AR14,AR14,zi
-509,,Central Mesa Light Rail Transit Extension,BA19,BA19,BA19,BA19,,NTD,,,BA19,BA19,BA19,zi
-510,,Transit Spine BRT,PP18,PP18,PP18,PP18,,NTD,,,PP18,PP18,PP18,zi
-511,,Mountain Link BRT Project,BA14,BA14,BA14,BA14,,NTD,,,BA14,BA14,BA14,zi
-512,,Northstar Corridor Rail,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,zi
-513,,Southwest Light Rail Transit,PP21,NAV,PP21,PP21,PP21,NTD,,,PP16,PP16,PP16,zi
-514,,METRO Blue Line Extension,AR16,AR16,AR16,AR16,,NTD,,,AR16,AR16,AR16,zi
-515,,METRO Orange Line Bus Rapid Transit Project,AR16,AR16,AR16,AR16,,NTD,,,AR16,AR16,AR16,zi
-516,,Hiawatha Corridor LRT,AR05,AR05,AR05,AR05,,NTD,,,AR05,AR05,AR05,zi
-517,,Central Corridor LRT,BA20,BA20,BA20,BA20,,NTD,,,BA20,BA20,BA20,zi
-518,,METRO Gold Bus Rapid Transit,PP19,PP19,PP19,PP19,,NTD,,,PP19,PP19,PP19,zi
-519,,Rochester Downtown Circulator Bus Rapid Transit,PP22,PP22,PP22,PP22,,NTD,,,PP22,PP22,PP22,zi
-520,,Wilmington to Newark Commuter Rail Improvements,AR07,AR07,AR07,AR07,,NTD,,,AR07,AR07,AR07,zi
-521,,LYNX Blue Line Extension - Northeast Corridor,AR13,AR13,AR13,AR13,,NTD,,,AR13,AR13,AR13,zi
-522,,CityLYNX Gold Line Phase 2 Streetcar,AR15,AR15,AR15,AR15,,NTD,,,AR15,AR15,AR15,zi
-523,,Blue Line Capacity Expansion,PP16,PP16,PP16,PP16,,NTD,,,PP16,PP16,PP16,zi
-524,,South Corridor Light Rail Project,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,zi
-525,,Durham-Orange LRT,PP17,PP17,PP17,PP17,,NTD,,,PP17,PP17,PP17,zi
-526,,Research Triangle Regional Rail System,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,zi
-527,,North-South BRT,PP21,PP21,PP21,PP21,,NTD,,,PP21,PP21,PP21,zi
-528,,Wake Bus Rapid Transit: New Bern Avenue Project,PP21,PP21,PP21,PP21,,NTD,,,PP21,PP21,PP21,zi
-529,,Lowcountry Rapid Transit Project,PP22,PP22,PP22,PP22,,NTD,,,PP22,PP22,PP22,zi
-530,,IndyGO Purple Line BRT,PP21,PP21,PP21,PP21,,NTD,,,PP21,PP21,PP21,zi
-531,,Red Line All-Electric BRT,PP18,PP18,PP18,PP18,,NTD,,,PP18,PP18,PP18,zi
-532,,IndyGO Blue Line Rapid Transit,PP21,PP21,PP21,PP21,,NTD,,,PP21,PP21,PP21,zi
-533,,West Lake Corridor,PP22,PP22,PP22,PP22,,NTD,,,PP22,PP22,PP22,zi
-534,,South Shore Line /Double Track Northwest Indiana,PP22,PP22,PP22,PP22,,NTD,,,PP22,PP22,PP22,zi
-535,,New Britain Hartford Busway,AR01,AR01,AR01,AR01,,NTD,,,AR01,AR01,AR01,zi
-536,,Urban Transitway Phase II,AR10,AR10,AR10,AR10,,NTD,,,AR10,AR10,AR10,zi
-537,,Urban Transitway Phase I,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,zi
-538,,Bridgeport Innermodal Transportation Center Phase 2B and 3,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,zi
-539,,High Capacity Transit Corridor Project,AR13,AR13,AR13,AR13,,NTD,,,AR13,AR13,AR13,zi
-540,,Primary Corridor Transportation Project,AR02,AR02,AR06,AR02,,NTD,,,AR02,AR02,AR02,zi
-541,,Division Avenue BRT,AR13,AR13,AR13,AR13,,NTD,,,AR13,AR13,AR13,zi
-542,,Laker Line BRT,PP18,PP18,PP18,PP18,,NTD,,,PP18,PP18,PP18,zi
-543,,Michigan/Grand River BRT,AR14,AR14,AR14,AR14,,NTD,,,AR14,AR14,AR14,zi
-544,,Central Avenue Corridor/Albuquerque Rapid Transit BRT Project,PP17,PP17,PP17,PP17,,NTD,,,PP17,PP17,PP17,zi
-545,,4th Street/Prater Way BRT Project,AR15,AR15,AR15,AR15,,NTD,,,AR15,AR15,AR15,zi
-546,,Virginia Street BRT Extension Project,PP20,PP20,PP20,PP20,,NTD,,,PP20,PP20,PP20,zi
-547,,Resort Corridor Fixed Guideway,AR07,AR07,AR07,AR07,,NTD,,,AR07,AR07,AR07,zi
-548,,Maryland Parkway High Capacity Transit Project,PP21,PP21,PP21,PP21,,NTD,,,PP21,PP21,PP21,zi
-549,,East-West Connector BRT Project/ The AMP,AR15,AR15,AR15,AR15,,NTD,,,AR15,AR15,AR15,zi
-550,,East Corridor Commuter Rail,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,zi
-551,,Medical Center Extension,AR05,AR05,AR05,AR05,,NTD,,,AR05,AR05,AR05,zi
-552,,Memphis Innovation Corridor Project,PP22,PP22,PP22,PP22,,NTD,,,PP22,PP22,PP22,zi
-553,,Dulles Corridor Metrorail Project Extension to Wiehle Avenue ,AR14,AR14,AR14,AR14,,NTD,,,AR14,AR14,AR14,zi
-554,,East West Corridor BRT,PP21,PP21,PP21,PP21,,NTD,,,PP21,PP21,PP21,zi
-555,,Madison East West Bus Rapid Transit,PP22,PP22,PP22,PP22,,NTD,,,PP22,PP22,PP22,zi
-556,,Pawtucket Central Falls Commuter Rail Station,AR13,AR13,AR13,AR13,,NTD,,,AR13,AR13,AR13,zi
-557,,Rhode Island Commuter Rail Improvement,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,zi
-558,,South County Commuter Rail,AR07,AR07,AR07,AR07,,NTD,,,AR07,AR07,AR07,zi
-559,,Transportation Tomorrow South Central Corridor LRT,AR05,AR05,AR05,AR05,,NTD,,,AR05,AR05,AR05,zi
-560,,Wake BRT - Western Corridor Project,PP21,PP21,PP21,PP21,,NTD,,,PP21,PP21,PP21,zi
+ID,ID (letter),ID_complete,Name,Year of initial milestone,Number of stations,Project type,Funding program,Sponsor_1,Sponsor ID_1,Sponsor_2,Sponsor ID_2,City,State,Mode,Author
+100,,100,Downtown-Uptown-Oakland-East End Bus Rapid Transit,PP19,PP19,PP19,PP19,PP19,NTD,,,PP19,PP19,PP19,cam
+101,,101,Corridor one Rail MOS,AR05,AR07,AR07,AR07,,NTD,,,AR07,AR07,AR07,cam
+102,,102,Schuylkill Valley Metro Rail,AR07,AR07,AR07,AR07,,NTD,,,AR07,AR07,AR07,cam
+103,,103,South/North Corridor (MOS-1),AR97,AR00,AR00,AR00,,NTD,,,AR97,AR97,AR97,cam
+104,,104,"Portland, Oregon/Westside-Hillsboro Corridor ",AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,cam
+105,,105,Westside Light Rail to 185th,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,cam
+106,,106,South Corridor I-205 / Portland Mall LRT ,AR07,AR10,AR07,AR07,AR08,NTD,AR08,NA,AR07,AR07,AR07,cam
+107,,107,Portland-Milwaukie Light Rail Project,AR10,AR10,AR10,AR10,AR16,NTD,,,AR10,AR10,AR10,cam
+108,,108,Columbia River Crossing Project,AR14,AR14,AR14,AR14,,NTD,,,AR14,AR14,AR14,cam
+109,,109,Columbia River Crossing Project,AR15,AR15,AR15,AR15,AR15,NA,AR15,NTD,AR15,AR15,AR15,cam
+110,,110,Powell-Division Transit and Development ,PP18,PP18,PP18,PP18,,NTD,,,PP18,PP18,PP18,cam
+111,,111,TriMet Interstate MAX Light Rail ,BA08,AR04,AR02,AR02,BA08,NTD,,,AR02,AR02,AR02,cam
+112,,112,MAX Red Line Extension and Reliability Improvements,AR21,PP19,AR21,AR21,PP19,NTD,NA,NA,AR21,AR21,AR21,cam
+113,,113,Westside Express Service Rail Project ,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,cam
+114,,114,Green Line Light Rail Project ,BA14,BA14,BA14,BA14,,NTD,,,BA14,BA14,BA14,cam
+115,,115,Streetcar Loop Project ,BA16,BA16,BA16,BA16,,NTD,,,BA16,BA16,BA16,cam
+117,,117,Southwest Corridor Light Rail Transit Project,PP19,PP19,PP19,PP19,,NTD,,,PP19,PP19,PP19,cam
+118,,118,Pioneer Parkway EmX BRT ,AR10,AR10,AR10,AR10,,NTD,,,AR10,AR10,AR10,cam
+119,,119,West Eugene EmX Extension,AR14,AR14,AR14,AR14,,NTD,,,AR14,AR14,AR14,cam
+120,,120,Cleveland (Euclid Corridor) ,AR05,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR05,cam
+121,,121,Interstate 71 corridor (MOS-1),AR02,AR02,AR02,AR02,AR02,NA,,,AR02,AR02,AR02,cam
+122,,122,Cleveland Avenue Bus Rapid Transit (aka Northeast Corridor BRT Project),AR14,AR16,AR14,AR14,AR14,NTD,NA,NA,AR14,AR14,AR14,cam
+123,,123,Northeast Corridor LRT ,AR05,AR05,AR05,AR05,,NTD,,,AR05,AR05,AR05,cam
+126,,126,Alaska Rail Road - South Wasilla Track Realignment ,AR05,AR05,AR05,AR05,,NTD,,,AR05,AR05,AR05,cam
+127,,127,South Anchorage Double Track ,AR03,AR03,AR03,AR03,,NTD,,,AR03,AR03,AR03,cam
+129,,129,Norfolk -Virginia Beach Corridor,AR00,AR00,AR00,AR00,AR00,NTD,NA,NA,AR00,AR00,AR00,cam
+130,,130,Norfolk LRT - The Tide Light Rail,BA15,BA15,BA15,BA15,,NTD,,,BA15,BA15,BA15,cam
+131,,131,West End Transitway,PP18,PP18,PP18,PP18,PP18,NA,,,PA18,PA18,PA18,cam
+132,,132,Richmond Highway BRT Project,AR22,AR22,AR22,AR22,,NTD,,,AR22,AR22,AR22,cam
+133,,133,Seattle-Tacoma Sounder Commuter Rail ,AR00,AR00,AR00,AR00,,NTD,,,AR00,AR00,AR00,cam
+134,,134,Central Link Initial Segment (Initial),BA13,BA13,BA13,BA13,BA13,NTD,,,BA13,BA13,BA13,cam
+135,,135,Roosevelt RapidRide BRT ,AR19,AR19,AR19,AR19,,NTD,,,AR19,AR19,AR19,cam
+136,,136,University Link LRT Extension,BA21,BA21,BA21,BA21,BA21,NTD,,,AR07,AR07,AR07,cam
+137,,137,Lynnwood Link Extension,PP21,PP21,PP21,PP21,PP21,NTD,,,PP21,PP21,PP21,cam
+138,,138,Center City Connector Streetcar,AR16,PP20,AR16,AR16,,NTD,,,AR16,AR16,AR16,cam
+139,,139,Federal Way Link Extension,PP21,PP21,PP21,PP21,PP21,NTD,,,AR18,AR18,AR18,cam
+140,,140,Madison Street Corridor BRT,PP19,PP19,PP19,PP19,,NTD,,,PP19,PP19,PP19,cam
+144,,144,Everett to Seattle Commuter Rail,AR06,AR06,AR06,AR06,AR06,NTD,,,AR06,AR06,AR06,cam
+146,,146,Rapid Ride I,AR21,AR21,AR21,AR21,,NTD,,,AR21,AR21,AR21,cam
+147,,147,Rapid Ride K,AR21,AR21,AR21,AR21,,NTD,,,AR21,AR21,AR21,cam
+148,,148,Mill Plain Bus Rapid Transit,AR20,AR20,AR20,AR20,,NTD,,,AR20,AR20,AR20,cam
+149,,149,Fourth Plain Bus Rapid Transit,AR15,AR15,AR15,AR15,,NTD,,,AR15,AR15,AR15,cam
+150,,150,Swift II,AR16,AR16,AR16,AR16,,NTD,,,AR16,AR16,AR16,cam
+151,,151,Tacoma Link Light Rail Expansion,AR16,AR16,AR16,AR16,,NTD,,,AR16,AR16,AR16,cam
+152,,152,Lakewood to Tacoma Commuter Rail,AR06,AR06,AR06,AR06,AR06,NTD,,,AR06,AR06,AR06,cam
+153,,153,Pacific Avenue/SR 7 Corridor,AR20,AR20,AR20,AR20,,NTD,,,AR20,AR20,AR20,cam
+154,,154,Central City Line,AR17,AR17,AR17,AR17,,NTD,,,AR17,AR17,AR17,cam
+155,,155,Metra North Central Corridor,AR05,AR05,AR05,AR05,,NTD,,,AR05,AR05,AR05,cam
+156,,156,Metra South West Corridor,AR05,AR05,AR05,AR05,,NTD,,,AR05,AR05,AR05,cam
+157,,157,Central Area Circulator,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,cam
+158,,158,Ravenswood Line Extension,AR03,AR03,AR03,AR03,,NTD,,,AR03,AR03,AR03,cam
+159,,159,Ashland Avenue BRT Phase I,AR16,AR16,AR16,AR16,AR16,NTD,,,AR15,AR15,AR15,cam
+160,,160,Red and Purple Line Modernization Project ,AR15,AR15,AR15,AR15,,NTD,,,AR15,AR15,AR15,cam
+161,,161,Red and Purple Line Modernization Project Phase I,AR16,AR16,AR16,AR16,,NTD,,,AR16,AR16,AR16,cam
+200,,200,Mason Transportation Corridor,AR03,AR05,AR03,AR03,,NTD,,,AR03,AR03,AR03,am
+201,,201,San Fernando Valley East-West Transit Corridor,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,am
+202,,202,Mid-city/ Exposition LRT,AR03,AR03,AR03,AR03,,NTD,,,AR03,AR03,AR03,am
+203,,203,East Central Corridor,AR95,AR95,AR95,AR95,,NTD,,,AR95,AR95,AR95,am
+204,,204,Eastside Corridor LRT,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,am
+205,,205,MOS-3 ,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,am
+205,b,205b,MOS-3 East Side Extension,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,am
+205,a,205a,MOS-3 North Hollywood Extension,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,am
+205,c,205c,MOS-3 The Mid-City Extension,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,am
+206,,206,Eastside Corridor Extension Phase 2,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,am
+207,,207,LOSSAN Rail Corridor Improvement Project ,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,am
+208,,208,Metro Gold Line Eastside Extension ,BA13,BA13,BA13,BA13,,NTD,,,BA13,BA13,BA13,am
+209,,209,Regional Connector,PP18,PP18,PP18,PP18,,NTD,,,PP18,PP18,PP18,am
+210,,210,Westside Subway Extension Section 1,AR13,AR13,AR13,AR13,,NTD,,,AR13,AR13,AR13,am
+211,,211,Westside Purple Line Extension Section 1,PP20,PP20,PP20,PP20,,NTD,,,PP20,PP20,PP20,am
+212,,212,Westside Purple Line Extension Section 2,PP20,PP20,PP20,PP20,,NTD,,,PP20,PP20,PP20,am
+213,,213,Westside Purple Line Extension Section 3,PP19,PP19,PP19,PP19,,NTD,,,PP19,PP19,PP19,am
+214,,214,Downtown Los Angeles Streetcar,AR16,AR16,AR16,AR16,,NTD,,,AR16,AR16,AR16,am
+215,,215,BART Airport Extension ,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,am
+216,,216,San Francisco (Bayshore) ,AR98,NAV,AR98,AR98,,NTD,,,AR98,AR98,AR98,am
+217,,217,Central Subway LRT ,AR07,AR07,AR07,AR07,,NTD,,,AR07,AR07,AR07,am
+218,,218,Third Street Light Rail Phase 1 ,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,am
+219,,219,Third Street Light Rail Phase 2 – Central Subway,AR13,AR13,AR13,AR13,,NTD,,,AR13,AR13,AR13,am
+220,,220,Van Ness Avenue BRT ,AR14,AR14,AR14,AR14,,NTD,,,AR14,AR14,AR14,am
+221,,221,Transbay Corridor ,PP19,PP19,PP19,PP19,,NTD,,,PP19,PP19,PP19,am
+222,,222,South Corridor (IOS-1),AR99,AR99,AR99,AR99,,NTD,,,AR99,AR99,AR99,am
+223,,223,South Corridor Phase Light Rail Transit Extension,AR07,AR07,AR07,AR07,,NTD,,,AR07,AR07,AR07,am
+224,,224,Downtown Riverfront Streetcar,AR16,AR16,AR16,AR16,,NTD,,,AR16,AR16,AR16,am
+225,,225,Tasman LRT (West Extension),AR95,AR97,AR95,AR95,,NTD,,,AR95,AR95,AR95,am
+226,,226,Tasman LRT (West Extension) Phase 1,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,am
+227,,227,El Camino Real Corridor BRT Project ,AR15,AR15,AR15,AR15,,NTD,,,AR15,AR15,AR15,am
+228,,228,Silicon Valley Berryessa Extension Project,AR13,AR13,AR13,AR13,,NTD,,,AR13,AR13,AR13,am
+229,,229,Silicon Valley Phase II,PP18,PP18,PP18,PP18,,NTD,,,PP18,PP18,PP18,am
+230,,230,Mid Coast Corridor (LR),AR98,AR02,AR98,AR98,,NTD,,,AR98,AR98,AR98,am
+231,,231,Oceanside-Escondido Rail Corridor ,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,am
+232,,232,I-405/SR-55 Transitway and Direct Access HOV Ramps ,AR98,AR98,AR98,AR98,,NTD,,,AR98,AR98,AR98,am
+233,,233,CenterLine LRT Project ,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,am
+234,,234,"San Diego County, California/Mission Valley East ",AR00,AR00,AR00,AR00,,NTD,,,AR00,AR00,AR00,am
+235,,235,Mid-Coast Corridor Transit Project,AR14,AR14,AR14,AR14,,NTD,,,AR14,AR14,AR14,am
+236,,236,Caltrain Peninsula Corridor Electrification Project ,AR17,AR17,AR17,AR17,,NTD,,,AR17,AR17,AR17,am
+237,,237,Blackstone/Kings Canyon Bus Rapid Transit,AR15,AR15,AR15,AR15,,NTD,,,AR15,AR15,AR15,am
+238,,238,Garden Grove Streetcar,AR17,PP19,AR17,AR17,,NTD,,,AR17,AR17,AR17,am
+239,,239,East Bay BRT,AR13,AR14,AR13,AR13,,NTD,,,AR13,AR13,AR13,am
+240,,240,San Rafael to Larkspur Regional Connection,AR15,AR15,AR15,AR15,,NTD,,,AR15,AR15,AR15,am
+241,,241,Redlands Passenger Rail Project,PP18,PP18,PP18,PP18,,NTD,,,PP18,PP18,PP18,am
+242,,242,SPRINTER Light Rail (Oceanside-Escondido) ,AR03,AR03,AR03,AR03,,NTD,,,AR03,AR03,AR03,am
+243,,243,South LRT,AR97,NAV,AR97,AR97,,NTD,,,AR97,AR97,AR97,am
+244,,244,Downtown Connector ,AR00,AR00,AR00,AR00,,NTD,,,AR00,AR00,AR00,am
+245,,245,Mid-Jordan LRT ,AR11,AR11,AR11,AR11,,NTD,,,AR11,AR11,AR11,am
+246,,246,Weber County to Salt Lake City Commuter Rail ,AR05,AR07,AR05,AR05,,NTD,,,AR05,AR05,AR05,am
+301,,301,Canal Streetcar Spine,AR97,AR98,AR97,AR97,,NTD,,,AR97,AR97,AR97,mwj
+302,,302,CBD to University LRT,AR05,AR05,AR05,AR05,,NTD,,,AR05,AR05,AR05,mwj
+303,,303,Central Avenue Bus Rapid Transit Project,PP19,PP19,PP19,PP19,,NTD,,,PP19,PP19,AR18,mwj
+304,,304,"Central Broward Transit Study, Phase I",PP15,PP15,PP15,PP15,,NTD,,,PP15,PP15,PP15,mwj
+305,,305,Central Florida Commuter Rail Transit – Initial Operating Segment,AR13,AR13,AR13,AR13,,NTD,,,AR13,AR13,AR13,mwj
+306,,306,Desire Streetcar Line,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,mwj
+307,,307,Draper Transit Corridor,AR13,AR13,AR13,AR11,,NTD,,,AR11,AR11,AR13,mwj
+308,,308,East First Coast Flyer BRT,PP16,PP16,PP16,PP16,,NTD,,,PP16,PP16,PP16,mwj
+309,,309,East-West Corridor/Miami Intermodal Center,AR98,AR97,AR98,AR98,,NTD,,,AR98,AR98,AR98,mwj
+309,a,309a,East-West Corridor/Miami Intermodal Center (MOS),AR98,AR97,AR98,AR98,,NTD,,,AR98,AR98,AR98,mwj
+310,,310,Flagler to duPont Place,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,mwj
+310,a,310a,Flagler to duPont Place - ASE Extension,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,mwj
+311,,311,FrontRunner North Rail Project,BA13,BA13,BA13,BA13,,NTD,,,BA13,BA13,BA13,mwj
+312,,312,Hudson Tunnel,PP21,PP21,PP21,PP21,,NTD,,,PP21,PP21,AR18,mwj
+313,a,313a,Hudson-Bergen Waterfront Light Rail Transit System (MOS-1),AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,mwj
+313,b,313b,Hudson-Bergen Waterfront Light Rail Transit System (MOS-2),AR10,AR10,AR10,AR10,,NTD,,,AR10,AR10,AR10,mwj
+313,,313,Hudson-Bergen Waterfront Light Rail Transit System ,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,mwj
+314,,314,I-35 Commuter Rail,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,mwj
+315,,315,JTA BRT North Corridor,AR12,AR12,AR12,AR12,,NTD,,,AR12,AR12,AR12,mwj
+316,,316,JTA BRT Southeast Corridor,AR13,AR13,AR13,AR13,,NTD,,,AR13,AR13,AR13,mwj
+317,,317,Largo Metrorail Extension,AR97,AR00,AR97,AR00,,NTD,,,AR00,AR00,AR97,mwj
+318,,318,"Martin Luther King, Jr. East Busway Extension",AR00,https://pittsburgh.pahighways.com/busways/ebusway.html,AR00,AR00,,NTD,,,AR00,AR00,AR00,mwj
+319,,319,Miami (North 27th Avenue Corridor),AR97,AR00,AR98,AR98,,NTD,,,AR98,AR98,AR98,mwj
+320,,320,Minillas Extension,AR01,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,mwj
+321,,321,Newark-Elizabeth Rail Link,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,mwj
+321,a,321a,Newark-Elizabeth Rail Link (MOS I),AR00,AR01,AR00,AR01,,NTD,,,AR01,AR01,AR00,mwj
+324,,324,North Shore LRT Connector,BA16,BA16,BA16,BA16,BA16,NTD,,,BA16,BA16,BA16,mwj
+325,,325,Ogden/Weber State University BRT,PP19,PP19,PP19,PP19,,NTD,,,PP19,PP19,PP19,mwj
+326,,326,Oklahoma city (Map Links),AR98,AR98,AR98,AR98,,NTD,,,AR98,AR98,AR98,mwj
+327,,327,Oklahoma city (Map Links) Park Avenue Rail Loop,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,mwj
+328,,328,Orlando (I-4 Central Florida Light Rail System) (MOS),AR00,AR00,AR98,AR98,,NTD,,,AR98,AR98,AR98,mwj
+329,,329,Phase I Airport Busway/Wabash HOV Facility,AR97,AR96,AR96,AR97,,NTD,,,AR97,AR97,AR96,mwj
+330,,330,Portal North Bridge Replacement,PP21,PP21,PP21,PP21,,NTD,,,PP21,PP21,PP21,mwj
+331,,331,Prospect MAX Bus Rapid Transit,PP15,PP15,PP15,PP15,,NTD,,,PP15,PP15,PP15,mwj
+332,,332,Provo-Orem Bus Rapid Transit,AR14,AR14,AR14,AR14,,NTD,,,AR14,AR14,AR14,mwj
+333,,333,Secaucus Transfer Station,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,mwj
+334,,334,South Corridor Rapid Transit Project,PP19,PP19,PP19,PP19,,NTD,,,PP19,PP19,PP19,mwj
+335,,335,South Extension of the Automated Skyway Express (ASE),AR95,AR95,AR95,AR95,,NTD,,,AR95,AR95,AR95,mwj
+336,,336,South Miami-Dade Bustway Extension,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,mwj
+337,,337,Southtown BRT,AR97,AR97,AR05,AR09,,NTD,,,AR97,AR97,AR05,mwj
+338,,338,Southtown Corridor,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,mwj
+338,a,338a,Southtown Corridor (Segment),AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,mwj
+339,,339,Southwest First Coast Flyer BRT,PP17,PP17,PP17,PP17,PP17,NTD,,,PP17,PP17,PP17,mwj
+340,,340,"St. Clair County, Illinois Corridor ",AR99,AR00,AR99,AR99,,NTD,,,AR99,AR99,AR99,mwj
+340,a,340a,"St. Clair County, Illinois Corridor (IOS-1)",AR99,AR00,AR99,AR99,,NTD,,,AR99,AR99,AR99,mwj
+341,,341,St. Claude and Elysian Fields Streetcar Extensions,PP18,PP18,PP18,PP18,,NTD,,,PP18,PP18,PP18,mwj
+342,,342,Stage II Light Rail Transit Reconstruction Project,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,mwj
+343,,343,Streetcar Expansion,PP21,PP21,AR19,PP21,,NTD,,,AR19,AR19,AR19,mwj
+344,,344,SunRail Connector to Orlando Airport,PP18,PP18,AR17,AR17,,NTD,,,PP18,PP18,PP18,mwj
+345,,345,SunRail Phase II North,PP14,PP14,AR15,AR15,,NTD,,,PP14,PP14,AR15,mwj
+346,,346,SunRail Phase II South,PP17,PP17,AR14,AR14,,NTD,,,AR14,AR14,AR14,mwj
+347,,347,Tampa Bay Regional Rail,AR05,AR05,AR05,AR05,,NTD,,,AR05,AR05,AR05,mwj
+348,,348,Tampa Streetcar Extension Project,PP21,PP21,PP21,PP21,,NTD,,,PP21,PP21,PP21,mwj
+349,,349,TramLinkBR,PP18,PP18,PP18,PP18,,NTD,,,PP18,PP18,PP18,mwj
+350,,350,TRAX Light Rail System- Medical Center Extension,BA07,AR05,AR05,BA07,,NTD,,,AR05,AR05,AR05,mwj
+351,,351,Tren Urbano,AR98,AR98,AR04,AR04,,NTD,,,AR98,AR98,AR04,mwj
+352,,352,Tri-County Commuter Rail,AR97,AR01,AR97,AR97,,NTD,,,AR97,AR97,AR97,mwj
+352,a,352a,Tri-County Commuter Rail / Segment 5,AR01,AR01,AR01,AR01,,NTD,,,AR01,AR01,AR01,mwj
+353,,353,Tri-Rail Double-track Corridor Improvement,AR98,AR98,AR05,AR05,,NTD,,,AR98,AR98,AR05,mwj
+354,,354,Wave Streetcar,AR14,AR14,AR14,AR15,,NTD,,,AR14,AR14,AR14,mwj
+401,,401,Atlanta/North Line Extension,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,cox
+402,,402,Baltimore LRT Extensions ,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,cox
+403,,403,Baltimore Central Light Rail Double Tracking ,AR00,AR00,AR00,AR00,,NTD,,,AR00,AR00,AR00,cox
+404,,404,MARC Commuter Rail Improvements,AR00,AR00,AR00,AR00,,NTD,,,AR00,AR00,AR00,cox
+405,,405,MARC Penn-Camden connection ,AR00,AR00,AR00,AR00,,NTD,,,AR00,AR00,AR00,cox
+406,,406,MARC Frederick Extension & Rolling Stock Procurement ,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,cox
+407,,407,Baltimore Red Line,AR13,AR14,AR13,AR13,,NTD,,,AR13,AR13,AR13,cox
+408,,408,Maryland National Capital Purple Line,PP21,PP21,PP21,PP21,,NTD,,,PP21,PP21,PP21,cox
+409,,409,Silver Line,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,cox
+410,,410,Green Line Extension,PP21,PP21,PP21,PP21,,NTD,,,PP21,PP21,PP21,cox
+411,,411,Lowell-Nashua Commuter Rail Extension ,AR00,AR02,AR00,AR00,,NTD,,,AR00,AR00,AR00,cox
+412,,412,Burlington to Charlotte Corridor ,NA,AR98,AR97,AR97,AR97,NA,NA,NA,AR97,AR97,AR97,cox
+413,,413,Burlington-Essex Commuter Rail Project,AR97,AR98,AR97,AR97,,NTD,,,AR97,AR97,AR97,cox
+414,,414,Queens Connector,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,cox
+415,,415,Long Island Rail Road East Side Access,AR00,AR00,AR00,AR00,,NTD,,,AR00,AR00,AR00,cox
+416,,416,Second Avenue Subway,PP22,PP22,PP22,PP22,,NTD,,,PP22,PP22,PP22,cox
+417,,417,Canarsie Line Power Improvements,PP16,PP16,PP16,PP16,,NTD,,,PP16,PP16,PP16,cox
+418,,418,Woodhaven Boulevard Select Bus Service,PP19,PP19,PP19,PP19,,NTD,,,PP19,PP19,PP19,cox
+419,,419,Washington/Western Bus Rapid Transit Line,PP17,PP17,PP17,PP17,,NTD,,,PP17,PP17,PP17,cox
+420,,420,River Corridor/Blue Line Bus Rapid Transit ,PP15,PP15,PP15,PP15,,NTD,,,PP15,PP15,PP15,cox
+421,,421,Hudson Tunnel,PP21,PP21,PP21,PP21,,NTD,,,PP21,PP21,PP21,cox
+422,,422,Dallas North Central Corridor LRT,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,cox
+423,,423,Dallas Trinity Railtran Phase 2,AR97,AR01,AR97,AR97,,NTD,,,AR97,AR97,AR97,cox
+424,,424,Dallas South Oak Cliff Corridor,Spielberg,Spielberg,Spielberg,Spielberg,,NTD,,,Spielberg,Spielberg,Spielberg,cox
+425,,425,Dallas Northwest / Southeast LRT MOS ,BA15,BA15,BA15,BA15,,NTD,,,BA15,BA15,BA15,cox
+426,,426,Dallas Red and Blue Line Platform Extensions,PP18,PP18,PP18,PP18,,NTD,,,PP18,PP18,PP18,cox
+427,,427,Dallas CBD Second Light Rail Alignment (D2 Subway),PP15,PP15,PP15,PP15,,NTD,,,PP15,PP15,PP15,cox
+428,,428,Houston Regional Bus Plan ,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,cox
+429,,429,Houston North Corridor LRT,AR07,AR07,AR07,AR07,,NTD,,,AR07,AR07,AR07,cox
+430,,430,Houston Southeast Corridor LRT,AR13,AR13,AR13,AR13,,NTD,,,AR13,AR13,AR13,cox
+431,,431,Houston University Corridor LRT,AR13,AR13,AR13,AR13,,NTD,,,AR13,AR13,AR13,cox
+432,,432,Houston Downtown to Astrodome Light Rail,AR01,AR01,AR01,AR01,,NTD,,,AR01,AR01,AR01,cox
+433,,433,Northwest/North Central Corridor ,AR00,AR01,AR00,AR01,,NTD,,,AR00,AR00,AR00,cox
+434,,434,Austin Light Rail Corridors,AR01,AR01,AR01,AR01,,NTD,,,AR01,AR01,AR01,cox
+435,,435,MetroRapid Bus Rapid Transit Project ,BA18,BA18,BA18,BA18,,NTD,,,BA18,BA18,BA18,cox
+436,,436,Dyer Avenue Bus Rapid Transit System,AR13,AR13,AR13,AR13,,NTD,,,AR13,AR13,AR13,cox
+437,,437,Montana Avenue Rapid Transit System,PP14,PP14,PP14,PP14,,NTD,,,PP14,PP14,PP14,cox
+438,,438,Sun Metro Areas Rapid Transit (SMART) Starter Line ,AR05,AR05,AR05,AR05,,NTD,,,AR05,AR05,AR05,cox
+439,,439,TEX Rail,PP20,PP20,PP20,PP20,,NTD,,,PP20,PP20,PP20,cox
+440,,440,San Antonio Modern Streetcar Project,PP14,PP14,PP14,PP14,,NTD,,,PP14,PP14,PP14,cox
+441,,441,Rail Trolley Extension ,AR01,AR01,AR01,AR01,,NTD,,,AR01,AR01,AR01,cox
+442,,442,Waco Rapid Transit Corridor,PP19,PP19,PP19,PP19,,NTD,,,PP19,PP19,PP19,cox
+443,,443,Denver SW Corridor LRT,AR97,AR97,AR97,AR97,,NTD,,,AR97,AR97,AR97,cox
+444,,444,Denver West Corridor LRT,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,cox
+445,,445,Denver Eagle Commuter Rail (East Corridor and Gold Line),PP17,PP17,PP17,PP17,,NTD,,,PP17,PP17,PP17,cox
+446,,446,Denver Southeast Corridor LRT ,AR01,AR01,AR01,AR01,,NTD,,,AR01,AR01,AR01,cox
+447,,447,Denver Southeast Rail Extension,PP15,PP15,PP15,PP15,,NTD,,,PP15,PP15,PP15,cox
+501,,501,Douglas Branch Reconstruction,AR07,AR07,AR07,AR07,,NTD,,,AR07,AR07,AR07,zi
+502,,502,Union-Pacific West Line Extension,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,zi
+503,,503,Little Rock River Rail Project,AR00,AR00,AR00,AR00,,NTD,,,AR00,AR00,AR00,zi
+504,,504,Central Phoenix East Valley Light Rail,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,zi
+505,,505,South Central Phoenix LRT/Downtown Hub,PP19,PP19,PP19,PP19,,NTD,,,PP19,PP19,PP19,zi
+506,,506,Northwest Phase II LRT Extension,PP19,PP19,PP19,PP19,,NTD,,,PP19,PP19,PP19,zi
+507,,507,Modern Streetcar Project,AR11,AR11,AR11,AR11,,NTD,,,AR11,AR11,AR11,zi
+508,,508,Tempe Streetcar,AR14,AR14,AR14,AR14,,NTD,,,AR14,AR14,AR14,zi
+509,,509,Central Mesa Light Rail Transit Extension,BA19,BA19,BA19,BA19,,NTD,,,BA19,BA19,BA19,zi
+510,,510,Transit Spine BRT,PP18,PP18,PP18,PP18,,NTD,,,PP18,PP18,PP18,zi
+511,,511,Mountain Link BRT Project,BA14,BA14,BA14,BA14,,NTD,,,BA14,BA14,BA14,zi
+512,,512,Northstar Corridor Rail,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,zi
+513,,513,Southwest Light Rail Transit,PP21,NAV,PP21,PP21,PP21,NTD,,,PP16,PP16,PP16,zi
+514,,514,METRO Blue Line Extension,AR16,AR16,AR16,AR16,,NTD,,,AR16,AR16,AR16,zi
+515,,515,METRO Orange Line Bus Rapid Transit Project,AR16,AR16,AR16,AR16,,NTD,,,AR16,AR16,AR16,zi
+516,,516,Hiawatha Corridor LRT,AR05,AR05,AR05,AR05,,NTD,,,AR05,AR05,AR05,zi
+517,,517,Central Corridor LRT,BA20,BA20,BA20,BA20,,NTD,,,BA20,BA20,BA20,zi
+518,,518,METRO Gold Bus Rapid Transit,PP19,PP19,PP19,PP19,,NTD,,,PP19,PP19,PP19,zi
+519,,519,Rochester Downtown Circulator Bus Rapid Transit,PP22,PP22,PP22,PP22,,NTD,,,PP22,PP22,PP22,zi
+520,,520,Wilmington to Newark Commuter Rail Improvements,AR07,AR07,AR07,AR07,,NTD,,,AR07,AR07,AR07,zi
+521,,521,LYNX Blue Line Extension - Northeast Corridor,AR13,AR13,AR13,AR13,,NTD,,,AR13,AR13,AR13,zi
+522,,522,CityLYNX Gold Line Phase 2 Streetcar,AR15,AR15,AR15,AR15,,NTD,,,AR15,AR15,AR15,zi
+523,,523,Blue Line Capacity Expansion,PP16,PP16,PP16,PP16,,NTD,,,PP16,PP16,PP16,zi
+524,,524,South Corridor Light Rail Project,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,zi
+525,,525,Durham-Orange LRT,PP17,PP17,PP17,PP17,,NTD,,,PP17,PP17,PP17,zi
+526,,526,Research Triangle Regional Rail System,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,zi
+527,,527,North-South BRT,PP21,PP21,PP21,PP21,,NTD,,,PP21,PP21,PP21,zi
+528,,528,Wake Bus Rapid Transit: New Bern Avenue Project,PP21,PP21,PP21,PP21,,NTD,,,PP21,PP21,PP21,zi
+529,,529,Lowcountry Rapid Transit Project,PP22,PP22,PP22,PP22,,NTD,,,PP22,PP22,PP22,zi
+530,,530,IndyGO Purple Line BRT,PP21,PP21,PP21,PP21,,NTD,,,PP21,PP21,PP21,zi
+531,,531,Red Line All-Electric BRT,PP18,PP18,PP18,PP18,,NTD,,,PP18,PP18,PP18,zi
+532,,532,IndyGO Blue Line Rapid Transit,PP21,PP21,PP21,PP21,,NTD,,,PP21,PP21,PP21,zi
+533,,533,West Lake Corridor,PP22,PP22,PP22,PP22,,NTD,,,PP22,PP22,PP22,zi
+534,,534,South Shore Line /Double Track Northwest Indiana,PP22,PP22,PP22,PP22,,NTD,,,PP22,PP22,PP22,zi
+535,,535,New Britain Hartford Busway,AR01,AR01,AR01,AR01,,NTD,,,AR01,AR01,AR01,zi
+536,,536,Urban Transitway Phase II,AR10,AR10,AR10,AR10,,NTD,,,AR10,AR10,AR10,zi
+537,,537,Urban Transitway Phase I,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,zi
+538,,538,Bridgeport Innermodal Transportation Center Phase 2B and 3,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,zi
+539,,539,High Capacity Transit Corridor Project,AR13,AR13,AR13,AR13,,NTD,,,AR13,AR13,AR13,zi
+540,,540,Primary Corridor Transportation Project,AR02,AR02,AR06,AR02,,NTD,,,AR02,AR02,AR02,zi
+541,,541,Division Avenue BRT,AR13,AR13,AR13,AR13,,NTD,,,AR13,AR13,AR13,zi
+542,,542,Laker Line BRT,PP18,PP18,PP18,PP18,,NTD,,,PP18,PP18,PP18,zi
+543,,543,Michigan/Grand River BRT,AR14,AR14,AR14,AR14,,NTD,,,AR14,AR14,AR14,zi
+544,,544,Central Avenue Corridor/Albuquerque Rapid Transit BRT Project,PP17,PP17,PP17,PP17,,NTD,,,PP17,PP17,PP17,zi
+545,,545,4th Street/Prater Way BRT Project,AR15,AR15,AR15,AR15,,NTD,,,AR15,AR15,AR15,zi
+546,,546,Virginia Street BRT Extension Project,PP20,PP20,PP20,PP20,,NTD,,,PP20,PP20,PP20,zi
+547,,547,Resort Corridor Fixed Guideway,AR07,AR07,AR07,AR07,,NTD,,,AR07,AR07,AR07,zi
+548,,548,Maryland Parkway High Capacity Transit Project,PP21,PP21,PP21,PP21,,NTD,,,PP21,PP21,PP21,zi
+549,,549,East-West Connector BRT Project/ The AMP,AR15,AR15,AR15,AR15,,NTD,,,AR15,AR15,AR15,zi
+550,,550,East Corridor Commuter Rail,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,zi
+551,,551,Medical Center Extension,AR05,AR05,AR05,AR05,,NTD,,,AR05,AR05,AR05,zi
+552,,552,Memphis Innovation Corridor Project,PP22,PP22,PP22,PP22,,NTD,,,PP22,PP22,PP22,zi
+553,,553,Dulles Corridor Metrorail Project Extension to Wiehle Avenue ,AR14,AR14,AR14,AR14,,NTD,,,AR14,AR14,AR14,zi
+554,,554,East West Corridor BRT,PP21,PP21,PP21,PP21,,NTD,,,PP21,PP21,PP21,zi
+555,,555,Madison East West Bus Rapid Transit,PP22,PP22,PP22,PP22,,NTD,,,PP22,PP22,PP22,zi
+556,,556,Pawtucket Central Falls Commuter Rail Station,AR13,AR13,AR13,AR13,,NTD,,,AR13,AR13,AR13,zi
+557,,557,Rhode Island Commuter Rail Improvement,AR02,AR02,AR02,AR02,,NTD,,,AR02,AR02,AR02,zi
+558,,558,South County Commuter Rail,AR07,AR07,AR07,AR07,,NTD,,,AR07,AR07,AR07,zi
+559,,559,Transportation Tomorrow South Central Corridor LRT,AR05,AR05,AR05,AR05,,NTD,,,AR05,AR05,AR05,zi
+560,,560,Wake BRT - Western Corridor Project,PP21,PP21,PP21,PP21,,NTD,,,PP21,PP21,PP21,zi

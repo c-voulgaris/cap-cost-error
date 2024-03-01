@@ -1,0 +1,190 @@
+---
+title: "check_individualRA"
+author: "Tianyu Su"
+date: "2/29/2024"
+output: html_document
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_knit$set(root.dir = "/Users/su/Desktop/Research/GSD_RA/cap_cost/cap-cost-error")
+```
+
+```{r, include = FALSE}
+
+library(readxl)
+library(readr)
+library(tidyverse)
+library(dplyr)
+library(lubridate)
+library(ggplot2)
+
+```
+
+1 "project-data" folder
+```{r}
+
+# load combined project_data file
+project_data_all <- read_csv("project-data/project-data-all.csv")
+
+# load individual project_data files
+project_data_cox <- read_csv("project-data/by_individual_ra/alex-cox-project-data.csv") %>%
+  mutate(Author = "cox")
+project_data_mwj <- read_excel("project-data/by_individual_ra/final_project-data_mwj.xlsx") %>%
+  mutate(Author = "mwj")
+project_data_cam <- read_csv("project-data/by_individual_ra/project-data - Cam-current.csv") %>%
+  mutate(Author = "cam")
+project_data_am <- read_csv("project-data/by_individual_ra/project-data-am.csv") %>%
+  mutate(Author = "am")
+project_data_zi <- read_csv("project-data/by_individual_ra/Project-Data-zi.csv") %>%
+  mutate(Author = "zi")
+
+```
+
+```{r}
+
+project_data_all
+
+project_data_all %>%
+  group_by(Author) %>%
+  summarise(count = n())
+
+```
+
+```{r}
+
+project_data_individual_combined_ID <- rbind(project_data_cox %>% select(ID, Author), project_data_mwj %>% select(ID, Author), project_data_cam %>% select(ID, Author), project_data_am %>% select(ID, Author), project_data_zi %>% select(ID, Author))
+
+project_data_individual_missing <- project_data_individual_combined_ID %>%
+  filter(!is.na(ID)) %>%
+  filter(!(ID %in% project_data_all$ID_complete))
+
+project_data_individual_missing
+
+write.csv(project_data_individual_missing, "project-data/project_data_individual_missing.csv")
+
+```
+
+2 "project-data-srcs" folder
+```{r}
+
+# load combined project_data_srcs file
+project_data_srcs_all <- read_csv("project-data/project-data-all.csv")
+
+# load individual project_data_srcs files
+project_data_srcs_cox <- read_csv("project-data-srcs/by_individual_ra/alex-cox-project-sources.csv") %>%
+  mutate(Author = "cox")
+project_data_srcs_mwj <- read_excel("project-data-srcs/by_individual_ra/final_project-data-srcs_mwj.xlsx") %>%
+  mutate(Author = "mwj")
+project_data_srcs_cam <- read_csv("project-data-srcs/by_individual_ra/project-data-srcs - Cam-current.csv") %>%
+  mutate(Author = "cam")
+project_data_srcs_am <- read_csv("project-data-srcs/by_individual_ra/project-data-srcs-am.csv") %>%
+  mutate(Author = "am")
+project_data_srcs_zi <- read_csv("project-data-srcs/by_individual_ra/project-data-srcs-zi.csv") %>%
+  mutate(Author = "zi")
+
+```
+
+```{r}
+
+project_data_srcs_all
+
+project_data_srcs_all %>%
+  group_by(Author) %>%
+  summarise(count = n())
+
+```
+
+```{r}
+
+project_data_srcs_individual_combined_ID <- rbind(project_data_srcs_cox %>% select(ID, Author), project_data_srcs_mwj %>% select(ID, Author), project_data_srcs_cam %>% select(ID, Author), project_data_srcs_am %>% select(ID, Author), project_data_srcs_zi %>% select(ID, Author))
+
+project_data_srcs_individual_missing <- project_data_srcs_individual_combined_ID %>%
+  filter(!is.na(ID)) %>%
+  filter(!(ID %in% project_data_srcs_all$ID_complete))
+
+project_data_srcs_individual_missing
+
+```
+
+3 "year-data" folder
+```{r}
+
+# load combined year_data file
+year_data_all <- read_csv("year-data/year-data-all.csv") %>%
+  mutate(ID_Year = paste0(ID_complete, "_", Year))
+
+# load individual year_data files
+year_data_cox <- read_csv("year-data/by_individual_ra/alex-cox-year-data.csv") %>%
+  mutate(Author = "cox")
+year_data_mwj <- read_excel("year-data/by_individual_ra/final_year-data_mwj.xlsx") %>%
+  mutate(Author = "mwj")
+year_data_cam <- read_csv("year-data/by_individual_ra/year-data - Cam-current.csv") %>%
+  mutate(Author = "cam")
+year_data_am <- read_csv("year-data/by_individual_ra/year-data-am.csv") %>%
+  mutate(Author = "am")
+year_data_zi <- read_csv("year-data/by_individual_ra/year-data-zi.csv") %>%
+  mutate(Author = "zi")
+
+```
+
+```{r}
+
+year_data_all
+
+year_data_individual_combined <- rbind(year_data_cox %>% select(ID, Year, Author), year_data_mwj %>% select(ID, Year, Author), year_data_cam %>% select(ID, Year, Author), year_data_am %>% select(ID, Year, Author), year_data_zi %>% select(ID, Year, Author)) %>%
+  filter(!is.na(ID)) %>%
+  filter(!is.na(Year)) %>%
+  mutate(ID_Year = paste0(ID, "_", Year))
+
+year_data_individual_combined
+
+year_data_individual_missing <- year_data_individual_combined %>%
+  filter(!is.na(ID_Year)) %>%
+  filter(!(ID_Year %in% year_data_all$ID_Year))
+
+year_data_individual_missing
+
+write.csv(year_data_individual_missing, "year-data/year_data_individual_missing.csv")
+
+```
+
+3 "year-data-src" folder
+```{r}
+
+# load combined year_data_srcs file
+year_data_srcs_all <- read_csv("year-data-srcs/year-data-srcs-all.csv") %>%
+  mutate(ID_Year = paste0(ID_complete, "_", Year))
+
+# load individual year_data files
+year_data_srcs_cox <- read_csv("year-data-srcs/by_individual_ra/alex-cox-year-sources.csv") %>%
+  mutate(Author = "cox")
+year_data_srcs_mwj <- read_excel("year-data-srcs/by_individual_ra/final_year-data-srcs_mwj.xlsx") %>%
+  mutate(Author = "mwj")
+year_data_srcs_cam <- read_csv("year-data-srcs/by_individual_ra/year-data-srcs - Cam - current.csv") %>%
+  mutate(Author = "cam")
+year_data_srcs_am <- read_csv("year-data-srcs/by_individual_ra/year-data-srcs-am.csv") %>%
+  mutate(Author = "am")
+year_data_srcs_zi <- read_csv("year-data-srcs/by_individual_ra/year-data-srcs-zi.csv") %>%
+  mutate(Author = "zi")
+
+```
+
+```{r}
+
+year_data_srcs_all
+
+year_data_srcs_individual_combined <- rbind(year_data_srcs_cox %>% select(ID, Year, Author), year_data_srcs_mwj %>% select(ID, Year, Author), year_data_srcs_cam %>% select(ID, Year, Author), year_data_srcs_am %>% select(ID, Year, Author), year_data_srcs_zi %>% select(ID, Year, Author)) %>%
+  filter(!is.na(ID)) %>%
+  filter(!is.na(Year)) %>%
+  mutate(ID_Year = paste0(ID, "_", Year))
+
+year_data_srcs_individual_combined
+
+year_data_srcs_individual_missing <- year_data_srcs_individual_combined %>%
+  filter(!is.na(ID_Year)) %>%
+  filter(!(ID_Year %in% year_data_srcs_all$ID_Year))
+
+year_data_srcs_individual_missing
+
+```
+
