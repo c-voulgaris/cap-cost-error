@@ -118,33 +118,33 @@ in the "Notes on spreadsheets" word document in the Notes and Background directo
 
 ## Spot check projects
 
-106		South Corridor I-205 / Portland Mall LRT 
-107		Portland-Milwaukie Light Rail Project
-108		Columbia River Crossing Project
-109		Columbia River Crossing Project
-111		TriMet Interstate MAX Light Rail
-112		MAX Red Line Extension and Reliability Improvements
-113		Westside Express Service Rail Project - Wilsonville - Beaverton
-117		Southwest Corridor Light Rail Transit Project
-119		West Eugene EmX Extension
-121		Interstate 71 corridor (MOS-1)
-122		Cleveland Avenue Bus Rapid Transit (aka Northeast Corridor BRT Project)
-124		Cleveland Avenue Bus Rapid Transit [This has been deleted and combined with 122.]
-125		Craig, Alaska (Alaska-Hollis Ketchikan Ferry) [This has been deleted as it does not appear to be within the scope of this project.]
-128		Alaska Marine Highway System [This has been deleted as it does not appear to be within the scope of this project.]
-129		Norfolk -Virginia Beach Corridor
-130		Norfolk LRT - The Tide Light Rail
-131		West End Transitway
-134		Central Link Initial Segment (Initial)
-136		University Link LRT Extension
-137		Lynnwood Link Extension
-139		Federal Way Link Extension
-141		Link Extension and North Link [This has been deleted as it is the same as 143.]
-142		Airport Link [This has been deleted as it was ultimately included in 134 and the financials are not reported separately.]
-143		North Link [This has been deleted as North Link was ultimately divided into different projects, including University Link at 136.]
-144		Everett to Seattle Commuter Rail
-145		Federal Way Link Extension [This has been deleted as it is the same as 139]
-152		Lakewood to Tacoma Commuter Rail
-159		Ashland Avenue BRT Phase I
-339		Southwest First Coast Flyer BRT
-513		Southwest Light Rail Transit
+* 106		South Corridor I-205 / Portland Mall LRT 
+* 107		Portland-Milwaukie Light Rail Project
+* 108		Columbia River Crossing Project
+* 109		Columbia River Crossing Project
+* 111		TriMet Interstate MAX Light Rail
+* 112		MAX Red Line Extension and Reliability Improvements
+* 113		Westside Express Service Rail Project - Wilsonville - Beaverton
+* 117		Southwest Corridor Light Rail Transit Project
+* 119		West Eugene EmX Extension
+* 121		Interstate 71 corridor (MOS-1)
+* 122		Cleveland Avenue Bus Rapid Transit (aka Northeast Corridor BRT Project)
+* 124		Cleveland Avenue Bus Rapid Transit [This has been deleted and combined with 122.]
+* 125		Craig, Alaska (Alaska-Hollis Ketchikan Ferry) [This has been deleted as it does not appear to be within the scope of this project.]
+* 128		Alaska Marine Highway System [This has been deleted as it does not appear to be within the scope of this project.]
+* 129		Norfolk -Virginia Beach Corridor
+* 130		Norfolk LRT - The Tide Light Rail
+* 131		West End Transitway
+* 134		Central Link Initial Segment (Initial)
+* 136		University Link LRT Extension
+* 137		Lynnwood Link Extension
+* 139		Federal Way Link Extension
+* 141		Link Extension and North Link [This has been deleted as it is the same as 143.]
+* 142		Airport Link [This has been deleted as it was ultimately included in 134 and the financials are not reported separately.]
+* 143		North Link [This has been deleted as North Link was ultimately divided into different projects, including University Link at 136.]
+* 144		Everett to Seattle Commuter Rail
+* 145		Federal Way Link Extension [This has been deleted as it is the same as 139]
+* 152		Lakewood to Tacoma Commuter Rail
+* 159		Ashland Avenue BRT Phase I
+* 339		Southwest First Coast Flyer BRT
+* 513		Southwest Light Rail Transit
