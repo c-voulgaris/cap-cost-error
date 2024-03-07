@@ -5,6 +5,7 @@ following research assistants over the years (listed alphabetically):
 * Charuvi Begwani
 * Sue Chen
 * Alex Cox
+* Michaela Gwiazda
 * Zoe Iacovino
 * Ryan Johnson
 * Mojdeh Mahdavi
