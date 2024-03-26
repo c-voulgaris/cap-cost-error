@@ -1,3 +1,11 @@
+Notes: 3/26/2024
+
+years spreadsheet:
+
+1 row for each milestone for each project.
+"Year" column refers to the year in which the project entered that development stage (milestone)
+
+
 # Capital Cost Escalation and Overrun for Federally-funded Fixed-guideway transit
 This is a project of Dr Carole Turley Voulgaris, which has been supported by the
 following research assistants over the years (listed alphabetically):
